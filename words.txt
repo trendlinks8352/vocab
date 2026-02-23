@@ -1,0 +1,95 @@
+disquieting - 불안하게 하는, 동요시키는
+hackneyed - 진부한, 낡아빠진
+contrived - 억지스러운, 인위적인
+madcap - 무모한, 엉뚱한, 대책 없는
+acerbic - 신랄한, 가시 돋친
+flippant - 경박한, 진지하지 못한
+yearn for - 갈망하다, 동경하다
+delusory - 기만적인, 현혹하는
+forte - 강점, 장기
+pretension - 허세, 가식
+obscure (verb) - 가리다, 흐리게 하다
+annihilate - 전멸시키다, 완파하다
+dismantle - 해체하다, 분해하다
+irritated - 가벼운 짜증 / Mild
+annoyed - 현재 / Mild
+frustrated - 목표좌절 / Mild
+resentful - 억울함 / Medium
+indignant - 도덕적 분노 / Medium
+critical - 판단적 / Medium
+reproachful - 비난 / Medium
+outraged - 도덕·강 / Strong
+furious - 강한 분노 / Strong
+incensed - 격분 / Strong
+scathing - 신랄 / Strong
+vehement - 격렬 / Strong
+uneasy - 불편 / Mild
+apprehensive - 미래 걱정 / Mild
+wary - 경계 / Mild
+anxious - 불안 / Medium
+distressed - 고통 / Medium
+troubled - 심란 / Medium
+alarmed - 위기 / Strong
+terrified - 공포 / Strong
+petrified - 얼어붙음 / Strong
+horrified - 충격 / Strong
+content - 만족 / Mild
+pleased - 기쁜 / Mild
+hopeful - 미래 / Mild
+delighted - 매우 기쁨 / Medium
+joyful - 행복 / Medium
+optimistic - 미래 긍정 / Medium
+elated - 고양 / Strong
+ecstatic - 황홀 / Strong
+triumphant - 승리감 / Strong
+wistful - 과거·회상 / Mild
+somber - 중립·분위기 / Mild
+gloomy - 현재·우울 / Mild
+pensive - 성찰 / Mild
+subdued - 억제됨 / Mild
+sad - 현재 / Medium
+melancholic - 과거·잔잔 / Medium
+mournful - 상실 / Medium
+downcast - 자기 / Medium
+disheartened - 미래 / Medium
+despondent - 미래·희망상실 / Strong
+dejected - 자기·낙담 / Strong
+heartbroken - 상실 / Strong
+despairing - 미래·절망 / Strong
+inconsolable - 강한 상실 / Strong
+skeptical - 의심 (회의적인)
+doubtful - 회의적 (의심스러운)
+dismissive - 무시 (일축하는)
+cynical - 냉소 (비꼬는)
+contemptuous - 경멸 (깔보는)
+scornful - 조롱 (경멸하는)
+derisive - 비웃음 (조소하는)
+sardonic - 비꼼 (냉소적인 웃음)
+ironic - 반어적 (비꼬는)
+detached - 거리둠 (초연한)
+aloof - 냉담 (쌀쌀맞은)
+indifferent - 무관심 (관심 없는)
+stoic - 감정억제 (금욕적인)
+restrained - 절제 (자제하는)
+measured - 신중 (절제된)
+reflective - 성찰적 (반성하는)
+contemplative - 사색적 (관조하는)
+introspective - 내면지향 (자기 성찰적인)
+thoughtful - 사려 깊은 (생각이 깊은)
+probing - 탐구적 (면밀히 살피는)
+nuanced - 미묘한 (뉘앙스가 있는)
+balanced - 균형 잡힌 (공정한)
+analytical - 분석적 (해석적인)
+supportive - 지지 (옹호하는)
+persuasive - 설득적 (설득력 있는)
+assertive - 단정적 (자기주장이 강한)
+tentative - 조심스러운 (잠정적인)
+ambivalent - 양가적 (이중적인)
+conflicted - 내적 갈등 (갈등하는)
+nostalgic - 과거 향수 (그리운)
+celebratory - 찬양적 (축하하는)
+accusatory - 비난조 (고발하는)
+satirical - 풍자적 (비꼬는)
+authoritative - 권위적 (믿을 만한)
+pragmatic - 실용적 (현실적인)
+idealistic - 이상주의적 (이상을 추구하는)
