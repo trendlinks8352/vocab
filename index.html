@@ -153,6 +153,32 @@ header{display:flex;align-items:center;padding:1.1rem 2rem;border-bottom:1px sol
   .stats-grid{grid-template-columns:repeat(2,1fr);}
   .add-card{padding:1.5rem 1.4rem;}
 }
+
+/* ── WORDBOOK TAB ── */
+.wb-wrap{width:100%;max-width:860px;}
+.wb-card{background:var(--dark);border:1px solid var(--border);border-radius:16px;padding:1.6rem 1.8rem;box-shadow:0 8px 40px rgba(0,0,0,0.35);}
+.wb-head{display:flex;gap:0.6rem;flex-wrap:wrap;align-items:center;justify-content:space-between;margin-bottom:1rem;}
+.wb-title{font-family:'Playfair Display',serif;font-size:1.2rem;color:var(--gold);}
+.wb-controls{display:flex;gap:0.5rem;flex-wrap:wrap;align-items:center;}
+.wb-input,.wb-select{font-family:'JetBrains Mono',monospace;font-size:0.72rem;background:var(--mid);border:1px solid var(--border);border-radius:7px;padding:0.45rem 0.7rem;color:var(--text);outline:none;}
+.wb-input:focus,.wb-select:focus{border-color:var(--gold-dim);}
+.wb-list{display:flex;flex-direction:column;gap:0.5rem;max-height:62vh;overflow-y:auto;margin-top:0.8rem;}
+.wb-item{background:var(--mid);border:1px solid var(--border);border-radius:10px;padding:0.85rem 1rem;}
+.wb-top{display:flex;gap:0.7rem;align-items:baseline;flex-wrap:wrap;}
+.wb-word{font-family:'JetBrains Mono',monospace;font-size:0.86rem;color:var(--text);font-weight:700;}
+.wb-ko{font-size:0.8rem;color:var(--muted);font-style:italic;flex:1;min-width:180px;}
+.wb-meta{display:flex;gap:0.6rem;flex-wrap:wrap;margin-top:0.55rem;font-family:'JetBrains Mono',monospace;font-size:0.68rem;color:var(--muted);}
+.wb-pill{border:1px solid var(--border);border-radius:999px;padding:0.16rem 0.55rem;white-space:nowrap;}
+.wb-pill.due{border-color:var(--red);color:#e74c3c;background:rgba(192,57,43,0.08);}
+.wb-pill.ok{border-color:rgba(46,204,113,0.35);color:var(--green);background:rgba(46,204,113,0.06);}
+.wb-ex{margin-top:0.65rem;line-height:1.7;font-size:0.92rem;font-family:'Playfair Display',serif;color:var(--text);}
+.wb-ex .hl{color:var(--gold);font-weight:700;}
+.wb-det{margin-top:0.6rem;border-top:1px dashed rgba(74,68,56,0.7);padding-top:0.6rem;}
+.wb-det summary{cursor:pointer;font-family:'JetBrains Mono',monospace;font-size:0.68rem;color:var(--muted);list-style:none;}
+.wb-det summary::-webkit-details-marker{display:none;}
+.wb-det summary:hover{color:var(--gold);}
+.wb-kosent{margin-top:0.55rem;font-size:0.82rem;color:var(--muted);font-style:italic;line-height:1.7;}
+
 </style>
 </head>
 <body>
@@ -366,6 +392,7 @@ function render() {
   const app = document.getElementById('app');
   if (mode==='stats') { renderStats(app); return; }
   if (mode==='add')   { renderAdd(app);   return; }
+  if (mode==='wordbook') { renderWordbook(app); return; }
   queue = buildQueue(mode);
   qIdx  = 0;
   if (!queue.length) { renderEmpty(app); return; }
@@ -390,6 +417,7 @@ function renderShell(app) {
       <button class="mode-btn ${mode==='review'?'active':''}" onclick="switchMode('review')">복습${due>0?`<span class="badge">${due}</span>`:''}</button>
       <button class="mode-btn ${mode==='stats'?'active':''}"  onclick="switchMode('stats')">기록</button>
       <button class="mode-btn ${mode==='add'?'active':''}"    onclick="switchMode('add')">＋ 추가</button>
+      <button class="mode-btn ${mode==='wordbook'?'active':''}" onclick="switchMode('wordbook')">단어장</button>
     </div>
     <div class="card-wrap" id="card-wrap"></div>`;
 }
@@ -460,6 +488,7 @@ function renderEmpty(app) {
       <button class="mode-btn ${mode==='review'?'active':''}" onclick="switchMode('review')">복습${due>0?`<span class="badge">${due}</span>`:''}</button>
       <button class="mode-btn ${mode==='stats'?'active':''}"  onclick="switchMode('stats')">기록</button>
       <button class="mode-btn ${mode==='add'?'active':''}"    onclick="switchMode('add')">＋ 추가</button>
+      <button class="mode-btn ${mode==='wordbook'?'active':''}" onclick="switchMode('wordbook')">단어장</button>
     </div>
     <div class="empty">
       <div class="empty-icon">${mode==='learn'?'🎉':'💤'}</div>
@@ -495,6 +524,7 @@ function renderStats(app) {
       <button class="mode-btn" onclick="switchMode('review')">복습${due>0?`<span class="badge">${due}</span>`:''}</button>
       <button class="mode-btn active" onclick="switchMode('stats')">기록</button>
       <button class="mode-btn" onclick="switchMode('add')">＋ 추가</button>
+      <button class="mode-btn" onclick="switchMode('wordbook')">단어장</button>
     </div>
     <div class="stats-grid">
       <div class="stat-card"><div class="stat-num">${all.length}</div><div class="stat-lbl">전체 단어</div></div>
@@ -519,6 +549,149 @@ function renderStats(app) {
     </div>`;
 }
 
+
+// ─── WORDBOOK TAB ───
+function renderWordbook(app) {
+  const due = dueCount();
+  const total = allSentences().length;
+
+  app.innerHTML = `
+    <div class="mode-bar">
+      <button class="mode-btn" onclick="switchMode('learn')">학습</button>
+      <button class="mode-btn" onclick="switchMode('review')">복습${due>0?`<span class="badge">${due}</span>`:''}</button>
+      <button class="mode-btn" onclick="switchMode('stats')">기록</button>
+      <button class="mode-btn" onclick="switchMode('add')">＋ 추가</button>
+      <button class="mode-btn active" onclick="switchMode('wordbook')">단어장</button>
+    </div>
+
+    <div class="wb-wrap">
+      <div class="wb-card">
+        <div class="wb-head">
+          <div>
+            <div class="wb-title">단어장</div>
+            <div class="add-sub" style="margin:0.35rem 0 0 0">복습 상태(다음 복습일·맞춘 횟수) + 단어/뜻 + 예문을 한 번에 봅니다.</div>
+          </div>
+          <div class="wb-controls">
+            <input class="wb-input" id="wb-q" placeholder="검색 (단어/뜻)..." oninput="renderWordbookList()" />
+            <select class="wb-select" id="wb-sort" onchange="renderWordbookList()">
+              <option value="due">복습일 순</option>
+              <option value="alpha">알파벳 순</option>
+              <option value="acc">정답률 순</option>
+              <option value="recent">최근 학습(대략)</option>
+            </select>
+            <select class="wb-select" id="wb-filter" onchange="renderWordbookList()">
+              <option value="all">전체 (${total})</option>
+              <option value="learned">학습됨</option>
+              <option value="unlearned">미학습</option>
+              <option value="due">복습 필요</option>
+            </select>
+          </div>
+        </div>
+        <div class="wb-list" id="wb-list"></div>
+      </div>
+    </div>
+  `;
+  renderWordbookList();
+}
+
+function getCardStats(word) {
+  const c = db[word] || initCard();
+  const tc = c.totalCorrect || 0;
+  const tw = c.totalWrong || 0;
+  const attempts = tc + tw;
+  const acc = attempts ? (tc / attempts) : 0;
+  return { ...c, tc, tw, attempts, acc };
+}
+
+function reviewLabelFor(word) {
+  const today = todayStr();
+  const c = db[word] || initCard();
+  const due = (c.reps>0 && c.nextReview<=today) || (c.wrongQueue && c.wrongQueue.some(q=>q.dueDate<=today));
+  return { due, next: c.nextReview || today };
+}
+
+function renderWordbookList() {
+  const listEl = document.getElementById('wb-list');
+  if (!listEl) return;
+
+  const q = (document.getElementById('wb-q')?.value || '').trim().toLowerCase();
+  const sort = document.getElementById('wb-sort')?.value || 'due';
+  const filter = document.getElementById('wb-filter')?.value || 'all';
+  const today = todayStr();
+
+  let items = allSentences().map(s => {
+    const stats = getCardStats(s.answer);
+    const rl = reviewLabelFor(s.answer);
+    const koMeaning = getWordMeaning(s.answer) || '';
+    const koSent = s.korean || '';
+    const ex = (s.before || '') + s.answer + (s.after || '');
+    return { s, stats, rl, koMeaning, koSent, ex };
+  });
+
+  // filter
+  items = items.filter(it => {
+    const word = it.s.answer;
+    const learned = (db[word] && (db[word].reps||0) > 0);
+    const due = it.rl.due;
+    if (filter === 'learned' && !learned) return false;
+    if (filter === 'unlearned' && learned) return false;
+    if (filter === 'due' && !due) return false;
+    if (!q) return true;
+    return word.includes(q) || (it.koMeaning||'').toLowerCase().includes(q) || (it.koSent||'').toLowerCase().includes(q) || it.ex.toLowerCase().includes(q);
+  });
+
+  // sort
+  if (sort === 'alpha') {
+    items.sort((a,b)=>a.s.answer.localeCompare(b.s.answer));
+  } else if (sort === 'acc') {
+    items.sort((a,b)=>(b.stats.acc-a.stats.acc) || (b.stats.attempts-a.stats.attempts));
+  } else if (sort === 'recent') {
+    // 최근 학습 대략: nextReview가 미래일수록 최근에 맞췄을 가능성 (근사치)
+    items.sort((a,b)=> (b.rl.next||'').localeCompare(a.rl.next||''));
+  } else { // due
+    items.sort((a,b)=>{
+      // due 먼저, 그 다음 날짜 빠른 순
+      if (a.rl.due && !b.rl.due) return -1;
+      if (b.rl.due && !a.rl.due) return 1;
+      return (a.rl.next||'').localeCompare(b.rl.next||'');
+    });
+  }
+
+  if (!items.length) {
+    listEl.innerHTML = `<div style="font-family:'JetBrains Mono',monospace;font-size:0.78rem;color:var(--muted);padding:1rem;text-align:center">검색 결과 없음</div>`;
+    return;
+  }
+
+  listEl.innerHTML = items.map(it => {
+    const w = it.s.answer;
+    const next = it.rl.next || today;
+    const dueCls = it.rl.due ? 'due' : '';
+    const accPct = it.stats.attempts ? Math.round(it.stats.acc*100) : 0;
+
+    // 예문에서 단어 강조
+    const exHtml = esc(it.s.before) + `<span class="hl">${esc(w)}</span>` + esc(it.s.after);
+
+    return `
+      <div class="wb-item">
+        <div class="wb-top">
+          <span class="wb-word">${esc(w)}</span>
+          <span class="wb-ko">${esc(it.koMeaning || it.koSent || '')}</span>
+        </div>
+        <div class="wb-meta">
+          <span class="wb-pill ${dueCls}">다음 복습: ${esc(next)}${it.rl.due?' (오늘/지남)':''}</span>
+          <span class="wb-pill ok">맞춤: ${it.stats.tc}회</span>
+          <span class="wb-pill">오답: ${it.stats.tw}회</span>
+          <span class="wb-pill">정답률: ${accPct}%</span>
+        </div>
+        <div class="wb-ex">${exHtml}</div>
+        <details class="wb-det">
+          <summary>한글 문장 / 메모 보기</summary>
+          ${it.koSent ? `<div class="wb-kosent">${esc(it.koSent)}</div>` : `<div class="wb-kosent">—</div>`}
+        </details>
+      </div>`;
+  }).join('');
+}
+
 // ─── ADD TAB ───
 function renderAdd(app) {
   const due = dueCount();
@@ -528,6 +701,7 @@ function renderAdd(app) {
       <button class="mode-btn" onclick="switchMode('review')">복습${due>0?`<span class="badge">${due}</span>`:''}</button>
       <button class="mode-btn" onclick="switchMode('stats')">기록</button>
       <button class="mode-btn active" onclick="switchMode('add')">＋ 추가</button>
+      <button class="mode-btn" onclick="switchMode('wordbook')">단어장</button>
     </div>
     <div class="add-wrap">
       <div class="add-card">
