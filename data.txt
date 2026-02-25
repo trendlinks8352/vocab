@@ -300,3 +300,6 @@
 
 [한글] 그 제안은 막연한 약속에 *불과했다*.
 [EN] The proposal was [[little more than]] a vague promise.
+
+[한글] 그 연구자의 *완고함은* 자신의 이론에 반하는 증거를 무시하게 만들었다.
+[EN] The researcher's [[stubbornness]] led him to dismiss evidence that contradicted his theory.
