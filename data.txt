@@ -282,3 +282,21 @@
 
 [한글] 그녀는 *이상주의적인* 비전을 품고, 현실의 벽에도 쉽게 포기하지 않았다.
 [EN] She remained [[idealistic]], unwilling to accept that the world could not be made better than it was.
+
+[한글] 갑작스러운 질병 *발생으로* 인해 정부는 즉각 대응해야 했다.
+[EN] The sudden [[outbreaks]] of disease forced the government to act immediately.
+
+[한글] 그는 데이터가 설득력 있다는 점은 *인정했지만*, 여전히 불완전하다고 주장했다.
+[EN] He [[conceded]] that the data looked convincing, but insisted it was still incomplete.
+
+[한글] 그가 같은 변명을 또 반복하자 그녀는 *짜증스럽게* 눈을 굴렸다.
+[EN] She [[rolled her eyes]] when he repeated the same excuse again.
+
+[한글] 그의 비판은 친절한 조언으로 *위장되어* 있었다.
+[EN] His criticism was [[disguised]] as friendly advice.
+
+[한글] 두 시계 모두 전력 *본선으로* 작동하므로 정전이 나면 멈출 수 있다.
+[EN] Both clocks run off the [[mains]], so a power failure could stop them both.
+
+[한글] 그 제안은 막연한 약속에 *불과했다*.
+[EN] The proposal was [[little more than]] a vague promise.
