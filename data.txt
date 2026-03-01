@@ -333,3 +333,39 @@
 
 [한글] 그녀의 *진정성은* 그녀가 한 말을 진심으로 했다는 것을 모두에게 확신시켰다.
 [EN] Her [[sincerity]] convinced everyone that she meant what she said.
+
+[한글] 그 연설은 도덕적 *겉치레로* 가득했지만 실제 해결책은 부족했다.
+[EN] The speech was full of moral [[wardrobe]] but lacked real solutions.
+
+[한글] 그녀는 사회가 부여한 기대 속에 *갇혀* 있다고 느꼈다.
+[EN] She felt [[trapped]] in expectations placed on her by society.
+
+[한글] 그는 *희미하게* 웃었지만 눈에는 실망이 보였다.
+[EN] He smiled [[faintly]], but his eyes showed disappointment.
+
+[한글] 그 정치인은 계속 질문을 *회피했다*.
+[EN] The politician kept [[dances around]] the question.
+
+[한글] 그는 *바람기* 많은 생활로 유명했다.
+[EN] He was known for his [[philandering]] lifestyle.
+
+[한글] 그녀는 화제를 바꿔 비판을 *돌렸다*.
+[EN] She [[deflecting]] the criticism by changing the subject.
+
+[한글] 그는 신원 *착각* 때문에 체포되었다.
+[EN] He was arrested due to [[mistaken identity]].
+
+[한글] 그 영화의 빈곤 *묘사는* 매우 감동적이었다.
+[EN] The film's [[portrayal]] of poverty was deeply moving.
+
+[한글] 정부는 기후 변화를 진지하게 *다뤄야* 한다.
+[EN] The government must [[tackle]] climate change seriously.
+
+[한글] 그러한 정책은 불평등을 *고착화할* 위험이 있다.
+[EN] Such policies risk [[perpetuating]] inequality.
+
+[한글] 그녀의 글은 *도발적이었지만* 생각할 거리를 주었다.
+[EN] Her article was [[provocative]] but thought-provoking.
+
+[한글] 그는 농담을 시도했지만 *시시한* 시도였다.
+[EN] He tried to joke, but it was a [[lame]] attempt.
