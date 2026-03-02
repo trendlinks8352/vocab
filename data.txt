@@ -369,3 +369,27 @@
 
 [한글] 그는 농담을 시도했지만 *시시한* 시도였다.
 [EN] He tried to joke, but it was a [[lame]] attempt.
+
+[한글] *신석기* 공동체는 농업과 도구 제작에 크게 의존했다.
+[EN] [[Neolithic]] communities relied heavily on agriculture and tool-making.
+
+[한글] 그의 성공은 수년간의 체계적인 훈련 *덕분으로* 여겨졌다.
+[EN] His success was [[ascribed]] to years of disciplined practice.
+
+[한글] 최종 결정은 경제적 필요에 의해 *좌우되었다*.
+[EN] The final decision was [[dictated]] by economic necessity.
+
+[한글] 그 용어는 예술가의 작품을 깎아내리기 위해 *경멸적인* 의미로 사용되었다.
+[EN] The term was used in a [[pejorative]] sense to undermine the artist's work.
+
+[한글] 연사는 주제에서 *벗어나* 정치 이야기를 하기 시작했다.
+[EN] The speaker [[digress]]ed from the topic and began discussing politics.
+
+[한글] 그 정권은 통제를 유지하기 위해 *강압적인* 수단에 의존했다.
+[EN] The regime relied on [[coercive]] measures to maintain control.
+
+[한글] 탐험가들은 마을 너머의 *길들여지지 않은* 야생을 두려워했다.
+[EN] The explorers feared the [[untamed]] wilderness beyond the village.
+
+[한글] 그녀는 마치 그가 어린아이인 것처럼 *깔보는* 미소를 지었다.
+[EN] She gave him a [[condescending]] smile, as if he were a child.
