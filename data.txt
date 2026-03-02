@@ -393,3 +393,27 @@
 
 [한글] 그녀는 마치 그가 어린아이인 것처럼 *깔보는* 미소를 지었다.
 [EN] She gave him a [[condescending]] smile, as if he were a child.
+
+[한글] *홍보 문구는* 그 소설을 걸작처럼 보이게 만들었다.
+[EN] The [[promotional blurb]] made the novel sound like a masterpiece.
+
+[한글] 그녀는 책에 너무 *몰두해서* 내릴 역을 놓쳤다.
+[EN] She was so [[engrossed]] in the book that she missed her stop.
+
+[한글] 그 건물은 *이전에* 박물관으로 사용되었다.
+[EN] The building had been [[previously]] occupied by a museum.
+
+[한글] 실수에 대해 묻자 그는 직접 답하지 않고 *얼버무렸다*.
+[EN] When asked about the mistake, he [[prevaricated]] instead of answering directly.
+
+[한글] 등산 후 우리는 *몹시* 배가 고팠다.
+[EN] After the hike, we were [[ravenous]].
+
+[한글] 아이들은 하루 종일 기다린 뒤 *극도로* 배가 고팠다.
+[EN] The children were [[famished]] after waiting all day.
+
+[한글] 그녀는 드레스를 입고 매우 *매혹적으로* 보였다.
+[EN] She looked [[ravishing]] in her evening dress.
+
+[한글] *굶주린* 늑대들이 먹이를 갈기갈기 찢었다.
+[EN] The [[ravening]] wolves tore into their prey.
