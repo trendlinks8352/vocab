@@ -417,3 +417,87 @@
 
 [한글] *굶주린* 늑대들이 먹이를 갈기갈기 찢었다.
 [EN] The [[ravening]] wolves tore into their prey.
+
+[한글] 긴 병 후 그녀는 *연약해* 보였지만 결연했다.
+[EN] After the long illness, she looked [[frail]] but determined.
+
+[한글] 학교 앞에 높은 *깃대가* 서 있었다.
+[EN] A tall [[flagstaff]] stood in front of the school.
+
+[한글] 그는 나쁜 소식을 듣고 *낙담한* 채 걸어갔다.
+[EN] He walked away [[dejectedly]] after hearing the bad news.
+
+[한글] 그녀는 깊은 생각에 *빠졌다*.
+[EN] She was [[plunged]] into deep thought.
+
+[한글] 그는 상실 후 *슬픔에* 가득 찼다.
+[EN] He was filled with [[grief]] after the loss.
+
+[한글] 그 기계는 매우 *정밀하게* 작동한다.
+[EN] The machine works with great [[precision]].
+
+[한글] 그녀는 비판을 *존엄하게* 받아들였다.
+[EN] She faced the criticism with [[dignity]].
+
+[한글] 그 군대는 전투에서 *패배했다*.
+[EN] The army was [[vanquished]] in battle.
+
+[한글] 그것은 *끔찍한* 실수였다.
+[EN] It was an [[awful]] mistake.
+
+[한글] 그녀는 경주 전에 갑작스러운 *고양감을* 느꼈다.
+[EN] She felt a sudden [[exhilaration]] before the race.
+
+[한글] 그는 *감히* 진실을 말했다.
+[EN] He [[dare]]d to speak the truth.
+
+[한글] 마을 사람들은 작은 *오두막에서* 살았다.
+[EN] The villagers lived in small [[huts]].
+
+[한글] 그들은 *비참한* 환경에서 살았다.
+[EN] They lived in [[squalid]] conditions.
+
+[한글] 노동자들은 더러운 *판잣집에서* 지냈다.
+[EN] The workers stayed in dirty [[hovels]].
+
+[한글] 그의 직장은 *위태로운* 상태였다.
+[EN] His job was in a [[precarious]] position.
+
+[한글] 그녀는 그 고통을 *견딜* 수 없었다.
+[EN] She could not [[bear]] the pain.
+
+[한글] 전쟁은 수년간의 *궁핍을* 초래했다.
+[EN] The war caused years of [[privation]].
+
+[한글] 사생활의 점진적 *약화는* 주요 사회적 우려가 되었다.
+[EN] The [[erosion]] of privacy has become a major social concern.
+
+[한글] *고백적인* 방송은 사람들이 사적인 고통을 공유하도록 부추긴다.
+[EN] [[Confessional]] television encourages people to share their private pain.
+
+[한글] 그 회고록은 깊이 *자기 폭로적이고* 감정적으로 날것이다.
+[EN] The memoir is deeply [[self-revelatory]] and emotionally raw.
+
+[한글] 그의 이야기는 현대 치료 문화를 *상징적으로* 보여준다.
+[EN] His story is [[emblematic]] of modern therapy culture.
+
+[한글] 그 유명인은 자신의 실수에 대해 *공개적 참회를* 표했다.
+[EN] The celebrity expressed [[public contrition]] for his mistakes.
+
+[한글] 그녀의 사생활은 *대중의 감시* 대상이 되었다.
+[EN] Her private life was subjected to [[public scrutiny]].
+
+[한글] 그녀는 역경을 극복한 것에 대해 *칭찬을* 받았다.
+[EN] She received [[commendation]] for overcoming adversity.
+
+[한글] 그는 스캔들이 공개된 후 *악명을* 얻었다.
+[EN] He gained [[notoriety]] after the scandal became public.
+
+[한글] 새로운 서사는 사람들이 고통을 개인의 *허약함으로* 보도록 부추긴다.
+[EN] The new narrative encourages people to view distress as [[infirmity]].
+
+[한글] 진단의 갑작스러운 증가는 *일탈적* 현상으로 여겨졌다.
+[EN] The sudden rise in diagnoses was seen as an [[aberration]].
+
+[한글] 의료 *실무자들은* 새로운 치료 방법을 논의하고 있다.
+[EN] Medical [[practitioners]] are debating new treatment methods.
