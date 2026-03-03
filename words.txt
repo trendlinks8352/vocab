@@ -166,3 +166,17 @@ notoriety - 악명, 나쁜 평판으로 유명함
 infirmity - 허약함, (정신적·신체적) 약점
 aberration - 일탈, 비정상적인 현상
 practitioners - (의사·전문가 등) 실무자, 개업 전문가
+perpetrator - 가해자, 범죄를 저지른 사람
+crude - 거친, 조잡한, 세련되지 못한
+instrument - 도구, 수단
+compulsion - 강제, 강요
+accused - 피고인, 고발당한 사람
+instrument of compulsion - 강제의 수단, 강압적 도구
+speculation - 추측, 가설적 추정
+corpus callosum - 뇌량 (좌우 대뇌를 연결하는 신경 다리)
+commissurotomy - 교련절단술 (뇌량 절단 수술)
+checking - 억제하다, 통제하다 (단순 확인이 아님)
+crippling - 기능을 마비시키는, 치명적인
+hemispheres - (뇌의) 좌우 반구
+lapses - 일시적 실수, 일시적 기능 저하
+severing - 절단, 완전히 끊어버림

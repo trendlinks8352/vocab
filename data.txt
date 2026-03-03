@@ -501,3 +501,45 @@
 
 [한글] 의료 *실무자들은* 새로운 치료 방법을 논의하고 있다.
 [EN] Medical [[practitioners]] are debating new treatment methods.
+
+[한글] *가해자는* CCTV 영상으로 확인되었다.
+[EN] The [[perpetrator]] was identified through CCTV footage.
+
+[한글] 그의 설명은 그 문제의 복잡성을 다루기에는 너무 *조잡했다*.
+[EN] His explanation was too [[crude]] to address the complexity of the issue.
+
+[한글] 법은 사회 통제의 *수단으로* 사용될 수 있다.
+[EN] Law can be used as an [[instrument]] of social control.
+
+[한글] 사람들은 신념이 아니라 *강요* 때문에 그 규칙을 따랐다.
+[EN] People obeyed the rule out of [[compulsion]], not conviction.
+
+[한글] *피고인은* 법정에서 모든 혐의를 부인했다.
+[EN] The [[accused]] denied all allegations in court.
+
+[한글] 국가는 *강압적 수단에만* 의존해서는 안 된다.
+[EN] The state should not rely solely on an [[instrument of compulsion]].
+
+[한글] 두 반구가 독립적으로 작동한다는 *추측이* 있었다.
+[EN] There was [[speculation]] that the two hemispheres worked independently.
+
+[한글] *뇌량은* 두 반구 간의 의사소통을 가능하게 한다.
+[EN] The [[corpus callosum]] enables communication between the hemispheres.
+
+[한글] 심각한 간질을 치료하기 위해 *교련절단술이* 시행되었다.
+[EN] A [[commissurotomy]] was performed to treat severe epilepsy.
+
+[한글] 그 신약은 감염 확산을 *억제하는* 데 효과적이다.
+[EN] The new drug is effective in [[checking]] the spread of infection.
+
+[한글] 그녀는 사고 후 *극심한* 통증을 겪었다.
+[EN] She suffered from [[crippling]] pain after the accident.
+
+[한글] 뇌의 좌우 *반구는* 서로 다른 기능을 담당한다.
+[EN] The brain [[hemispheres]] specialize in different functions.
+
+[한글] 그의 기억력에 잠깐의 *저하가* 있었다.
+[EN] There were brief [[lapses]] in his memory.
+
+[한글] 연결을 *절단하자* 뇌의 의사소통이 변화했다.
+[EN] [[Severing]] the connection changed brain communication.
