@@ -672,3 +672,45 @@
 
 [한글] 새들은 *해질녘에* 둥지로 돌아왔다.
 [EN] The birds returned to their nests at [[dusk]].
+
+[한글] 그 제국은 새로운 영토를 *정복하려* 했다.
+[EN] The empire tried to [[conquer]] new territories.
+
+[한글] 그 도시는 긴 *포위 공격을* 견뎌냈다.
+[EN] The city survived a long [[siege]].
+
+[한글] 전쟁 동안 수천 명의 민간인이 *학살되었다*.
+[EN] Thousands of civilians were [[slaughter]]ed during the war.
+
+[한글] 정부는 불법 무기를 *몰수했다*.
+[EN] The government [[confiscate]]d illegal weapons.
+
+[한글] 적군은 몇 달 동안 성을 *포위했다*.
+[EN] Enemy forces [[besiege]]d the castle for months.
+
+[한글] 반군은 여러 민간인을 *인질로* 붙잡았다.
+[EN] The rebels held several civilians as [[hostages]].
+
+[한글] 그녀는 세부 사항을 기억하는 *놀라운* 기억력을 가지고 있다.
+[EN] She has a [[prodigious]] memory for details.
+
+[한글] 부상당한 남자는 *팔다리를* 거의 움직일 수 없었다.
+[EN] The injured man could barely move his [[limbs]].
+
+[한글] 그들은 근처 교회로 *피신했다*.
+[EN] They took [[refuge]] in a nearby church.
+
+[한글] 군인들은 마을 사람들을 *잔인하게 학살했다*.
+[EN] The soldiers [[butcher]]ed the villagers.
+
+[한글] 그 폭발은 건물 전체를 완전히 *말살했다*.
+[EN] The explosion [[obliterate]]d the entire building.
+
+[한글] 그 전쟁은 여러 차례의 *대량 학살로* 특징지어졌다.
+[EN] The war was marked by several [[massacres]].
+
+[한글] 반군은 왕위를 *찬탈한 자들로* 여겨졌다.
+[EN] The rebels were seen as [[usurpers]] of the throne.
+
+[한글] 그의 주장은 *허위* 증거에 기반하고 있었다.
+[EN] His argument was based on [[spurious]] evidence.

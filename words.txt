@@ -223,3 +223,17 @@ barren - 불모의, 식물이 거의 자라지 않는
 littered - 여기저기 흩어져 있는, 널려 있는
 heritage - 유산, 전통, 조상으로부터 물려받은 것
 dusk - 해질녘, 황혼
+conquer - 정복하다
+siege - 포위 공격, 공성전
+slaughter - 학살하다, 무참히 죽이다
+confiscate - 몰수하다
+besiege - 포위하다
+hostages - 인질
+prodigious - 엄청난, 놀라운
+limbs - 팔다리
+refuge - 피난처, 보호
+butcher - 잔인하게 죽이다, 학살하다
+obliterate - 완전히 지워버리다, 말살하다
+massacres - 대량 학살
+usurpers - 찬탈자, 불법적으로 권력을 빼앗은 사람
+spurious - 가짜의, 허위의
