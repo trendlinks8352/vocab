@@ -237,3 +237,9 @@ obliterate - 완전히 지워버리다, 말살하다
 massacres - 대량 학살
 usurpers - 찬탈자, 불법적으로 권력을 빼앗은 사람
 spurious - 가짜의, 허위의
+aptly - 적절하게, 딱 맞게, 정확하게
+antics - 익살스러운 행동, 우스꽝스러운 행동 (보통 복수형)
+permeating - 스며들다, 퍼지다, 침투하다
+sobriety - 절제, 침착함 / 진지함
+forthright - 솔직한, 직설적인, 노골적인
+unconvincing - 설득력이 없는, 믿기 어려운

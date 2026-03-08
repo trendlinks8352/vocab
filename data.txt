@@ -714,3 +714,21 @@
 
 [한글] 그의 주장은 *허위* 증거에 기반하고 있었다.
 [EN] His argument was based on [[spurious]] evidence.
+
+[한글] 그 문제는 "시한폭탄"이라고 아주 *적절하게* 묘사되었다.
+[EN] The problem was [[aptly]] described as a "ticking time bomb."
+
+[한글] 아이들의 *익살스러운 행동이* 모두를 웃게 만들었다.
+[EN] The children's [[antics]] made everyone laugh.
+
+[한글] 커피 냄새가 방 전체에 *퍼졌다*.
+[EN] The smell of coffee [[permeating]] the entire room.
+
+[한글] 그는 위기에 대해 매우 *차분하고 진지하게* 말했다.
+[EN] He spoke with great [[sobriety]] about the crisis.
+
+[한글] 그는 질문에 *솔직하게* 답했다.
+[EN] He gave a [[forthright]] answer to the question.
+
+[한글] 그의 설명은 *설득력이 없었다*.
+[EN] His explanation was [[unconvincing]].
