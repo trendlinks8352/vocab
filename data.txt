@@ -732,3 +732,27 @@
 
 [한글] 그의 설명은 *설득력이 없었다*.
 [EN] His explanation was [[unconvincing]].
+
+[한글] 그들은 무기를 녹여서 농사용 *쟁기날을* 만들었다.
+[EN] They melted the weapons and made [[ploughshares]] for farming.
+
+[한글] 농부들은 작은 가지를 자르기 위해 *가지치기용 낫을* 사용한다.
+[EN] Farmers use [[pruning hooks]] to cut small branches.
+
+[한글] 그 *표범은* 숲 속을 조용히 움직였다.
+[EN] The [[leopard]] moved silently through the forest.
+
+[한글] 그는 실수를 했다는 이유로 반 친구들에게 *조롱당했다*.
+[EN] He was [[mocked]] by his classmates for making a mistake.
+
+[한글] 농부는 봄에 씨앗을 *뿌린다*.
+[EN] A farmer [[soweth]] seeds in the spring.
+
+[한글] 너는 네가 뿌린 것을 *거두게* 될 것이다.
+[EN] You will [[reap]] what you sow.
+
+[한글] 그의 *소심함* 때문에 그는 사람들 앞에서 말하지 못했다.
+[EN] His [[timidity]] prevented him from speaking in public.
+
+[한글] 그 예언자는 평화의 시대를 *예언했다*.
+[EN] The prophet [[prophesied]] a time of peace.
