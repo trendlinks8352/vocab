@@ -756,3 +756,12 @@
 
 [한글] 그 예언자는 평화의 시대를 *예언했다*.
 [EN] The prophet [[prophesied]] a time of peace.
+
+[한글] 증상은 보통 며칠 안에 *호전된다*.
+[EN] The symptoms usually [[remit]] within a few days.
+
+[한글] 중이에 *액체가 고이면* 청력이 감소할 수 있다.
+[EN] Middle ear [[effusion]] can reduce hearing.
+
+[한글] 의사는 *문제가 있는 귀를* 자세히 검사했다.
+[EN] The doctor examined the [[affected ear]] carefully.

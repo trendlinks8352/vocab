@@ -251,3 +251,6 @@ soweth - 씨를 뿌리다 (sow의 성경식 표현)
 reap - 수확하다, 거두다 (결과를 얻다)
 timidity - 소심함, 겁 많음
 prophesied - 예언했다
+remit - (병·증상이) 호전되다, 완화되다, 자연히 사라지다
+effusion - 삼출액, 체액이 고인 상태 (염증으로 액체가 고임)
+affected ear - 영향을 받은 귀, 병이 생긴 귀
