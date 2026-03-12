@@ -254,3 +254,11 @@ prophesied - 예언했다
 remit - (병·증상이) 호전되다, 완화되다, 자연히 사라지다
 effusion - 삼출액, 체액이 고인 상태 (염증으로 액체가 고임)
 affected ear - 영향을 받은 귀, 병이 생긴 귀
+indecent - 외설적인, 부적절한
+daring - 대담한, 과감한
+dowdy - 촌스러운, 단정치 못한
+hideous - 흉측한, 보기 싫은
+quaint - 기묘하지만 매력적인, 고풍스러운
+contour - 윤곽, 외곽선, 형태의 경계
+corrosive - 부식성의, 금속을 녹이는
+chlorine - 염소 (화학 원소)

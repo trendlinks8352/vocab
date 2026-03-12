@@ -765,3 +765,27 @@
 
 [한글] 의사는 *문제가 있는 귀를* 자세히 검사했다.
 [EN] The doctor examined the [[affected ear]] carefully.
+
+[한글] 그 드레스는 당시에는 *외설적이라고* 여겨졌다.
+[EN] The dress was considered [[indecent]] at the time.
+
+[한글] 그녀의 *대담한* 패션 선택은 사람들의 관심을 끌었다.
+[EN] Her [[daring]] fashion choices attracted attention.
+
+[한글] 그는 그 오래된 코트가 *촌스러워* 보인다고 생각했다.
+[EN] He thought the old coat looked [[dowdy]].
+
+[한글] 그 디자인은 많은 사람들에게 *흉측하게* 보였다.
+[EN] The design looked [[hideous]] to many people.
+
+[한글] 그 마을에는 *고풍스럽고 매력적인* 집들이 많다.
+[EN] The village has many [[quaint]] houses.
+
+[한글] 해 질 무렵 산의 *윤곽이* 보였다.
+[EN] The mountains' [[contour]]s were visible at sunset.
+
+[한글] 산은 금속을 심하게 *부식시킨다*.
+[EN] Acid is highly [[corrosive]] to metal.
+
+[한글] *염소는* 수영장 소독에 사용된다.
+[EN] [[Chlorine]] is used to disinfect swimming pools.
