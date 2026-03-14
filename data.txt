@@ -789,3 +789,42 @@
 
 [한글] *염소는* 수영장 소독에 사용된다.
 [EN] [[Chlorine]] is used to disinfect swimming pools.
+
+[한글] 타일 사이의 *줄눈은* 정기적으로 청소해야 한다.
+[EN] The [[grouting]] between the tiles needs to be cleaned regularly.
+
+[한글] 경찰관은 *확성기를* 통해 지시를 전달했다.
+[EN] The police officer gave instructions through a [[loud-hailer]].
+
+[한글] *깔때기를* 사용해서 병에 기름을 부어라.
+[EN] Pour the oil into the bottle using a [[funnel]].
+
+[한글] 그 궁전은 매우 *화려하게* 지어졌다.
+[EN] The palace was built in great [[splendour]].
+
+[한글] 농부들은 *과수원에서* 사과를 재배한다.
+[EN] The farmers grow apples in the [[orchards]].
+
+[한글] 벚꽃나무는 봄에 *꽃이 핀다*.
+[EN] The cherry trees [[bloom]] in spring.
+
+[한글] 검은 구름은 폭풍이 올 것을 *예고한다*.
+[EN] The dark clouds [[herald]]s a coming storm.
+
+[한글] 그는 분노로 *제정신이 아닐 정도였다*.
+[EN] He was [[beside himself]] with anger.
+
+[한글] 그녀는 갑작스러운 *폭소를* 터뜨렸다.
+[EN] She burst into [[paroxysms]] of laughter.
+
+[한글] 그 소식은 그의 가족에게 큰 *고통을* 주었다.
+[EN] The news caused great [[distress]] to his family.
+
+[한글] 그는 나에게 *의아한* 표정을 지었다.
+[EN] He gave me a [[quizzical]] look.
+
+[한글] 그녀는 *억눌린* 분노로 말했다.
+[EN] She spoke with [[suppressed]] anger.
+
+[한글] 그는 소리를 듣자 갑자기 *벌떡 일어나 앉았다*.
+[EN] He suddenly [[sits up]] when he heard the noise.
