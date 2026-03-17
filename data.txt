@@ -828,3 +828,63 @@
 
 [한글] 그는 소리를 듣자 갑자기 *벌떡 일어나 앉았다*.
 [EN] He suddenly [[sits up]] when he heard the noise.
+
+[한글] 그는 자신의 과거 실수들을 *돌아보았다*.
+[EN] He [[reflected]] on his past mistakes.
+
+[한글] 세탁 후 천이 *쭈글쭈글해졌다*.
+[EN] The fabric [[puckered]] after washing.
+
+[한글] 이별 후 그의 마음은 *우울함으로 가득했다*.
+[EN] His heart was [[filled with blue]] after the breakup.
+
+[한글] 공항에서 짐이 경사진 *통로를* 따라 내려왔다.
+[EN] The luggage moved down the [[chute]] at the airport.
+
+[한글] *꾸물거리지* 말고 숙제를 끝내라.
+[EN] Stop [[dawdles]] and finish your homework.
+
+[한글] 밤늦게 거리는 *텅 비어* 있었다.
+[EN] The streets were [[empty roads]] late at night.
+
+[한글] 그는 그 논쟁에서 마음에 *상처를 입는* 경험을 했다.
+[EN] He had a [[bruising]] experience during the argument.
+
+[한글] 그 소식을 듣고 그녀는 매우 *괴로워했다*.
+[EN] She was [[distraught]] after hearing the news.
+
+[한글] 그들은 *외딴* 마을에 살았다.
+[EN] They lived in a [[remote]] village.
+
+[한글] 그 연설은 *재미없고 무미건조했다*.
+[EN] The speech was [[bland]] and uninteresting.
+
+[한글] 그 개는 다른 동물에게 *잔인하게* 공격당했다.
+[EN] The dog was [[savagely]] attacked by another animal.
+
+[한글] 그는 스캔들 이후 *해고* 위기에 처했다.
+[EN] He faced [[sacking]] after the scandal.
+
+[한글] 그녀는 아무도 관심 없는 얘기를 계속 *지껄였다*.
+[EN] She kept [[prattling]] about things no one cared about.
+
+[한글] 그의 목소리에는 약간의 슬픔의 *기색이* 묻어 있었다.
+[EN] There was a [[tinge]] of sadness in his voice.
+
+[한글] 그녀는 그의 소매를 *잡아당겨* 주의를 끌었다.
+[EN] She [[tugged]] at his sleeve to get attention.
+
+[한글] 노동자들 사이에 *불만이* 커지고 있다.
+[EN] There is growing [[discontent]] among workers.
+
+[한글] 그들은 그를 시골 *촌뜨기처럼* 대했다.
+[EN] They treated him like a [[yokel]] from the countryside.
+
+[한글] 이 도구는 나중에 *유용하게* 쓰일 것이다.
+[EN] This tool will come in [[handy]] later.
+
+[한글] 그녀는 웨딩드레스를 입고 눈부시게 *빛났다*.
+[EN] She looked [[radiant]] in her wedding dress.
+
+[한글] 그는 *우울한* 표정으로 혼자 앉아 있었다.
+[EN] He sat alone with a [[brooding]] expression.
