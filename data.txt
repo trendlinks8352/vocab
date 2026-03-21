@@ -888,3 +888,51 @@
 
 [한글] 그는 *우울한* 표정으로 혼자 앉아 있었다.
 [EN] He sat alone with a [[brooding]] expression.
+
+[한글] 그는 쉽게 결정을 내리도록 *조종당했다*.
+[EN] He was easily [[manoeuvred]] into making a decision.
+
+[한글] 그 연설은 그녀의 업적에 대한 *찬사였다*.
+[EN] The speech was a [[tribute]] to her achievements.
+
+[한글] 그의 잦은 *지각은* 상사를 짜증나게 했다.
+[EN] His constant [[tardiness]] annoyed his boss.
+
+[한글] 그녀는 그를 *경멸하는* 눈빛으로 보았다.
+[EN] She looked at him with [[contempt]].
+
+[한글] 그 이야기는 *소름 끼치는* 결말을 가지고 있었다.
+[EN] The story had a [[chilling]] ending.
+
+[한글] 그녀는 분노를 *통제할* 수 없었다.
+[EN] She couldn't control her [[rage]].
+
+[한글] 그는 자신의 분노를 *가라앉히려* 했다.
+[EN] He tried to [[quell]] his anger.
+
+[한글] 전쟁은 도시를 *황폐하게* 만들었다.
+[EN] The war left the city in [[desolation]].
+
+[한글] 음악은 그에게 *위안을* 주었다.
+[EN] Music gave him [[solace]].
+
+[한글] 나는 네 상황에 *공감할* 수 있다.
+[EN] I can [[empathize]] with your situation.
+
+[한글] 그는 사회와 *단절된* 느낌을 받았다.
+[EN] He felt a sense of [[unconnectedness]] from society.
+
+[한글] 이 결정의 *근거는* 무엇인가?
+[EN] What is the [[rationale]] behind this decision?
+
+[한글] 그는 수학에서 *뛰어나다*.
+[EN] He [[excel]]s in mathematics.
+
+[한글] 폭풍은 매우 *강렬했다*.
+[EN] The storm was [[fierce]].
+
+[한글] 뿌리가 땅을 단단히 *붙잡는다*.
+[EN] The roots [[grab]] the earth tightly.
+
+[한글] 그녀는 *맹렬한* 결의를 보여줬다.
+[EN] She showed [[ferocious]] determination.

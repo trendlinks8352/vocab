@@ -295,3 +295,19 @@ yokel - 촌뜨기, 시골 사람 (비하 뉘앙스)
 handy - 유용한, 도움이 되는
 radiant - 빛나는, 환한
 brooding - 우울한, 음울한 (깊이 고민하는 느낌)
+manoeuvred - 교묘하게 조종하다, 상황을 유리하게 이끌다
+tribute - 찬사, 경의, 존경의 표시
+tardiness - 지각, 늦음
+contempt - 경멸, 업신여김
+chilling - 소름 끼치는, 오싹한
+rage - 분노, 격렬한 화
+quell - (감정·반란을) 진압하다, 가라앉히다
+desolation - 황폐함, 쓸쓸함, 적막
+solace - 위안, 위로
+empathize - 공감하다
+unconnectedness - 단절됨, 연결되지 않음
+rationale - 근거, 이유, 논리적 설명
+excel - 뛰어나다, 탁월하다
+fierce - 사나운, 강렬한
+grab - 움켜잡다
+ferocious - 사나운, 맹렬한, 격렬한 (강하게 버티는 생명력)
