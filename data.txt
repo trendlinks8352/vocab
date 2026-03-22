@@ -936,3 +936,18 @@
 
 [한글] 그녀는 *맹렬한* 결의를 보여줬다.
 [EN] She showed [[ferocious]] determination.
+
+[한글] 그녀는 사회 정의에 대해 강한 *열정을* 가지고 말했다.
+[EN] She spoke with great [[fervour]] about social justice.
+
+[한글] 새로운 정책에 대해 광범위한 *의심이* 있다.
+[EN] There is widespread [[scepticism]] about the new policy.
+
+[한글] 그 회사는 살아남기 위해 극단적인 조치에 *의지했다*.
+[EN] The company [[resort to]] drastic measures to survive.
+
+[한글] 그 약은 통증을 *완화하는* 데 효과적이다.
+[EN] The medicine is effective in [[alleviating]] pain.
+
+[한글] 그의 차분한 *겉모습* 아래에는 매우 긴장하고 있었다.
+[EN] Beneath his calm [[veneer]], he was very nervous.
