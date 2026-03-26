@@ -999,3 +999,45 @@
 
 [한글] 신문은 그 기사에 대한 *철회를* 발표했다.
 [EN] The newspaper published a [[retractions]] of the article.
+
+[한글] 그녀는 그 소식을 듣고 통제할 수 없이 *흐느껴 울었다*.
+[EN] She was [[sobbing]] uncontrollably after hearing the news.
+
+[한글] 그는 화난 개를 보고 뒤로 *움츠러들었다*.
+[EN] He [[shrink]] back when he saw the angry dog.
+
+[한글] 그녀는 그를 보기 위해 고개를 *홱 돌렸다*.
+[EN] She [[swing]] her head around to look at him.
+
+[한글] 그 아이는 엄마에게 꼭 *매달려* 있었다.
+[EN] The child was [[clinging]] to his mother.
+
+[한글] 그는 자신감 있게 방으로 *성큼성큼 걸어* 들어갔다.
+[EN] He [[strode]] into the room confidently.
+
+[한글] 그녀는 따뜻한 *이불로* 몸을 덮었다.
+[EN] She covered herself with a warm [[quilt]].
+
+[한글] 그는 아기를 *다정하게* 안았다.
+[EN] He held the baby [[tenderly]] in his arms.
+
+[한글] 그녀는 거미를 보고 *비명을 질렀다*.
+[EN] She [[shrieked]] when she saw the spider.
+
+[한글] 그 천의 가장자리가 *해지고* 있었다.
+[EN] The edges of the fabric were [[fraying]].
+
+[한글] 그는 손을 *허벅지* 위에 올려놓았다.
+[EN] He rested his hands on his [[thighs]].
+
+[한글] 그는 어젯밤 집에 가는 길에 *강도를 당했다*.
+[EN] He was [[mugged]] on his way home last night.
+
+[한글] 많은 사람들 앞에서 말하려면 *엄청난 배짱이* 필요하다.
+[EN] It takes [[terrific guts]] to speak in front of a large audience.
+
+[한글] 그들은 *화해할 수 없는* 차이 때문에 헤어지기로 했다.
+[EN] They had [[irreconcilable]] differences and decided to separate.
+
+[한글] 두 집단 사이에는 분명한 *적대감이* 있었다.
+[EN] There was clear [[antagonism]] between the two groups.
