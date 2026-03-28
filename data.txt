@@ -1041,3 +1041,42 @@
 
 [한글] 두 집단 사이에는 분명한 *적대감이* 있었다.
 [EN] There was clear [[antagonism]] between the two groups.
+
+[한글] 진실은 비밀에 *가려져* 있었다.
+[EN] The truth was [[shroud]]ed in secrecy.
+
+[한글] 그는 질문을 *교묘히 피했다*.
+[EN] He [[sidestep]]ped the question.
+
+[한글] 그의 방은 *돼지우리* 같다.
+[EN] His room looks like a [[pigsty]].
+
+[한글] 그는 마늘을 *잘게 다졌다*.
+[EN] He [[mince]]d the garlic finely.
+
+[한글] 그녀는 아침으로 *죽을* 먹었다.
+[EN] She had [[porridge]] for breakfast.
+
+[한글] *독성학자가* 독을 분석했다.
+[EN] The [[toxicologist]] analyzed the poison.
+
+[한글] 그는 뜨거운 물에 손을 *데었다*.
+[EN] He [[scald]]ed his hand with hot water.
+
+[한글] *독사가* 빠르게 공격했다.
+[EN] The [[viper]] struck quickly.
+
+[한글] 그는 공을 피하려고 몸을 *숙였다*.
+[EN] He [[ducks]] to avoid the ball.
+
+[한글] 돼지들이 *여물통에서* 먹었다.
+[EN] The pigs ate from the [[trough]].
+
+[한글] 그녀는 *뼈 있는* 말을 했다.
+[EN] She made a [[stinging]] remark.
+
+[한글] 그들은 가벼운 *말다툼을* 했다.
+[EN] They engaged in playful [[sparring]].
+
+[한글] 그는 나를 도왔지만, *숨은 의도가* 있었던 것 같다.
+[EN] He helped me, but I suspect he had [[ulterior motives]].
