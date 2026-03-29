@@ -1080,3 +1080,24 @@
 
 [한글] 그는 나를 도왔지만, *숨은 의도가* 있었던 것 같다.
 [EN] He helped me, but I suspect he had [[ulterior motives]].
+
+[한글] 그녀는 *소박한* 집에 산다.
+[EN] She lives in a [[modest]] house.
+
+[한글] 그는 그녀를 *조심스럽게* 바라봤다.
+[EN] He looked at her [[warily]].
+
+[한글] 그는 그 소식을 듣고 *씩 웃었다*.
+[EN] He [[grinned]] when he heard the news.
+
+[한글] 그는 이기기 위해 *교활한* 계획을 썼다.
+[EN] He used a [[devious]] plan to win.
+
+[한글] 그녀는 그에게 *홀딱 반해* 있었다.
+[EN] She was [[infatuated]] with him.
+
+[한글] 그것은 *가벼운 분위기의* 대화였다.
+[EN] It was a [[lighthearted]] conversation.
+
+[한글] 그녀는 그 생각을 자신의 신념과 *조화시킬* 수 없었다.
+[EN] She couldn't [[reconcile]] the idea with her beliefs.

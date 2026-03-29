@@ -359,3 +359,10 @@ trough - (동물 먹이) 여물통
 stinging - 따끔한, 날카로운
 sparring - (가벼운) 말싸움, 논쟁
 ulterior motives - 숨은 의도, 속셈
+modest - 소박한, 검소한 / 겸손한
+warily - 조심스럽게, 경계하며
+grinned - 씩 웃었다 (크게 웃는 느낌)
+devious - 교활한, 정직하지 못한
+infatuated - 홀딱 반한, 푹 빠진 (일시적 사랑)
+lighthearted - 가벼운 마음의, 유쾌한
+reconcile - (차이를) 조화시키다, 받아들이다
