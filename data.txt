@@ -1101,3 +1101,30 @@
 
 [한글] 그녀는 그 생각을 자신의 신념과 *조화시킬* 수 없었다.
 [EN] She couldn't [[reconcile]] the idea with her beliefs.
+
+[한글] 그는 *말기 환자라서* 의사들이 최대한 편하게 해주고 있다.
+[EN] He is [[terminally]] ill, so the doctors are doing their best to keep him comfortable.
+
+[한글] 이건 급여도 낮은 *형편없는* 직업이다.
+[EN] This is a [[cruddy]] job with low pay.
+
+[한글] 그는 그런 *모욕적인* 일을 거부했다.
+[EN] He refused to do such a [[degrading]] task.
+
+[한글] 그녀는 대학에서 *기호학을* 공부했다.
+[EN] She studied [[semiotics]] at university.
+
+[한글] 신뢰는 강한 관계의 *기반이다*.
+[EN] Trust is the [[fabric]] of a strong relationship.
+
+[한글] 그녀는 아이를 *너그럽게* 보며 웃었다.
+[EN] She smiled [[indulgently]] at the child.
+
+[한글] 그는 *비꼬듯이* "잘했네"라고 말했다.
+[EN] He said [[sarcastically]], "Great job."
+
+[한글] 그녀는 *호기심을 가지고* 그를 바라봤다.
+[EN] She looked at him [[with curiosity]].
+
+[한글] 그는 그 상황을 *당황한 채* 바라봤다.
+[EN] He stared at the situation [[with bewilderment]].
