@@ -1128,3 +1128,15 @@
 
 [한글] 그는 그 상황을 *당황한 채* 바라봤다.
 [EN] He stared at the situation [[with bewilderment]].
+
+[한글] 그 소들은 신선한 *사료를* 먹었다.
+[EN] The cattle were fed with fresh [[fodder]].
+
+[한글] 사람들은 금융 시장에서 종종 *군중 심리를* 따른다.
+[EN] People often follow the [[herd instinct]] in financial markets.
+
+[한글] 그 전쟁은 민간인들에게 큰 고통을 *가했다*.
+[EN] The war [[inflicted]] great suffering on civilians.
+
+[한글] 정부는 그 정책으로 인해 강하게 *비난받았다*.
+[EN] The government was [[denounce]]d for its policy.

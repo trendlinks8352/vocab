@@ -375,3 +375,7 @@ indulgently - 너그럽게, 관대하게
 sarcastically - 비꼬듯이, 빈정거리며
 with curiosity - 호기심을 가지고
 with bewilderment - 당황하여, 어리둥절하며
+fodder - 사료, 먹이 (동물용) / (비유) 소모품
+herd instinct - 군중 본능, 집단 심리
+inflicted - (고통·피해를) 가하다 (inflict A on B)
+denounce - 비난하다, 맹렬히 공개 비판하다
