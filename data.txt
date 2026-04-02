@@ -1140,3 +1140,9 @@
 
 [한글] 정부는 그 정책으로 인해 강하게 *비난받았다*.
 [EN] The government was [[denounce]]d for its policy.
+
+[한글] 시간 부족으로 우리는 그 프로젝트를 끝낼 수 *없다*.
+[EN] Lack of time [[preclude]]s us from finishing the project.
+
+[한글] 회사는 새로운 교육 *체계를* 도입했다.
+[EN] The company introduced a new training [[regime]].
