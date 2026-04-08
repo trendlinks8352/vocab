@@ -390,3 +390,22 @@ strut - 으스대며 걷다
 patterns - 패턴, 반복되는 양상
 tormented - 괴롭히다 / 괴로워하는
 resign yourself to - ~을 체념하다, 받아들이다
+conceptual - 개념적인, 추상적인
+contrast - 대비, 대조 / 대비하다
+impinge - 영향을 미치다, 침해하다 (impinge on)
+impact - 영향을 주다 (impact on)
+irrevocable - 되돌릴 수 없는, 취소 불가능한
+lament - 슬퍼하다, 한탄하다
+savage - 잔인한, 혹독한 (비판이 매우 심한)
+germ - 세균 / (아이디어의) 싹
+horrendous - 끔찍한, 형편없는
+grudgingly - 마지못해, 못마땅하게
+appalling - 끔찍한, 충격적인
+crumbled - 부서졌다, 으스러졌다
+biffed - (세게) 던져 넣다
+innocuous - 무해한, 해롭지 않은
+charred husk - 탄 껍데기, 완전히 타버린 상태
+insurgent - 반란군, 반체제 인물
+interrogated - 심문하다
+emulsify - 유화시키다 (섞이지 않는 액체를 섞다)
+personification - 의인법
