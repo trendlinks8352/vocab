@@ -1230,3 +1230,36 @@
 
 [한글] "바람이 속삭였다"는 *의인법의* 예다.
 [EN] Saying "the wind whispered" is an example of [[personification]].
+
+[한글] 그는 회의에서 매우 *세련된* 연설을 했다.
+[EN] He gave a [[polished]] speech at the conference.
+
+[한글] 그녀는 오늘 회의를 *주재하고* 있다.
+[EN] She is [[presiding]] over the meeting today.
+
+[한글] 그녀는 모든 질문에 *침착하게* 답했다.
+[EN] She answered all questions with [[aplomb]].
+
+[한글] 그 회사는 이익을 위해 *비양심적인* 방법을 사용했다.
+[EN] The company used [[unscrupulous]] methods to make profit.
+
+[한글] 그의 정치 경력은 *기회주의로* 특징지어졌다.
+[EN] His political career was marked by [[opportunism]].
+
+[한글] 사기꾼들은 사람들의 *잘 속는 성향을* 이용한다.
+[EN] Scammers take advantage of people's [[gullibility]].
+
+[한글] 영국은 입헌 *군주국이다*.
+[EN] The UK is a constitutional [[monarchy]].
+
+[한글] 그것은 *지나간* 시대의 날들이었다.
+[EN] Those were the days of a [[bygone]] era.
+
+[한글] 그의 *자기만족적인* 태도는 모두를 짜증나게 했다.
+[EN] His [[smugness]] annoyed everyone.
+
+[한글] 그 보고서는 정부에 *치명적인* 비판이었다.
+[EN] The report was [[damning]] for the government.
+
+[한글] 그의 행동은 *완전히* 무례했다.
+[EN] His behavior was [[downright]] rude.
