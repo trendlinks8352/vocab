@@ -1263,3 +1263,51 @@
 
 [한글] 그의 행동은 *완전히* 무례했다.
 [EN] His behavior was [[downright]] rude.
+
+[한글] 그는 *의사인 척하고* 있었다.
+[EN] He was [[masquerading]] as a doctor.
+
+[한글] 그의 행동은 그의 *미성숙함을* 보여줬다.
+[EN] His actions showed his [[juvenility]].
+
+[한글] 물이 *틈새로* 스며들었다.
+[EN] Water seeped into the [[crevice]]s.
+
+[한글] 지지가 *점점 커지고* 있었다.
+[EN] There was a [[ground swell]] of support.
+
+[한글] 고양이가 소파에서 *몸을 웅크리고* 있었다.
+[EN] The cat was [[curling]] up on the sofa.
+
+[한글] 그녀는 일 후에 *지침을* 느꼈다.
+[EN] She felt [[weary]] after work.
+
+[한글] 그 건물은 주변 집들을 *작아 보이게* 했다.
+[EN] The building [[dwarfed]] the houses nearby.
+
+[한글] 과거에 많은 사람들이 *노예가* 되었다.
+[EN] Many people were [[enslaved]] in the past.
+
+[한글] 특정 단어를 *대문자로 쓰면* 강조 효과가 있다.
+[EN] [[Capitalising]] certain words adds emphasis.
+
+[한글] 그 의식은 *엄숙함으로* 가득했다.
+[EN] The ceremony was full of [[solemnity]].
+
+[한글] 그는 차분한 *태도를* 가지고 있다.
+[EN] He has a calm [[demeanour]].
+
+[한글] 올리브유에 마늘을 *볶아라*.
+[EN] [[Saute]] the garlic in olive oil.
+
+[한글] 소스에 *양송이버섯을* 넣어라.
+[EN] Add [[champignons]] to the sauce.
+
+[한글] 그의 상태가 *악화되기* 시작했다.
+[EN] His condition began to [[regress]].
+
+[한글] 두 계획 사이에는 *뚜렷한* 차이가 있다.
+[EN] There is a [[stark]] difference between the two plans.
+
+[한글] 남은 물을 *끓여서 날려라*.
+[EN] [[Boil off]] the excess water.
