@@ -1311,3 +1311,45 @@
 
 [한글] 남은 물을 *끓여서 날려라*.
 [EN] [[Boil off]] the excess water.
+
+[한글] 여론이 그 문제에 대해 *양극화되었다*.
+[EN] The public opinion was [[polarised]] on the issue.
+
+[한글] 그는 *미천한* 출신에서 성공했다.
+[EN] He rose from [[humble]] beginnings to success.
+
+[한글] 그녀는 고통을 창의성으로 *변형했다*.
+[EN] She [[transmuted]] pain into creativity.
+
+[한글] *지휘자가* 오케스트라를 완벽하게 이끌었다.
+[EN] The [[conductor]] led the orchestra perfectly.
+
+[한글] 그는 *악보를* 꼼꼼히 연구했다.
+[EN] He studied the musical [[score]] carefully.
+
+[한글] 사람들은 그의 동기를 *추측했다*.
+[EN] People [[speculated]] about his motives.
+
+[한글] 선생님이 학생들에게 자신감을 *불어넣었다*.
+[EN] The teacher [[infuse]]d students with confidence.
+
+[한글] 그는 *활기차게* 일했다.
+[EN] He worked with great [[vigour]].
+
+[한글] 그녀는 *훌륭한* 아이디어를 냈다.
+[EN] She had a [[brilliant]] idea.
+
+[한글] 그들은 *매우 행복한* 평화 속에 살았다.
+[EN] They lived in [[blissful]] peace.
+
+[한글] 그의 *무관심이* 나를 짜증나게 했다.
+[EN] His [[indifference]] annoyed me.
+
+[한글] 그 도시 길은 *미로* 같았다.
+[EN] The city streets formed a [[maze]].
+
+[한글] 그는 매일 실력을 *갈고닦고* 있다.
+[EN] He is [[honing]] his skills daily.
+
+[한글] 그녀는 매우 *날카로운* 사고력을 가지고 있다.
+[EN] She has a [[razor]]-sharp mind.
