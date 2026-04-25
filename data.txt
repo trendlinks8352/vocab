@@ -1386,3 +1386,39 @@
 
 [한글] 그는 자신의 진짜 감정을 *숨기려* 했다.
 [EN] He tried to [[disguise]] his true feelings.
+
+[한글] 오랜 *억압이* 그의 감정 문제를 일으켰다.
+[EN] Years of [[repression]] caused him emotional problems.
+
+[한글] 그녀는 의대에서 *정신의학을* 공부하고 있다.
+[EN] She is studying [[psychiatry]] at medical school.
+
+[한글] 그는 분노를 *억누르려* 했다.
+[EN] He tried to [[repress]] his anger.
+
+[한글] 그 보고서는 비판을 피하려고 *미화되었다*.
+[EN] The report was [[sanitise]]d to avoid criticism.
+
+[한글] 그 행동은 *인류학적으로* 설명될 수 있다.
+[EN] The behavior can be explained [[anthropologically]].
+
+[한글] 정부의 *개입이* 필요했다.
+[EN] Government [[intervention]] was necessary.
+
+[한글] 고대 사람들은 태양 *신을* 숭배했다.
+[EN] Ancient people worshipped a sun [[deity]].
+
+[한글] 그는 화난 고객을 *달래려* 했다.
+[EN] He tried to [[placate]] the angry customer.
+
+[한글] 그건 *난처한* 상황이었다.
+[EN] It was an [[embarrassing]] situation.
+
+[한글] 그의 *비뚤어진 성향은* 모두를 놀라게 했다.
+[EN] His [[perversion]] shocked everyone.
+
+[한글] 기후 변화는 *집단적 책임을* 요구한다.
+[EN] Climate change requires [[collective accountability]].
+
+[한글] 회사는 전적인 *책임을* 인정했다.
+[EN] The company accepted full [[liability]].
