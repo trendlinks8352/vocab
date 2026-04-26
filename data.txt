@@ -1455,3 +1455,9 @@
 
 [한글] 그의 사과는 *공허하게* 들렸다.
 [EN] His apology sounded [[hollow]].
+
+[한글] 그는 *이를 악물고* 고통을 참았다.
+[EN] He [[gritted]] his teeth and endured the pain.
+
+[한글] 그의 *턱이* 분노로 굳어졌다.
+[EN] His [[jaw]] tightened with anger.
