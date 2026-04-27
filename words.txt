@@ -486,3 +486,11 @@ agonising - 고통스러운, 괴로운
 hollow - 공허한, 텅 빈
 gritted - 이를 꽉 물다, 이를 악물다 (grit의 과거형)
 jaw - 턱 (위턱/아래턱)
+in proportion - ~에 비례하여, ~한 만큼
+stanza - 연 (시의 한 단락)
+monumentalisation - 기념비화, 신격화 (사람을 고정된 이미지로 만듦)
+curse - 저주 / (비유) 큰 고통, 재앙
+chalk - 분필
+assonance - 유사모음 (모음 반복)
+alliteration - 두운법 (같은 자음 반복)
+onomatopoeia - 의성어 / 의태어

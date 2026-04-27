@@ -1461,3 +1461,27 @@
 
 [한글] 그의 *턱이* 분노로 굳어졌다.
 [EN] His [[jaw]] tightened with anger.
+
+[한글] 성공은 노력에 *비례한다*.
+[EN] Success increases [[in proportion]] to effort.
+
+[한글] 이 시는 3개의 *연으로* 되어 있다.
+[EN] This poem has three [[stanza]]s.
+
+[한글] 영웅의 *기념비화는* 현실을 왜곡할 수 있다.
+[EN] The [[monumentalisation]] of heroes can distort reality.
+
+[한글] 명성은 *저주가* 될 수 있다.
+[EN] Fame can be a [[curse]].
+
+[한글] 선생님이 *분필로* 칠판에 썼다.
+[EN] The teacher wrote on the board with [[chalk]].
+
+[한글] 이 시는 리듬을 위해 *유사모음을* 사용한다.
+[EN] The poem uses [[assonance]] to create rhythm.
+
+[한글] 그 구절은 강조를 위해 *두운을* 사용한다.
+[EN] The phrase uses [[alliteration]] for emphasis.
+
+[한글] "buzz"는 *의성어의* 예다.
+[EN] "buzz" is an example of [[onomatopoeia]].
