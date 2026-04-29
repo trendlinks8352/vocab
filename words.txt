@@ -494,3 +494,9 @@ chalk - 분필
 assonance - 유사모음 (모음 반복)
 alliteration - 두운법 (같은 자음 반복)
 onomatopoeia - 의성어 / 의태어
+condescension - 잘난 척하는 태도, 상대를 깔보는 태도
+supremacy - 우월함, 최고 지위, 지배적인 상태
+etymology - 어원 (단어의 기원과 역사)
+jabbing - (빠르게) 콕콕 찌르는 것
+unwittingly - 자신도 모르게, 무심코
+condemn - 비난하다, 단죄하다

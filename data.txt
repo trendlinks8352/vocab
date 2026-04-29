@@ -1485,3 +1485,21 @@
 
 [한글] "buzz"는 *의성어의* 예다.
 [EN] "buzz" is an example of [[onomatopoeia]].
+
+[한글] 그의 말투에는 *상대를 깔보는* 태도가 있었다.
+[EN] His tone was full of [[condescension]].
+
+[한글] 그 팀은 결승에서 압도적 *우위를* 증명했다.
+[EN] The team proved its [[supremacy]] in the final.
+
+[한글] 이 단어의 *어원은* 라틴어다.
+[EN] The [[etymology]] of this word is Latin.
+
+[한글] 그는 계속 내 옆구리를 *찔렀다*.
+[EN] He kept [[jabbing]] me in the ribs.
+
+[한글] 그는 *자신도 모르게* 비밀을 말했다.
+[EN] He [[unwittingly]] revealed the secret.
+
+[한글] 법원은 그의 행동을 *단죄했다*.
+[EN] The court [[condemn]]ed him for his actions.
