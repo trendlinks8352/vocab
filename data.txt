@@ -1503,3 +1503,33 @@
 
 [한글] 법원은 그의 행동을 *단죄했다*.
 [EN] The court [[condemn]]ed him for his actions.
+
+[한글] 그의 농담은 *저속함으로* 가득했다.
+[EN] His jokes were full of [[vulgarity]].
+
+[한글] 그는 정직하다는 *점에서* 존경받는다.
+[EN] He is respected [[inasmuch as]] he is honest.
+
+[한글] 개인 정보를 공유할 때는 *신중해야* 한다.
+[EN] Use [[discretion]] when sharing personal information.
+
+[한글] 그는 공식 행사에 *어울리지 않게* 옷을 입었다.
+[EN] He was dressed [[incongruously]] for the formal event.
+
+[한글] 그 무용수는 *곡예 같은* 동작을 했다.
+[EN] The dancer made [[acrobatic]] movements.
+
+[한글] 그녀는 실수 후 *굴욕감을* 느꼈다.
+[EN] She felt [[humiliated]] after the mistake.
+
+[한글] 기본적인 *예의는* 사회에서 중요하다.
+[EN] Basic [[courtesy]] is important in society.
+
+[한글] 그 산을 오르는 것은 놀라운 *업적이었다*.
+[EN] Climbing the mountain was an amazing [[feat]].
+
+[한글] 그는 협상 중 *양보를* 했다.
+[EN] He made a [[concession]] during the negotiation.
+
+[한글] 그의 행동은 *저속하고* 부적절했다.
+[EN] His behavior was [[vulgar]] and inappropriate.
