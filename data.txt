@@ -1533,3 +1533,6 @@
 
 [한글] 그의 행동은 *저속하고* 부적절했다.
 [EN] His behavior was [[vulgar]] and inappropriate.
+
+[한글] 내 생각엔 오늘 *비 올 것 같아*.
+[EN] I [[reckon]] it'll rain today.
