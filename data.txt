@@ -1581,3 +1581,24 @@
 
 [한글] 그 회사는 오직 *전능한 돈만* 중요하게 생각한다.
 [EN] The company only cares about the [[almighty]] dollar.
+
+[한글] 그는 *어쩌면* 경주에서 이길 수도 있다.
+[EN] He could [[conceivably]] win the race.
+
+[한글] 심판의 판정 이후 큰 *소란이* 있었다.
+[EN] There was a [[hullabaloo]] after the referee's decision.
+
+[한글] 그는 심판 판정에 *이의를 제기해서* 벌을 받았다.
+[EN] He was punished for [[disputing]] the referee's call.
+
+[한글] *심판이* 논란이 되는 판정을 내렸다.
+[EN] The [[umpire]] made a controversial decision.
+
+[한글] 그녀는 그 회사에 대해 공식적으로 불만을 *제기했다*.
+[EN] She [[lodge]]d a complaint against the company.
+
+[한글] 그의 *부적절한* 행동은 모두를 놀라게 했다.
+[EN] His [[unseemly]] behavior shocked everyone.
+
+[한글] 그녀는 오염 없는 세상을 *예상한다*.
+[EN] She [[envisages]] a world without pollution.
