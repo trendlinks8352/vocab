@@ -1536,3 +1536,48 @@
 
 [한글] 내 생각엔 오늘 *비 올 것 같아*.
 [EN] I [[reckon]] it'll rain today.
+
+[한글] 그녀는 매우 *상냥하고* 대화하기 쉽다.
+[EN] She is very [[amiable]] and easy to talk to.
+
+[한글] 그는 무례한 행동 때문에 널리 *싫어한다*.
+[EN] He is widely [[disliked]] for his rude behavior.
+
+[한글] 그 독재자는 국민들에게 *경멸받았다*.
+[EN] The dictator was [[despised]] by the people.
+
+[한글] 이 테이블은 매우 *튼튼해서* 쉽게 부서지지 않는다.
+[EN] This table is very [[sturdy]] and won't break easily.
+
+[한글] 그의 행동은 그의 말과 *일치하지 않는다*.
+[EN] His actions are [[incompatible]] with his words.
+
+[한글] 자유는 그들의 국가적 *신념의* 중요한 부분이다.
+[EN] Freedom is an important part of their national [[creed]].
+
+[한글] 과거에는 *사치 금지법이* 사람들이 입을 수 있는 것을 통제했다.
+[EN] In the past, [[sumptuary regulations]] controlled what people could wear.
+
+[한글] 그의 성공은 노력에서 *비롯되었다*.
+[EN] His success has [[sprung]] from hard work.
+
+[한글] 그녀는 나에게 *냉담한* 반응을 보였다.
+[EN] She gave me a [[frigid]] response.
+
+[한글] 그는 *속담에 나올 정도로* 근면한 학생이다.
+[EN] He is the [[proverbial]] hardworking student.
+
+[한글] 그들은 매우 *관대한* 부모이다.
+[EN] They are very [[indulgent]] parents.
+
+[한글] 그것은 *노골적인* 거짓말이었다.
+[EN] It was a [[blatant]] lie.
+
+[한글] 그들은 자연의 *신성을* 믿었다.
+[EN] They believed in the [[divinity]] of nature.
+
+[한글] 리더는 반드시 *청렴함을* 가져야 한다.
+[EN] A leader must have [[integrity]].
+
+[한글] 그 회사는 오직 *전능한 돈만* 중요하게 생각한다.
+[EN] The company only cares about the [[almighty]] dollar.

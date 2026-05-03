@@ -511,3 +511,18 @@ feat - 위업, 대단한 기술·성과
 concession - 양보, 인정
 vulgar - 저속한, 천박한 / 교양 없는
 reckon - ~라고 생각하다, 추측하다 (영국·호주 영어, 가볍고 주관적인 느낌)
+amiable - 상냥한, 호감 가는
+disliked - 싫어하다
+despised - 경멸하다 (dislike보다 훨씬 강함)
+sturdy - 튼튼한, 강인한
+incompatible - 양립할 수 없는, 맞지 않는
+creed - 신념, 신조
+sumptuary regulations - 사치 금지법
+sprung - ~에서 비롯되다 (spring의 과거분사)
+frigid - 냉담한, 차가운
+proverbial - 속담에 나올 만큼 유명한, 잘 알려진
+indulgent - 관대한, 너그러운
+blatant - 노골적인, 뻔뻔한
+divinity - 신성, 신
+integrity - 정직, 도덕성, 청렴함
+almighty - 전능한 / (강조) 엄청난 (the almighty dollar = 돈이 최고)
