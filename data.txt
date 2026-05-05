@@ -1602,3 +1602,18 @@
 
 [한글] 그녀는 오염 없는 세상을 *예상한다*.
 [EN] She [[envisages]] a world without pollution.
+
+[한글] 그 비밀은 그의 마음 *깊은 곳에* 숨겨져 있었다.
+[EN] The secrets were hidden in the [[recesses]] of his mind.
+
+[한글] 그들의 *이념이* 결정에 영향을 준다.
+[EN] Their [[ideology]] influences their decisions.
+
+[한글] 그의 행동은 그의 신념과 *정반대다*.
+[EN] His behavior is [[antithetical]] to his beliefs.
+
+[한글] 그는 *유치한* 실수를 했다.
+[EN] He made a [[juvenile]] mistake.
+
+[한글] 그 프로그램은 정치 생활을 *풍자한* 것이다.
+[EN] The show is a [[satire]] of political life.
