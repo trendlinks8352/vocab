@@ -1617,3 +1617,12 @@
 
 [한글] 그 프로그램은 정치 생활을 *풍자한* 것이다.
 [EN] The show is a [[satire]] of political life.
+
+[한글] 그 그림은 전통 예술에 대한 *경의를* 담고 있다.
+[EN] The painting is an [[homage]] to traditional art.
+
+[한글] 스트레스는 어느새 *슬그머니 다가올* 수 있다.
+[EN] Stress can [[sneak up on]] you without warning.
+
+[한글] 그는 교실로 가기 위해 *복도를* 뛰어갔다.
+[EN] He ran through the [[corridor]] to the classroom.

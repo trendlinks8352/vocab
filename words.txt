@@ -538,3 +538,6 @@ ideology - 이데올로기, 사상, 신념 체계
 antithetical - 정반대의, 상반되는
 juvenile - 청소년의 / 유치한, 미성숙한
 satire - 풍자 (웃음으로 비판하는 표현)
+homage - 존경, 경의, 오마주
+sneak up on - 몰래 다가가다, 서서히 영향을 미치다
+corridor - 복도, 통로
