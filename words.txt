@@ -541,3 +541,13 @@ satire - 풍자 (웃음으로 비판하는 표현)
 homage - 존경, 경의, 오마주
 sneak up on - 몰래 다가가다, 서서히 영향을 미치다
 corridor - 복도, 통로
+atypical - 비전형적인, 일반적이지 않은
+clauses - 조항들 / 절들
+remorse - 후회, 죄책감
+bewildered - 어리둥절한, 혼란스러운
+dazed - 멍한, 얼떨떨한
+insidious - 서서히 해를 끼치는, 은밀히 위험한
+mightier - 더 강력한, 더 힘센
+foreign - 외국의, 낯선
+servile - 비굴한, 굽실거리는
+parasitical - 기생적인

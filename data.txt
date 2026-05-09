@@ -1626,3 +1626,33 @@
 
 [한글] 그는 교실로 가기 위해 *복도를* 뛰어갔다.
 [EN] He ran through the [[corridor]] to the classroom.
+
+[한글] 그의 반응은 *평소와 달랐다*.
+[EN] His response was [[atypical]].
+
+[한글] 그 계약서는 몇 가지 중요한 *조항들을* 포함한다.
+[EN] The contract contains several important [[clauses]].
+
+[한글] 그녀는 자신의 행동에 대해 *후회를* 보이지 않았다.
+[EN] She showed no [[remorse]] for her actions.
+
+[한글] 나는 그의 갑작스러운 결정에 *혼란스러웠다*.
+[EN] I was [[bewildered]] by his sudden decision.
+
+[한글] 그는 넘어진 후 *멍해* 보였다.
+[EN] He looked [[dazed]] after the fall.
+
+[한글] 스트레스는 건강에 *서서히 악영향을* 줄 수 있다.
+[EN] Stress can have an [[insidious]] effect on health.
+
+[한글] 말은 무기보다 *더 강력할* 수 있다.
+[EN] Words can be [[mightier]] than weapons.
+
+[한글] 그는 *외국* 회사에서 일한다.
+[EN] He works for a [[foreign]] company.
+
+[한글] 그는 상사에게 *비굴한* 태도를 보였다.
+[EN] He had a [[servile]] attitude toward his boss.
+
+[한글] 그 경제는 관광업에 *기생적으로* 의존하게 되었다.
+[EN] The economy became [[parasitical]] on tourism.
