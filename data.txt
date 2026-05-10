@@ -1656,3 +1656,21 @@
 
 [한글] 그 경제는 관광업에 *기생적으로* 의존하게 되었다.
 [EN] The economy became [[parasitical]] on tourism.
+
+[한글] 반군은 왕을 *축출하려* 했다.
+[EN] The rebels tried to [[oust]] the king.
+
+[한글] 광장에 많은 *인파가* 모였다.
+[EN] A large [[throng]] gathered in the square.
+
+[한글] 이탈리아어는 부드럽고 *모음이 풍부한* 언어다.
+[EN] Italian is a soft, [[vowelly]] language.
+
+[한글] 부족은 전통 *의식을* 공연했다.
+[EN] The tribe performed a traditional [[corroboree]].
+
+[한글] 시장은 사람들로 *북적였다*.
+[EN] The market was [[teeming]] with people.
+
+[한글] 수천 명의 *난민들이* 전쟁을 피해 도망쳤다.
+[EN] Thousands of [[refugee]]s fled the war.
