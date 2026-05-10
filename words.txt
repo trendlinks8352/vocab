@@ -557,3 +557,6 @@ vowelly - 모음 소리가 풍부한
 corroboree - 호주 원주민의 전통 의식·춤·집회
 teeming - 가득한, 들끓는
 refugee - 난민
+flattery - 아첨, 지나친 칭찬
+simile - 직유법 (~처럼, ~같이 비교)
+portraits - 초상화, 인물 묘사

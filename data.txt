@@ -1674,3 +1674,12 @@
 
 [한글] 수천 명의 *난민들이* 전쟁을 피해 도망쳤다.
 [EN] Thousands of [[refugee]]s fled the war.
+
+[한글] 그는 원하는 것을 얻기 위해 *아첨을* 했다.
+[EN] He used [[flattery]] to get what he wanted.
+
+[한글] "사자처럼 용감한"은 *직유법이다*.
+[EN] "As brave as a lion" is a [[simile]].
+
+[한글] 그 미술관은 왕과 왕비의 *초상화를* 전시했다.
+[EN] The gallery displayed [[portraits]] of kings and queens.
