@@ -1683,3 +1683,27 @@
 
 [한글] 그 미술관은 왕과 왕비의 *초상화를* 전시했다.
 [EN] The gallery displayed [[portraits]] of kings and queens.
+
+[한글] 나는 그가 정직하다는 것을 *확신한다*.
+[EN] I know with [[certainty]] that he is honest.
+
+[한글] 코치는 팀을 *몰아붙여* 승리하게 했다.
+[EN] The coach [[lashes on]] the team on to victory.
+
+[한글] 그녀는 힘든 하루 후 *평온을* 찾았다.
+[EN] She looked for [[repose]] after a stressful day.
+
+[한글] 회복 후 그는 다시 *상태가 악화되었다*.
+[EN] After recovering, he suffered a [[relapse]].
+
+[한글] 외국인들은 종종 한국 유머의 *미묘함을* 놓친다.
+[EN] Foreigners often miss the [[subtleties]] of Korean humor.
+
+[한글] 그녀는 거짓말 후 죄책감의 *고통을* 느꼈다.
+[EN] She felt [[pangs]] of guilt after lying.
+
+[한글] 그는 어려운 결정들과 오랫동안 *씨름했다*.
+[EN] He spent years [[wrestling]] with difficult decisions.
+
+[한글] 그는 정치에 깊은 *환멸을* 느꼈다.
+[EN] He felt deep [[disillusionment]] with politics.

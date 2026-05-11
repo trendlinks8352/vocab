@@ -560,3 +560,11 @@ refugee - 난민
 flattery - 아첨, 지나친 칭찬
 simile - 직유법 (~처럼, ~같이 비교)
 portraits - 초상화, 인물 묘사
+certainty - 확신, 확실함
+lashes on - 계속 몰아붙이다, 자극하여 더 나아가게 하다
+repose - 평온, 안정, 휴식
+relapse - 다시 나빠짐, 원래 상태로 되돌아감
+subtleties - 미묘한 차이들, 섬세한 부분들
+pangs - (갑작스러운) 고통, 괴로움
+wrestling - 몸부림치며 씨름하듯 다투는 것
+disillusionment - 환멸, 실망감 (기대가 깨진 상태)
