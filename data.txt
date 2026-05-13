@@ -1719,3 +1719,24 @@
 
 [한글] 그 학생은 *정학* 처분을 받았다.
 [EN] The student faced [[suspension]] from school.
+
+[한글] 파티에서 *모두가 즐겁게 이야기해서* 분위기가 활기찼다.
+[EN] [[Everyone happily talking]] at the party made the atmosphere lively.
+
+[한글] 회의는 *대략* 2시간 지속되었다.
+[EN] The meeting lasted [[roughly]] two hours.
+
+[한글] 그들은 작고 *지저분한* 아파트에 살았다.
+[EN] They lived in a small [[grungy]] apartment.
+
+[한글] 그 다큐멘터리는 어린 시청자들을 위해 *수준이 낮춰졌다*.
+[EN] The documentary was [[dumbed down]] for younger viewers.
+
+[한글] 그 시스템은 압박 상황에서도 *견고한* 것으로 알려져 있다.
+[EN] The system is known for its [[robustness]] under pressure.
+
+[한글] *그들의 목표는* 공교육을 향상시키는 것이다.
+[EN] [[Their aim]] is to improve public education.
+
+[한글] 그는 상사와 말다툼하기엔 너무 *온순했다*.
+[EN] He was too [[meek]] to argue with his boss.
