@@ -568,3 +568,7 @@ subtleties - 미묘한 차이들, 섬세한 부분들
 pangs - (갑작스러운) 고통, 괴로움
 wrestling - 몸부림치며 씨름하듯 다투는 것
 disillusionment - 환멸, 실망감 (기대가 깨진 상태)
+deduction - 추론 / 공제, 차감
+renounce - 포기하다, 버리다, 단념하다
+superimposition - 중첩, 겹쳐 놓음
+suspension - 정지, 중단 / 매달림

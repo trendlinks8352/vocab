@@ -1707,3 +1707,15 @@
 
 [한글] 그는 정치에 깊은 *환멸을* 느꼈다.
 [EN] He felt deep [[disillusionment]] with politics.
+
+[한글] 우리는 그 증거로부터 논리적 *추론을* 할 수 있다.
+[EN] We can make a logical [[deduction]] from the evidence.
+
+[한글] 그는 명성을 *버리고* 조용히 살기로 결정했다.
+[EN] He decided to [[renounce]] fame and live quietly.
+
+[한글] 그 이미지는 여러 사진을 *겹쳐 놓은* 것이다.
+[EN] The image is a [[superimposition]] of several photos.
+
+[한글] 그 학생은 *정학* 처분을 받았다.
+[EN] The student faced [[suspension]] from school.
