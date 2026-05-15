@@ -1740,3 +1740,30 @@
 
 [한글] 그는 상사와 말다툼하기엔 너무 *온순했다*.
 [EN] He was too [[meek]] to argue with his boss.
+
+[한글] 그녀는 할리우드에서 *화려한* 삶을 살았다.
+[EN] She lived a [[glamorous]] life in Hollywood.
+
+[한글] 빈티지 패션이 다시 *유행하기* 시작했다.
+[EN] Vintage fashion came into [[vogue]] again.
+
+[한글] 음악은 그에게 상실 후 *위로가* 되었다.
+[EN] Music gave him [[consolation]] after the loss.
+
+[한글] 전쟁 동안 많은 젊은 남성들이 *징집되었다*.
+[EN] Many young men were [[conscripted]] during the war.
+
+[한글] 사람들은 스타일보다 *실용성을* 중시했다.
+[EN] People valued [[practicality]] over style.
+
+[한글] 군인들은 외딴 *전초기지에* 배치되었다.
+[EN] Soldiers were stationed at a remote [[outpost]].
+
+[한글] 그는 *거칠고* 남성적인 외모를 가지고 있었다.
+[EN] He had a [[rugged]] and masculine appearance.
+
+[한글] *지나고 보니* 그것은 나쁜 결정이었다.
+[EN] In [[hindsight]], it was a bad decision.
+
+[한글] 그 잡지는 *나약한* 남성의 이미지를 거부했다.
+[EN] The magazine rejected the image of [[effete]] men.
