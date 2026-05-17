@@ -1767,3 +1767,21 @@
 
 [한글] 그 잡지는 *나약한* 남성의 이미지를 거부했다.
 [EN] The magazine rejected the image of [[effete]] men.
+
+[한글] 그의 발언의 *모호성* 때문에 혼란이 생겼다.
+[EN] The [[ambiguity]] in his statement led to confusion.
+
+[한글] 모든 투자에는 *본질적인* 위험이 따른다.
+[EN] Risk is [[inherent]] in every investment.
+
+[한글] 그들은 협력의 새 시대를 *시작하고* 있다.
+[EN] They are [[inaugurating]] a new era of cooperation.
+
+[한글] 그 단체는 정부를 *전복하려* 했다.
+[EN] The group tried to [[subvert]] the government.
+
+[한글] 슈퍼히어로의 *망토가* 바람에 펄럭였다.
+[EN] The superhero's [[cape]] was fluttering in the wind.
+
+[한글] 그 지진은 끔찍한 *대재앙이었다*.
+[EN] The earthquake was a terrible [[catastrophe]].

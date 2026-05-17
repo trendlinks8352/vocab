@@ -588,3 +588,9 @@ outpost - 전초기지, 외딴 기지
 rugged - 거친, 험한 / 강인한, 터프한
 hindsight - 뒤늦은 깨달음 (in hindsight = 지나고 보니)
 effete - 나약한, 무기력한, 활력 없는
+ambiguity - 모호함, 애매함
+inherent - 본질적인, 고유의, 내재된
+inaugurating - (공식적으로) 시작하다, 개막하다
+subvert - 전복시키다, 뒤엎다, 약화시키다
+cape - 망토, 케이프 / 곶(해안 지형)
+catastrophe - 대재앙, 참사, 큰 실패
