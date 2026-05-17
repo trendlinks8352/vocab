@@ -1785,3 +1785,18 @@
 
 [한글] 그 지진은 끔찍한 *대재앙이었다*.
 [EN] The earthquake was a terrible [[catastrophe]].
+
+[한글] 그 회사는 강한 리더십 없이 *허우적거리고* 있다.
+[EN] The company is [[floundering]] without strong leadership.
+
+[한글] 호랑이가 정글을 *어슬렁거리며* 돌아다니고 있었다.
+[EN] A tiger was [[prowling]] through the jungle.
+
+[한글] 그 방은 *다행스럽게도* 아주 조용했다.
+[EN] The room was [[blessedly]] quiet.
+
+[한글] 위험이 그림자 속에 *도사리고* 있었다.
+[EN] Danger was [[lurking]] in the shadows.
+
+[한글] 이것은 그 지역에서 *가장 평평한* 길이다.
+[EN] This is the [[flattest]] road in the region.
