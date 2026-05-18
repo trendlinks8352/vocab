@@ -1800,3 +1800,39 @@
 
 [한글] 이것은 그 지역에서 *가장 평평한* 길이다.
 [EN] This is the [[flattest]] road in the region.
+
+[한글] 솔직히 말하자면, 이 계획은 실패했다.
+[EN] Let's call a [[spade]] a spade — this plan failed.
+
+[한글] 물고기, 새, 포유류는 *척추동물이다*.
+[EN] Fish, birds, and mammals are [[vertebrate]]s.
+
+[한글] 영어에 *있어서는* 연습이 중요하다.
+[EN] [[When it comes to]] English, practice matters.
+
+[한글] 그 아이는 사고로 큰 *충격을 받았다*.
+[EN] The child was [[traumatised]] by the accident.
+
+[한글] 그 폭풍은 *대홍수급* 침수를 일으켰다.
+[EN] The storm caused [[biblical]] flooding.
+
+[한글] 회의가 *다행히* 짧게 끝났다.
+[EN] The meeting was [[mercifully]] short.
+
+[한글] 우리는 *신속한* 대응이 필요하다.
+[EN] We need an [[expeditious]] response.
+
+[한글] 그의 행동에는 악의가 *없었다*.
+[EN] His actions were [[innocent of]] malice.
+
+[한글] 동물 *학대는* 처벌받아야 한다.
+[EN] Animal [[cruelty]] should be punished.
+
+[한글] 그는 사실을 *모르고* 있었다.
+[EN] He was [[ignorant of]] the facts.
+
+[한글] 그는 실수했지만 *그럼에도* 성공했다.
+[EN] He made mistakes, but succeeded [[nonetheless]].
+
+[한글] 그 전쟁은 끔찍한 *만행으로* 얼룩졌다.
+[EN] The war was marked by terrible [[atrocity]].
