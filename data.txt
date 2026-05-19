@@ -1836,3 +1836,24 @@
 
 [한글] 그 전쟁은 끔찍한 *만행으로* 얼룩졌다.
 [EN] The war was marked by terrible [[atrocity]].
+
+[한글] 그녀는 음악에 남다른 *끌림이* 있다.
+[EN] She has an [[affinity]] for music.
+
+[한글] 수업 중 내 생각이 *딴 데로* 샜다.
+[EN] My mind began to [[wander]] during class.
+
+[한글] 그들은 도시 *외곽에* 산다.
+[EN] They live on the [[fringe]] of the city.
+
+[한글] 장례식에서 그의 농담은 매우 *안 어울렸다*.
+[EN] His joke was [[incongruous]] at the funeral.
+
+[한글] 그의 말과 행동 사이에는 *불일치가* 있다.
+[EN] There is an [[incongruity]] between his words and actions.
+
+[한글] 폭탄이 갑자기 *폭발했다*.
+[EN] The bomb [[detonate]]d suddenly.
+
+[한글] 약을 먹고 *몽롱하고 졸렸다*.
+[EN] I felt [[drowsy]] after taking the medicine.

@@ -611,3 +611,10 @@ cruelty - 잔인함, 잔혹성, 학대
 ignorant of - ~을 모르는, ~에 대해 무지한
 nonetheless - 그럼에도 불구하고
 atrocity - 만행, 극악한 범죄, 잔혹 행위
+affinity - 친밀감, 유사성, 자연스러운 끌림 / 친화성
+wander - 헤매다, 방황하다, (생각이) 딴 데로 가다
+fringe - 가장자리, 주변부 / 비주류 영역
+incongruous - 어울리지 않는, 부조화한
+incongruity - 부조화, 불일치 (incongruous의 명사형)
+detonate - 폭발하다, 폭발시키다
+drowsy - 졸린, 몽롱한, 나른한
