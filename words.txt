@@ -618,3 +618,11 @@ incongruous - 어울리지 않는, 부조화한
 incongruity - 부조화, 불일치 (incongruous의 명사형)
 detonate - 폭발하다, 폭발시키다
 drowsy - 졸린, 몽롱한, 나른한
+demographic transition - 인구 전환, 인구학적 전이
+rationalised - 합리화했다 / 합리적으로 설명했다
+diminution - 감소, 축소, 줄어듦
+fertility decline - 출산율 감소
+urbanisation - 도시화
+industrialisation - 산업화
+infant mortality - 영아 사망률
+threshold values - 임계값, 기준치

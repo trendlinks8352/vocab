@@ -1857,3 +1857,27 @@
 
 [한글] 약을 먹고 *몽롱하고 졸렸다*.
 [EN] I felt [[drowsy]] after taking the medicine.
+
+[한글] 많은 국가들은 산업화 동안 *인구 전환을* 겪었다.
+[EN] Many countries experienced [[demographic transition]] during industrialisation.
+
+[한글] 그는 자신의 결정을 *합리화했다*.
+[EN] He [[rationalised]] his decision.
+
+[한글] 인구 증가가 *감소했다*.
+[EN] There was a [[diminution]] in population growth.
+
+[한글] 많은 선진국은 *출산율 감소를* 겪고 있다.
+[EN] Many developed nations face [[fertility decline]].
+
+[한글] *도시화는* 가족 구조를 바꾸었다.
+[EN] [[Urbanisation]] changed family structures.
+
+[한글] *산업화는* 공장 생산을 증가시켰다.
+[EN] [[Industrialisation]] increased factory production.
+
+[한글] 의료 개선은 *영아 사망률을* 낮췄다.
+[EN] Improved healthcare lowered [[infant mortality]].
+
+[한글] 비용이 *임계 수준에* 도달했다.
+[EN] Costs reached [[threshold values]].
