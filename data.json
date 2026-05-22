@@ -1,0 +1,5953 @@
+{
+  "questions": [
+    {
+      "id": "prep-in-01",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "Scientists engage [BLANK] research to understand climate change. Many universities encourage students to participate [BLANK] discussions and specialize [BLANK] a particular field.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of"
+      ],
+      "answers": [
+        "in",
+        "in",
+        "in"
+      ],
+      "explanation": "전치사 IN 그룹 ①\n• engage in — 참여하다\n• participate in — 참가하다\n• specialize in — 전공/전문으로 하다",
+      "memo": "engage in / participate in / specialize in"
+    },
+    {
+      "id": "prep-in-02",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "The experiment resulted [BLANK] significant change. The policy involves [BLANK] decision making at all levels. Most people believe [BLANK] the power of education.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of"
+      ],
+      "answers": [
+        "in",
+        "in",
+        "in"
+      ],
+      "explanation": "전치사 IN 그룹 ②\n• result in — 초래하다 (원인→결과)\n• involve in — 관여하다\n• believe in — 믿다\n\n⚠️ result IN(초래) vs result FROM(기인)",
+      "memo": "result in / involve in / believe in"
+    },
+    {
+      "id": "prep-in-03",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "Students succeed [BLANK] achieving goals when they engage [BLANK] structured learning. The programme consists [BLANK] three main components.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of"
+      ],
+      "answers": [
+        "in",
+        "in",
+        "of"
+      ],
+      "explanation": "• succeed in — 성공하다\n• engage in — 참여하다\n• consist of — 구성되다 (of!)\n\n⚠️ consist OF가 PTE 기본 형태입니다.",
+      "memo": "succeed in / engage in / consist of"
+    },
+    {
+      "id": "prep-in-drill",
+      "type": "MCM",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "",
+      "question": "【전치사 IN 드릴】 IN과 함께 쓰이는 올바른 표현을 모두 고르세요.",
+      "options": [
+        {
+          "text": "engage in",
+          "correct": true
+        },
+        {
+          "text": "engage with",
+          "correct": false
+        },
+        {
+          "text": "result in",
+          "correct": true
+        },
+        {
+          "text": "result to",
+          "correct": false
+        },
+        {
+          "text": "participate in",
+          "correct": true
+        },
+        {
+          "text": "participate to",
+          "correct": false
+        },
+        {
+          "text": "specialize in",
+          "correct": true
+        },
+        {
+          "text": "specialize on",
+          "correct": false
+        },
+        {
+          "text": "succeed in",
+          "correct": true
+        },
+        {
+          "text": "succeed on",
+          "correct": false
+        },
+        {
+          "text": "believe in",
+          "correct": true
+        },
+        {
+          "text": "believe to",
+          "correct": false
+        }
+      ],
+      "answers": [],
+      "explanation": "IN 그룹: engage / participate / result / succeed / specialize / believe / involve\n공통 의미: '참여·포함·결과'",
+      "memo": "IN 그룹 드릴"
+    },
+    {
+      "id": "prep-on-01",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "Researchers focus [BLANK] improving education. Many countries depend [BLANK] technological innovation. Scientists concentrate [BLANK] collecting accurate data.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of"
+      ],
+      "answers": [
+        "on",
+        "on",
+        "on"
+      ],
+      "explanation": "전치사 ON 그룹 ①\n• focus on — 집중하다\n• depend on — 의존하다\n• concentrate on — 집중하다\n\n💡 focus on = concentrate on (거의 동의어)",
+      "memo": "focus on / depend on / concentrate on"
+    },
+    {
+      "id": "prep-on-02",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "Modern healthcare relies [BLANK] data analysis. Conclusions were based [BLANK] extensive evidence. The government insisted [BLANK] strict environmental standards.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of"
+      ],
+      "answers": [
+        "on",
+        "on",
+        "on"
+      ],
+      "explanation": "전치사 ON 그룹 ②\n• rely on — 의존하다\n• based on — 근거하다\n• insist on — 주장하다\n\n⚠️ based on = founded on (같은 의미)",
+      "memo": "rely on / based on / insist on"
+    },
+    {
+      "id": "prep-on-03",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "The findings reflect [BLANK] significant social change. The report comments [BLANK] the urgent need for further research.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of"
+      ],
+      "answers": [
+        "on",
+        "on"
+      ],
+      "explanation": "• reflect on — 반영하다/반성하다\n• comment on — 언급하다",
+      "memo": "reflect on / comment on"
+    },
+    {
+      "id": "prep-on-drill",
+      "type": "MCM",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "",
+      "question": "【전치사 ON 드릴】 ON과 함께 쓰이는 올바른 표현을 모두 고르세요.",
+      "options": [
+        {
+          "text": "focus on",
+          "correct": true
+        },
+        {
+          "text": "focus in",
+          "correct": false
+        },
+        {
+          "text": "depend on",
+          "correct": true
+        },
+        {
+          "text": "depend in",
+          "correct": false
+        },
+        {
+          "text": "rely on",
+          "correct": true
+        },
+        {
+          "text": "rely to",
+          "correct": false
+        },
+        {
+          "text": "based on",
+          "correct": true
+        },
+        {
+          "text": "based in",
+          "correct": false
+        },
+        {
+          "text": "insist on",
+          "correct": true
+        },
+        {
+          "text": "insist in",
+          "correct": false
+        },
+        {
+          "text": "comment on",
+          "correct": true
+        },
+        {
+          "text": "comment about",
+          "correct": false
+        }
+      ],
+      "answers": [],
+      "explanation": "ON 그룹: focus / depend / concentrate / rely / base / insist / reflect / comment\n공통 의미: '방향·근거·의존'",
+      "memo": "ON 그룹 드릴"
+    },
+    {
+      "id": "prep-to-01",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "Exercise contributes [BLANK] improved mental health. New technologies lead [BLANK] better outcomes. This study refers [BLANK] previous research conducted in the 1990s.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of"
+      ],
+      "answers": [
+        "to",
+        "to",
+        "to"
+      ],
+      "explanation": "전치사 TO 그룹 ①\n• contribute to — 기여하다\n• lead to — 이어지다\n• refer to — 언급/참고하다\n\n💡 contribute to / lead to 는 PTE 최빈출!",
+      "memo": "contribute to / lead to / refer to"
+    },
+    {
+      "id": "prep-to-02",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "Organisations must adapt [BLANK] changing conditions. The findings relate [BLANK] social factors. The decline was attributed [BLANK] a lack of funding.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of"
+      ],
+      "answers": [
+        "to",
+        "to",
+        "to"
+      ],
+      "explanation": "전치사 TO 그룹 ②\n• adapt to — 적응하다\n• relate to — 관련되다\n• attribute to — 원인으로 돌리다\n\n⚠️ attribute A to B = A를 B의 탓으로 돌리다",
+      "memo": "adapt to / relate to / attribute to"
+    },
+    {
+      "id": "prep-to-03",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "The community responded [BLANK] environmental challenges with immediate action. The dataset belongs [BLANK] a broader collection of urban studies.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of"
+      ],
+      "answers": [
+        "to",
+        "to"
+      ],
+      "explanation": "• respond to — 반응하다/대응하다\n• belong to — 속하다",
+      "memo": "respond to / belong to"
+    },
+    {
+      "id": "prep-to-drill",
+      "type": "MCM",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "",
+      "question": "【전치사 TO 드릴】 TO와 함께 쓰이는 올바른 표현을 모두 고르세요.",
+      "options": [
+        {
+          "text": "contribute to",
+          "correct": true
+        },
+        {
+          "text": "contribute in",
+          "correct": false
+        },
+        {
+          "text": "lead to",
+          "correct": true
+        },
+        {
+          "text": "lead in",
+          "correct": false
+        },
+        {
+          "text": "adapt to",
+          "correct": true
+        },
+        {
+          "text": "adapt with",
+          "correct": false
+        },
+        {
+          "text": "respond to",
+          "correct": true
+        },
+        {
+          "text": "respond on",
+          "correct": false
+        },
+        {
+          "text": "attribute to",
+          "correct": true
+        },
+        {
+          "text": "attribute for",
+          "correct": false
+        },
+        {
+          "text": "belong to",
+          "correct": true
+        },
+        {
+          "text": "belong for",
+          "correct": false
+        }
+      ],
+      "answers": [],
+      "explanation": "TO 그룹: contribute / lead / refer / belong / respond / adapt / relate / attribute\n공통 의미: '방향·연결·귀속'",
+      "memo": "TO 그룹 드릴"
+    },
+    {
+      "id": "prep-with-01",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "Obesity is closely associated [BLANK] a sedentary lifestyle. Governments must deal [BLANK] complex environmental problems. Many people struggle to cope [BLANK] stress.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of"
+      ],
+      "answers": [
+        "with",
+        "with",
+        "with"
+      ],
+      "explanation": "전치사 WITH 그룹 ①\n• associate with — 관련짓다\n• deal with — 처리하다\n• cope with — 대처하다",
+      "memo": "associate with / deal with / cope with"
+    },
+    {
+      "id": "prep-with-02",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "Researchers compared results [BLANK] previous studies. Most experts agree [BLANK] the conclusion. Universities collaborate [BLANK] international partners.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of"
+      ],
+      "answers": [
+        "with",
+        "with",
+        "with"
+      ],
+      "explanation": "전치사 WITH 그룹 ②\n• compare with — 비교하다\n• agree with — 동의하다\n• collaborate with — 협력하다\n\n⚠️ compare WITH(같은 종류 비교) vs compare TO(비유)",
+      "memo": "compare with / agree with / collaborate with"
+    },
+    {
+      "id": "prep-with-03",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "The researcher connected theory [BLANK] practice. The new data contrasts sharply [BLANK] earlier findings.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of"
+      ],
+      "answers": [
+        "with",
+        "with"
+      ],
+      "explanation": "• connect with — 연결하다\n• contrast with — 대조하다",
+      "memo": "connect with / contrast with"
+    },
+    {
+      "id": "prep-with-drill",
+      "type": "MCM",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "",
+      "question": "【전치사 WITH 드릴】 WITH와 함께 쓰이는 올바른 표현을 모두 고르세요.",
+      "options": [
+        {
+          "text": "associate with",
+          "correct": true
+        },
+        {
+          "text": "associate to",
+          "correct": false
+        },
+        {
+          "text": "deal with",
+          "correct": true
+        },
+        {
+          "text": "deal on",
+          "correct": false
+        },
+        {
+          "text": "cope with",
+          "correct": true
+        },
+        {
+          "text": "cope to",
+          "correct": false
+        },
+        {
+          "text": "compare with",
+          "correct": true
+        },
+        {
+          "text": "compare for",
+          "correct": false
+        },
+        {
+          "text": "agree with",
+          "correct": true
+        },
+        {
+          "text": "agree to",
+          "correct": false
+        },
+        {
+          "text": "collaborate with",
+          "correct": true
+        },
+        {
+          "text": "collaborate to",
+          "correct": false
+        }
+      ],
+      "answers": [],
+      "explanation": "WITH 그룹: associate / deal / cope / compare / agree / connect / collaborate / contrast\n공통 의미: '관계·비교·협력'",
+      "memo": "WITH 그룹 드릴"
+    },
+    {
+      "id": "prep-for-01",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "Each department is responsible [BLANK] managing its budget. The institution is known [BLANK] innovative research. This method is suitable [BLANK] academic purposes.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of"
+      ],
+      "answers": [
+        "for",
+        "for",
+        "for"
+      ],
+      "explanation": "전치사 FOR 그룹 (형용사)\n• responsible for — 책임이 있는\n• known for — ~로 알려진\n• suitable for — ~에 적합한",
+      "memo": "responsible for / known for / suitable for"
+    },
+    {
+      "id": "prep-for-02",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "Investment is necessary [BLANK] long-term success. Staff must be prepared [BLANK] future challenges. Exercise is beneficial [BLANK] public health.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of"
+      ],
+      "answers": [
+        "for",
+        "for",
+        "for"
+      ],
+      "explanation": "전치사 FOR 그룹 (형용사)\n• necessary for — 필요한\n• prepared for — 대비한\n• beneficial for — 유익한\n\n+ eligible for / famous for 도 함께 기억!",
+      "memo": "necessary for / prepared for / beneficial for"
+    },
+    {
+      "id": "prep-for-drill",
+      "type": "MCM",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "",
+      "question": "【전치사 FOR 드릴】 FOR과 함께 쓰이는 올바른 표현을 모두 고르세요.",
+      "options": [
+        {
+          "text": "responsible for",
+          "correct": true
+        },
+        {
+          "text": "responsible of",
+          "correct": false
+        },
+        {
+          "text": "known for",
+          "correct": true
+        },
+        {
+          "text": "known of",
+          "correct": false
+        },
+        {
+          "text": "suitable for",
+          "correct": true
+        },
+        {
+          "text": "suitable to",
+          "correct": false
+        },
+        {
+          "text": "necessary for",
+          "correct": true
+        },
+        {
+          "text": "necessary to",
+          "correct": false
+        },
+        {
+          "text": "beneficial for",
+          "correct": true
+        },
+        {
+          "text": "beneficial of",
+          "correct": false
+        },
+        {
+          "text": "eligible for",
+          "correct": true
+        },
+        {
+          "text": "eligible to",
+          "correct": false
+        }
+      ],
+      "answers": [],
+      "explanation": "FOR 그룹: responsible / known / famous / suitable / necessary / prepared / eligible / beneficial\n공통 의미: 형용사 '자격·적합·책임'",
+      "memo": "FOR 그룹 드릴"
+    },
+    {
+      "id": "prep-of-01",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "Social media has become part [BLANK] modern society. The effect [BLANK] climate change is felt worldwide. A lack [BLANK] resources remains a major obstacle.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of"
+      ],
+      "answers": [
+        "of",
+        "of",
+        "of"
+      ],
+      "explanation": "전치사 OF 그룹 (명사)\n• part of — 일부\n• effect of — 영향\n• lack of — 부족",
+      "memo": "part of / effect of / lack of"
+    },
+    {
+      "id": "prep-of-02",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "Fossil fuels remain the primary source [BLANK] energy. Exercise is an important form [BLANK] social interaction. Pollution is the main cause [BLANK] environmental damage.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of"
+      ],
+      "answers": [
+        "of",
+        "of",
+        "of"
+      ],
+      "explanation": "전치사 OF 그룹 (명사)\n• source of — 원천\n• form of — 형태\n• cause of — 원인\n\n⚠️ cause of(물리적 원인) vs reason for(논리적 이유)",
+      "memo": "source of / form of / cause of"
+    },
+    {
+      "id": "prep-of-drill",
+      "type": "MCM",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "",
+      "question": "【전치사 OF 드릴】 OF와 함께 쓰이는 올바른 표현을 모두 고르세요.",
+      "options": [
+        {
+          "text": "part of",
+          "correct": true
+        },
+        {
+          "text": "part in",
+          "correct": false
+        },
+        {
+          "text": "effect of",
+          "correct": true
+        },
+        {
+          "text": "effect on",
+          "correct": false
+        },
+        {
+          "text": "lack of",
+          "correct": true
+        },
+        {
+          "text": "lack in",
+          "correct": false
+        },
+        {
+          "text": "source of",
+          "correct": true
+        },
+        {
+          "text": "source from",
+          "correct": false
+        },
+        {
+          "text": "cause of",
+          "correct": true
+        },
+        {
+          "text": "cause for",
+          "correct": false
+        },
+        {
+          "text": "form of",
+          "correct": true
+        },
+        {
+          "text": "form in",
+          "correct": false
+        }
+      ],
+      "answers": [],
+      "explanation": "OF 그룹: part / effect / result / cause / source / lack / form / type\n공통 의미: 명사의 '내용·소속·관계'",
+      "memo": "OF 그룹 드릴"
+    },
+    {
+      "id": "prep-between-01",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "Scientists found a clear relationship [BLANK] diet and health. The difference [BLANK] urban and rural areas has widened. A comparison [BLANK] the two studies reveals inconsistencies.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "between",
+        "of",
+        "about"
+      ],
+      "answers": [
+        "between",
+        "between",
+        "between"
+      ],
+      "explanation": "전치사 BETWEEN 그룹 ①\n• relationship between — 사이의 관계\n• difference between — 사이의 차이\n• comparison between — 사이의 비교",
+      "memo": "relationship between / difference between / comparison between"
+    },
+    {
+      "id": "prep-between-02",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "There is a strong connection [BLANK] environment and health. Maintaining a balance [BLANK] work and life is essential. The contrast [BLANK] the two approaches highlights key differences.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "between",
+        "of",
+        "about"
+      ],
+      "answers": [
+        "between",
+        "between",
+        "between"
+      ],
+      "explanation": "전치사 BETWEEN 그룹 ②\n• connection between — 연결\n• balance between — 균형\n• contrast between — 대조\n\n+ interaction between / conflict between",
+      "memo": "connection between / balance between / contrast between"
+    },
+    {
+      "id": "prep-between-drill",
+      "type": "MCM",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "",
+      "question": "【전치사 BETWEEN 드릴】 BETWEEN과 함께 쓰이는 올바른 표현을 모두 고르세요.",
+      "options": [
+        {
+          "text": "relationship between",
+          "correct": true
+        },
+        {
+          "text": "relationship with",
+          "correct": false
+        },
+        {
+          "text": "difference between",
+          "correct": true
+        },
+        {
+          "text": "difference in",
+          "correct": false
+        },
+        {
+          "text": "balance between",
+          "correct": true
+        },
+        {
+          "text": "balance of",
+          "correct": false
+        },
+        {
+          "text": "connection between",
+          "correct": true
+        },
+        {
+          "text": "connection to",
+          "correct": false
+        },
+        {
+          "text": "contrast between",
+          "correct": true
+        },
+        {
+          "text": "contrast with",
+          "correct": false
+        }
+      ],
+      "answers": [],
+      "explanation": "BETWEEN: relationship / difference / comparison / interaction / connection / balance / contrast / conflict\n공통 의미: 두 대상 '사이'",
+      "memo": "BETWEEN 그룹 드릴"
+    },
+    {
+      "id": "prep-about-01",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "Researchers are concerned [BLANK] climate change. Governments are worried [BLANK] environmental damage. Citizens should be informed [BLANK] recent policy developments.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of",
+        "about",
+        "at"
+      ],
+      "answers": [
+        "about",
+        "about",
+        "about"
+      ],
+      "explanation": "전치사 ABOUT 그룹\n• concerned about — 걱정하는\n• worried about — 걱정하는\n• informed about — 알고 있는\n\n💡 '감정·태도 + about' 패턴",
+      "memo": "concerned about / worried about / informed about"
+    },
+    {
+      "id": "prep-about-02",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "The public must be aware [BLANK] health risks. Policymakers regularly talk [BLANK] economic growth strategies.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of",
+        "about",
+        "at"
+      ],
+      "answers": [
+        "of",
+        "about"
+      ],
+      "explanation": "• aware of — ~을 알고 있는 (of가 일반적)\n• talk about — ~에 대해 이야기하다",
+      "memo": "aware of / talk about"
+    },
+    {
+      "id": "prep-at-01",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "Some students are particularly good [BLANK] problem solving. The project aims [BLANK] improving productivity. Researchers looked [BLANK] data from multiple sources.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "with",
+        "for",
+        "of",
+        "about",
+        "at"
+      ],
+      "answers": [
+        "at",
+        "at",
+        "at"
+      ],
+      "explanation": "전치사 AT 그룹\n• good at — 잘하다\n• aim at — 목표로 하다\n• look at — 보다\n\n⚠️ aim at(구체적 목표) vs aim for(추상적 목표)",
+      "memo": "good at / aim at / look at"
+    },
+    {
+      "id": "prep-at-02",
+      "type": "MCS",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "",
+      "question": "After years of analysis, researchers arrived ___ new conclusions.",
+      "options": [
+        {
+          "text": "at",
+          "correct": true
+        },
+        {
+          "text": "to",
+          "correct": false
+        },
+        {
+          "text": "on",
+          "correct": false
+        },
+        {
+          "text": "in",
+          "correct": false
+        }
+      ],
+      "answers": [],
+      "explanation": "arrive at a conclusion — 결론에 도달하다\n\n⚠️ arrive AT(결론·지점) / arrive IN(도시·국가) / arrive ON(날짜)",
+      "memo": "arrive at a conclusion"
+    },
+    {
+      "id": "phrase-01",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "In terms [BLANK] economic impact, the policy has been successful. As a result [BLANK] increased investment, productivity improved. In contrast [BLANK] previous years, unemployment has decreased.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "of",
+        "to",
+        "in",
+        "with",
+        "for",
+        "on"
+      ],
+      "answers": [
+        "of",
+        "of",
+        "to"
+      ],
+      "explanation": "고정 구문 ①\n• in terms of — ~의 관점에서\n• as a result of — ~의 결과로\n• in contrast to — ~와 대조적으로",
+      "memo": "in terms of / as a result of / in contrast to"
+    },
+    {
+      "id": "phrase-02",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "The policy was developed in response [BLANK] public demand. Decisions should be made on the basis [BLANK] reliable evidence. Activities must be carried out in accordance [BLANK] safety regulations.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "of",
+        "to",
+        "in",
+        "with",
+        "for",
+        "on"
+      ],
+      "answers": [
+        "to",
+        "of",
+        "with"
+      ],
+      "explanation": "고정 구문 ②\n• in response to — 대응하여\n• on the basis of — 근거하여\n• in accordance with — 따라\n\n⚠️ 각각 전치사가 다릅니다! 꼭 외우세요.",
+      "memo": "in response to / on the basis of / in accordance with"
+    },
+    {
+      "id": "phrase-03",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "With regard [BLANK] environmental policy, progress has been slow. Results should be considered in relation [BLANK] the broader context. In addition [BLANK] economic factors, cultural influences must also be considered.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "of",
+        "to",
+        "in",
+        "with",
+        "for",
+        "on"
+      ],
+      "answers": [
+        "to",
+        "to",
+        "to"
+      ],
+      "explanation": "고정 구문 ③\n• with regard to — ~에 관하여\n• in relation to — ~에 관련하여\n• in addition to — ~에 덧붙여\n\n💡 셋 다 TO!",
+      "memo": "with regard to / in relation to / in addition to"
+    },
+    {
+      "id": "phrase-04",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "In comparison [BLANK] other countries, Australia has high living standards. The evidence is in favour [BLANK] renewable energy. The protest proceeded in spite [BLANK] poor weather.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "of",
+        "to",
+        "in",
+        "with",
+        "for",
+        "on"
+      ],
+      "answers": [
+        "with",
+        "of",
+        "of"
+      ],
+      "explanation": "고정 구문 ④\n• in comparison with — ~와 비교하여\n• in favour of — ~에 찬성하여\n• in spite of — ~에도 불구하고\n\n⚠️ in spite of = despite (despite 뒤에는 of 없음!)",
+      "memo": "in comparison with / in favour of / in spite of"
+    },
+    {
+      "id": "phrase-05",
+      "type": "FIB",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "Cameras were installed in place [BLANK] security guards. Scientists worked in search [BLANK] a viable solution to the energy crisis.",
+      "question": "빈칸에 알맞은 전치사를 고르세요.",
+      "options": [
+        "of",
+        "to",
+        "in",
+        "with",
+        "for",
+        "on"
+      ],
+      "answers": [
+        "of",
+        "of"
+      ],
+      "explanation": "고정 구문 ⑤\n• in place of — ~을 대신하여\n• in search of — ~을 찾아서\n\n+ in support of(지지하여) / in favour of(찬성하여)",
+      "memo": "in place of / in search of"
+    },
+    {
+      "id": "phrase-drill",
+      "type": "MCM",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "",
+      "question": "【고정 전치사 구문 드릴】 올바른 표현을 모두 고르세요.",
+      "options": [
+        {
+          "text": "in terms of",
+          "correct": true
+        },
+        {
+          "text": "in terms with",
+          "correct": false
+        },
+        {
+          "text": "as a result of",
+          "correct": true
+        },
+        {
+          "text": "as a result from",
+          "correct": false
+        },
+        {
+          "text": "in response to",
+          "correct": true
+        },
+        {
+          "text": "in response of",
+          "correct": false
+        },
+        {
+          "text": "on the basis of",
+          "correct": true
+        },
+        {
+          "text": "on the basis on",
+          "correct": false
+        },
+        {
+          "text": "in accordance with",
+          "correct": true
+        },
+        {
+          "text": "in accordance to",
+          "correct": false
+        },
+        {
+          "text": "in spite of",
+          "correct": true
+        },
+        {
+          "text": "in despite of",
+          "correct": false
+        },
+        {
+          "text": "in favour of",
+          "correct": true
+        },
+        {
+          "text": "in favour to",
+          "correct": false
+        },
+        {
+          "text": "with regard to",
+          "correct": true
+        },
+        {
+          "text": "with regard of",
+          "correct": false
+        }
+      ],
+      "answers": [],
+      "explanation": "PTE 초빈출 고정 구문:\n• in terms of\n• as a result of\n• in response to\n• on the basis of\n• in accordance WITH ← with!\n• with regard to\n• in relation to\n• in addition to\n• in comparison WITH ← with!\n• in favour of\n• in spite of\n• in contrast to\n• in place of\n• in search of",
+      "memo": "고정 전치사 구문 총정리"
+    },
+    {
+      "id": "review-in-on",
+      "type": "MCM",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "",
+      "question": "【종합 복습 1】 IN vs ON — 올바른 표현을 모두 고르세요.",
+      "options": [
+        {
+          "text": "engage in research",
+          "correct": true
+        },
+        {
+          "text": "engage on research",
+          "correct": false
+        },
+        {
+          "text": "focus on education",
+          "correct": true
+        },
+        {
+          "text": "focus in education",
+          "correct": false
+        },
+        {
+          "text": "result in change",
+          "correct": true
+        },
+        {
+          "text": "result on change",
+          "correct": false
+        },
+        {
+          "text": "depend on evidence",
+          "correct": true
+        },
+        {
+          "text": "depend in evidence",
+          "correct": false
+        },
+        {
+          "text": "specialize in science",
+          "correct": true
+        },
+        {
+          "text": "specialize on science",
+          "correct": false
+        },
+        {
+          "text": "insist on standards",
+          "correct": true
+        },
+        {
+          "text": "insist in standards",
+          "correct": false
+        }
+      ],
+      "answers": [],
+      "explanation": "IN: engage / participate / result / specialize / succeed / believe / involve\nON: focus / depend / concentrate / rely / base / insist / reflect / comment\n\n헷갈릴 때: '참여·포함' → IN / '방향·근거' → ON",
+      "memo": "IN vs ON"
+    },
+    {
+      "id": "review-to-with",
+      "type": "MCM",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "",
+      "question": "【종합 복습 2】 TO vs WITH — 올바른 표현을 모두 고르세요.",
+      "options": [
+        {
+          "text": "contribute to growth",
+          "correct": true
+        },
+        {
+          "text": "contribute with growth",
+          "correct": false
+        },
+        {
+          "text": "associate with obesity",
+          "correct": true
+        },
+        {
+          "text": "associate to obesity",
+          "correct": false
+        },
+        {
+          "text": "adapt to change",
+          "correct": true
+        },
+        {
+          "text": "adapt with change",
+          "correct": false
+        },
+        {
+          "text": "deal with problems",
+          "correct": true
+        },
+        {
+          "text": "deal to problems",
+          "correct": false
+        },
+        {
+          "text": "respond to challenges",
+          "correct": true
+        },
+        {
+          "text": "respond with challenges",
+          "correct": false
+        },
+        {
+          "text": "agree with conclusions",
+          "correct": true
+        },
+        {
+          "text": "agree to conclusions",
+          "correct": false
+        }
+      ],
+      "answers": [],
+      "explanation": "TO: contribute / lead / refer / belong / respond / adapt / relate / attribute\nWITH: associate / deal / cope / compare / agree / connect / collaborate / contrast\n\n헷갈릴 때: '방향·연결' → TO / '관계·협력' → WITH",
+      "memo": "TO vs WITH"
+    },
+    {
+      "id": "review-for-of",
+      "type": "MCM",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "",
+      "question": "【종합 복습 3】 FOR vs OF — 올바른 표현을 모두 고르세요.",
+      "options": [
+        {
+          "text": "responsible for",
+          "correct": true
+        },
+        {
+          "text": "responsible of",
+          "correct": false
+        },
+        {
+          "text": "cause of",
+          "correct": true
+        },
+        {
+          "text": "cause for",
+          "correct": false
+        },
+        {
+          "text": "known for",
+          "correct": true
+        },
+        {
+          "text": "known of",
+          "correct": false
+        },
+        {
+          "text": "part of",
+          "correct": true
+        },
+        {
+          "text": "part for",
+          "correct": false
+        },
+        {
+          "text": "suitable for",
+          "correct": true
+        },
+        {
+          "text": "suitable of",
+          "correct": false
+        },
+        {
+          "text": "lack of",
+          "correct": true
+        },
+        {
+          "text": "lack for",
+          "correct": false
+        }
+      ],
+      "answers": [],
+      "explanation": "FOR(형용사): responsible / known / famous / suitable / necessary / prepared / eligible / beneficial\nOF(명사): part / effect / cause / source / lack / form / type\n\n형용사 뒤 → FOR / 명사 뒤 → OF",
+      "memo": "FOR vs OF"
+    },
+    {
+      "id": "review-phrases",
+      "type": "MCM",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "",
+      "question": "【종합 복습 4】 자주 틀리는 고정 구문 — 올바른 것만 고르세요.",
+      "options": [
+        {
+          "text": "in accordance with",
+          "correct": true
+        },
+        {
+          "text": "in accordance to",
+          "correct": false
+        },
+        {
+          "text": "in comparison with",
+          "correct": true
+        },
+        {
+          "text": "in comparison to",
+          "correct": false
+        },
+        {
+          "text": "in spite of",
+          "correct": true
+        },
+        {
+          "text": "in despite of",
+          "correct": false
+        },
+        {
+          "text": "despite of the problem",
+          "correct": false
+        },
+        {
+          "text": "despite the problem",
+          "correct": true
+        }
+      ],
+      "answers": [],
+      "explanation": "⚠️ 자주 틀리는 것:\n❌ in accordance TO → ✅ in accordance WITH\n❌ in comparison TO → ✅ in comparison WITH\n❌ in despite of → ✅ in spite of\n❌ despite OF → ✅ despite (of 없음!)",
+      "memo": "고정 구문 — 틀리기 쉬운 것"
+    },
+    {
+      "id": "review-final",
+      "type": "MCM",
+      "cat": "collocation",
+      "date": "2025-03-16",
+      "passage": "",
+      "question": "【최종 보스】 전 전치사 혼합 — 올바른 표현만 고르세요.",
+      "options": [
+        {
+          "text": "engage in research",
+          "correct": true
+        },
+        {
+          "text": "focus on education",
+          "correct": true
+        },
+        {
+          "text": "contribute to growth",
+          "correct": true
+        },
+        {
+          "text": "associate with stress",
+          "correct": true
+        },
+        {
+          "text": "responsible of the team",
+          "correct": false
+        },
+        {
+          "text": "part for modern life",
+          "correct": false
+        },
+        {
+          "text": "relationship between groups",
+          "correct": true
+        },
+        {
+          "text": "concerned about climate",
+          "correct": true
+        },
+        {
+          "text": "good at problem solving",
+          "correct": true
+        },
+        {
+          "text": "in terms with economy",
+          "correct": false
+        },
+        {
+          "text": "in accordance with rules",
+          "correct": true
+        },
+        {
+          "text": "in spite of difficulties",
+          "correct": true
+        }
+      ],
+      "answers": [],
+      "explanation": "틀린 표현:\n❌ responsible OF → ✅ responsible FOR\n❌ part FOR → ✅ part OF\n❌ in terms WITH → ✅ in terms OF\n\n전체 암기 요약:\nIN: engage/participate/result/specialize\nON: focus/depend/rely/insist\nTO: contribute/lead/adapt/respond\nWITH: associate/deal/cope/compare\nFOR: responsible/suitable/beneficial\nOF: part/effect/cause/lack\nBETWEEN: relationship/difference/balance\nABOUT: concerned/worried/talk\nAT: good/aim/arrive",
+      "memo": "최종 종합 드릴"
+    },
+    {
+      "id": "wfd-001",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The [BLANK] theory is still the source of great [BLANK].",
+      "question": "#1 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "debated",
+        "discussion",
+        "controversy",
+        "celebrated",
+        "conflict",
+        "famous"
+      ],
+      "answers": [
+        "celebrated",
+        "controversy"
+      ],
+      "explanation": "완성 문장:\nThe celebrated theory is still the source of great controversy.",
+      "memo": "WFD #1"
+    },
+    {
+      "id": "wfd-002",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "A good architectural structure should be [BLANK], [BLANK] and [BLANK].",
+      "question": "#2 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "useful",
+        "beautiful",
+        "practical",
+        "elegant",
+        "strong",
+        "durable",
+        "functional"
+      ],
+      "answers": [
+        "useful",
+        "durable",
+        "beautiful"
+      ],
+      "explanation": "완성 문장:\nA good architectural structure should be useful, durable and beautiful.",
+      "memo": "WFD #2"
+    },
+    {
+      "id": "wfd-003",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "A group meeting will be held [BLANK] in the library [BLANK] room.",
+      "question": "#3 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "today",
+        "meeting",
+        "seminar",
+        "tomorrow",
+        "Monday",
+        "conference"
+      ],
+      "answers": [
+        "conference",
+        "tomorrow"
+      ],
+      "explanation": "완성 문장:\nA group meeting will be held tomorrow in the library conference room.",
+      "memo": "WFD #3"
+    },
+    {
+      "id": "wfd-004",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Educational level is found to be [BLANK] to social and [BLANK] background.",
+      "question": "#4 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "connected",
+        "social",
+        "financial",
+        "economic",
+        "linked",
+        "related"
+      ],
+      "answers": [
+        "related",
+        "economic"
+      ],
+      "explanation": "완성 문장:\nEducational level is found to be related to social and economic background.",
+      "memo": "WFD #4"
+    },
+    {
+      "id": "wfd-005",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Tutorials are [BLANK] in the [BLANK] week of the term.",
+      "question": "#5 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "planned",
+        "scheduled",
+        "last",
+        "final",
+        "first",
+        "arranged"
+      ],
+      "answers": [
+        "scheduled",
+        "final"
+      ],
+      "explanation": "완성 문장:\nTutorials are scheduled in the final week of the term.",
+      "memo": "WFD #5"
+    },
+    {
+      "id": "wfd-006",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "All dissertations must be [BLANK] by a [BLANK] form.",
+      "question": "#6 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "attached",
+        "application",
+        "registration",
+        "submitted",
+        "accompanied",
+        "submission"
+      ],
+      "answers": [
+        "accompanied",
+        "submission"
+      ],
+      "explanation": "완성 문장:\nAll dissertations must be accompanied by a submission form.",
+      "memo": "WFD #6"
+    },
+    {
+      "id": "wfd-007",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "All of the assignments must be [BLANK] in person to the [BLANK] office.",
+      "question": "#7 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "faculty",
+        "delivered",
+        "staff",
+        "department",
+        "handed",
+        "submitted"
+      ],
+      "answers": [
+        "submitted",
+        "faculty"
+      ],
+      "explanation": "완성 문장:\nAll of the assignments must be submitted in person to the faculty office.",
+      "memo": "WFD #7"
+    },
+    {
+      "id": "wfd-008",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The [BLANK] part of postgraduate education is [BLANK].",
+      "question": "#8 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "funding",
+        "toughest",
+        "finance",
+        "hardest",
+        "money",
+        "difficult"
+      ],
+      "answers": [
+        "toughest",
+        "funding"
+      ],
+      "explanation": "완성 문장:\nThe toughest part of postgraduate education is funding.",
+      "memo": "WFD #8"
+    },
+    {
+      "id": "wfd-009",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Our view is that educational [BLANK] have been [BLANK] implemented.",
+      "question": "#9 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "inadequately",
+        "reforms",
+        "improvements",
+        "changes",
+        "poorly",
+        "insufficiently"
+      ],
+      "answers": [
+        "reforms",
+        "inadequately"
+      ],
+      "explanation": "완성 문장:\nOur view is that educational reforms have been inadequately implemented.",
+      "memo": "WFD #9"
+    },
+    {
+      "id": "wfd-010",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "An introduction is an [BLANK] [BLANK] of presentation.",
+      "question": "#10 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "element",
+        "part",
+        "essential",
+        "important",
+        "component",
+        "vital"
+      ],
+      "answers": [
+        "essential",
+        "element"
+      ],
+      "explanation": "완성 문장:\nAn introduction is an essential element of presentation.",
+      "memo": "WFD #10"
+    },
+    {
+      "id": "wfd-011",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The assignments should be [BLANK] to the department office before the [BLANK].",
+      "question": "#11 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "handed",
+        "timelines",
+        "delivered",
+        "submitted",
+        "deadlines",
+        "due dates"
+      ],
+      "answers": [
+        "submitted",
+        "deadlines"
+      ],
+      "explanation": "완성 문장:\nThe assignments should be submitted to the department office before the deadlines.",
+      "memo": "WFD #11"
+    },
+    {
+      "id": "wfd-012",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Before [BLANK] classes, you must [BLANK] online or by post.",
+      "question": "#12 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "joining",
+        "register",
+        "participating",
+        "enroll",
+        "sign up",
+        "attending"
+      ],
+      "answers": [
+        "register",
+        "attending"
+      ],
+      "explanation": "완성 문장:\nBefore attending classes, you must register online or by post.",
+      "memo": "WFD #12"
+    },
+    {
+      "id": "wfd-013",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Certain scientific principles must be learned [BLANK] or by logical [BLANK].",
+      "question": "#13 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "orally",
+        "reasoning",
+        "logic",
+        "deduction",
+        "spoken",
+        "verbally"
+      ],
+      "answers": [
+        "verbally",
+        "deduction"
+      ],
+      "explanation": "완성 문장:\nCertain scientific principles must be learned verbally or by logical deduction.",
+      "memo": "WFD #13"
+    },
+    {
+      "id": "wfd-014",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Daily practice can build [BLANK] and [BLANK] skills.",
+      "question": "#14 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "trust",
+        "improve",
+        "confidence",
+        "self-esteem",
+        "develop",
+        "enhance"
+      ],
+      "answers": [
+        "confidence",
+        "improve"
+      ],
+      "explanation": "완성 문장:\nDaily practice can build confidence and improve skills.",
+      "memo": "WFD #14"
+    },
+    {
+      "id": "wfd-015",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Human beings [BLANK] with other living things for [BLANK] and space.",
+      "question": "#15 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "materials",
+        "resources",
+        "fight",
+        "supplies",
+        "struggle",
+        "compete"
+      ],
+      "answers": [
+        "compete",
+        "resources"
+      ],
+      "explanation": "완성 문장:\nHuman beings compete with other living things for resources and space.",
+      "memo": "WFD #15"
+    },
+    {
+      "id": "wfd-016",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Good research [BLANK] [BLANK] benefits for real people.",
+      "question": "#16 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "provides",
+        "real",
+        "useful",
+        "offers",
+        "delivers",
+        "practical"
+      ],
+      "answers": [
+        "practical",
+        "delivers"
+      ],
+      "explanation": "완성 문장:\nGood research delivers practical benefits for real people.",
+      "memo": "WFD #16"
+    },
+    {
+      "id": "wfd-017",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "He [BLANK] a job in a very [BLANK] law firm.",
+      "question": "#17 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "landed",
+        "got",
+        "prestigious",
+        "renowned",
+        "respected",
+        "secured"
+      ],
+      "answers": [
+        "prestigious",
+        "landed"
+      ],
+      "explanation": "완성 문장:\nHe landed a job in a very prestigious law firm.",
+      "memo": "WFD #17"
+    },
+    {
+      "id": "wfd-018",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "I thought it was [BLANK] the small [BLANK] room.",
+      "question": "#18 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "meeting",
+        "through",
+        "via",
+        "room",
+        "conference",
+        "past"
+      ],
+      "answers": [
+        "through",
+        "meeting"
+      ],
+      "explanation": "완성 문장:\nI thought it was through the small meeting room.",
+      "memo": "WFD #18"
+    },
+    {
+      "id": "wfd-019",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "If finance is a cause of [BLANK], [BLANK] may be available.",
+      "question": "#19 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "worry",
+        "grants",
+        "scholarships",
+        "concern",
+        "funding",
+        "issue"
+      ],
+      "answers": [
+        "concern",
+        "scholarships"
+      ],
+      "explanation": "완성 문장:\nIf finance is a cause of concern, scholarships may be available.",
+      "memo": "WFD #19"
+    },
+    {
+      "id": "wfd-020",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "If you need [BLANK] help, visit the student [BLANK] center.",
+      "question": "#20 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "support",
+        "further",
+        "extra",
+        "additional",
+        "help",
+        "resource"
+      ],
+      "answers": [
+        "additional",
+        "resource"
+      ],
+      "explanation": "완성 문장:\nIf you need additional help, visit the student resource center.",
+      "memo": "WFD #20"
+    },
+    {
+      "id": "wfd-021",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "It may not be [BLANK] to [BLANK] the problem easily.",
+      "question": "#21 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "solve",
+        "possible",
+        "resolve",
+        "easy",
+        "fix",
+        "feasible"
+      ],
+      "answers": [
+        "possible",
+        "solve"
+      ],
+      "explanation": "완성 문장:\nIt may not be possible to solve the problem easily.",
+      "memo": "WFD #21"
+    },
+    {
+      "id": "wfd-022",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Library [BLANK] desks hold a lot of materials on [BLANK] history.",
+      "question": "#22 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "study",
+        "reference",
+        "research",
+        "library",
+        "academic",
+        "scholarly"
+      ],
+      "answers": [
+        "reference",
+        "academic"
+      ],
+      "explanation": "완성 문장:\nLibrary reference desks hold a lot of materials on academic history.",
+      "memo": "WFD #22"
+    },
+    {
+      "id": "wfd-023",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Listening is the key [BLANK] needed to [BLANK] in this course.",
+      "question": "#23 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "ability",
+        "skill",
+        "achieve",
+        "succeed",
+        "competence",
+        "pass"
+      ],
+      "answers": [
+        "succeed",
+        "skill"
+      ],
+      "explanation": "완성 문장:\nListening is the key skill needed to succeed in this course.",
+      "memo": "WFD #23"
+    },
+    {
+      "id": "wfd-024",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Medical researchers have [BLANK] on causes of diseases and [BLANK].",
+      "question": "#24 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "treatments",
+        "researched",
+        "remedies",
+        "cures",
+        "focused",
+        "concentrated"
+      ],
+      "answers": [
+        "focused",
+        "treatments"
+      ],
+      "explanation": "완성 문장:\nMedical researchers have focused on causes of diseases and treatments.",
+      "memo": "WFD #24"
+    },
+    {
+      "id": "wfd-025",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Mutually [BLANK] events can be described as either [BLANK] or opposite.",
+      "question": "#25 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "exclusive",
+        "complementary",
+        "contrasting",
+        "opposite",
+        "independent",
+        "separate"
+      ],
+      "answers": [
+        "exclusive",
+        "complementary"
+      ],
+      "explanation": "완성 문장:\nMutually exclusive events can be described as either complementary or opposite.",
+      "memo": "WFD #25"
+    },
+    {
+      "id": "wfd-026",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Organizational failure is considered from various [BLANK] in academic [BLANK].",
+      "question": "#26 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "literature",
+        "research",
+        "angles",
+        "viewpoints",
+        "studies",
+        "perspectives"
+      ],
+      "answers": [
+        "perspectives",
+        "literature"
+      ],
+      "explanation": "완성 문장:\nOrganizational failure is considered from various perspectives in academic literature.",
+      "memo": "WFD #26"
+    },
+    {
+      "id": "wfd-027",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Plants are the [BLANK] things that can [BLANK] on land or in water.",
+      "question": "#27 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "living",
+        "organisms",
+        "thrive",
+        "creatures",
+        "develop",
+        "grow"
+      ],
+      "answers": [
+        "living",
+        "grow"
+      ],
+      "explanation": "완성 문장:\nPlants are the living things that can grow on land or in water.",
+      "memo": "WFD #27"
+    },
+    {
+      "id": "wfd-028",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Please make sure you have [BLANK] [BLANK] all the necessary materials.",
+      "question": "#28 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "correctly",
+        "referenced",
+        "cited",
+        "properly",
+        "quoted",
+        "accurately"
+      ],
+      "answers": [
+        "correctly",
+        "cited"
+      ],
+      "explanation": "완성 문장:\nPlease make sure you have correctly cited all the necessary materials.",
+      "memo": "WFD #28"
+    },
+    {
+      "id": "wfd-029",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Public perception about biotechnology is [BLANK] for developing scientific [BLANK].",
+      "question": "#29 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "understanding",
+        "consensus",
+        "important",
+        "agreement",
+        "crucial",
+        "vital"
+      ],
+      "answers": [
+        "crucial",
+        "consensus"
+      ],
+      "explanation": "완성 문장:\nPublic perception about biotechnology is crucial for developing scientific consensus.",
+      "memo": "WFD #29"
+    },
+    {
+      "id": "wfd-030",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Remember to sign the [BLANK] [BLANK] before leaving the lecture hall.",
+      "question": "#30 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "register",
+        "hall",
+        "presence",
+        "sign",
+        "lecture",
+        "attendance"
+      ],
+      "answers": [
+        "attendance",
+        "register"
+      ],
+      "explanation": "완성 문장:\nRemember to sign the attendance register before leaving the lecture hall.",
+      "memo": "WFD #30"
+    },
+    {
+      "id": "wfd-031",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Remember, the [BLANK] election of stewardship has strict [BLANK] criteria.",
+      "question": "#31 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "strict",
+        "criteria",
+        "renowned",
+        "eligibility",
+        "prestigious",
+        "qualification"
+      ],
+      "answers": [
+        "prestigious",
+        "eligibility"
+      ],
+      "explanation": "완성 문장:\nRemember, the prestigious election of stewardship has strict eligibility criteria.",
+      "memo": "WFD #31"
+    },
+    {
+      "id": "wfd-032",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Resources and [BLANK] are on hold at the library [BLANK] desk.",
+      "question": "#32 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "resources",
+        "library",
+        "desk",
+        "materials",
+        "supplies",
+        "reference"
+      ],
+      "answers": [
+        "materials",
+        "reference"
+      ],
+      "explanation": "완성 문장:\nResources and materials are on hold at the library reference desk.",
+      "memo": "WFD #32"
+    },
+    {
+      "id": "wfd-033",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Many [BLANK] have their own special book [BLANK].",
+      "question": "#33 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "divisions",
+        "collections",
+        "archives",
+        "faculties",
+        "departments",
+        "libraries"
+      ],
+      "answers": [
+        "departments",
+        "collections"
+      ],
+      "explanation": "완성 문장:\nMany departments have their own special book collections.",
+      "memo": "WFD #33"
+    },
+    {
+      "id": "wfd-034",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Some economists argue that the entire financial system is [BLANK] [BLANK].",
+      "question": "#34 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "fatally",
+        "critically",
+        "defective",
+        "flawed",
+        "seriously",
+        "broken"
+      ],
+      "answers": [
+        "fatally",
+        "flawed"
+      ],
+      "explanation": "완성 문장:\nSome economists argue that the entire financial system is fatally flawed.",
+      "memo": "WFD #34"
+    },
+    {
+      "id": "wfd-035",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Students have the options to live in college [BLANK] or [BLANK].",
+      "question": "#35 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "dormitories",
+        "apartments",
+        "accommodation",
+        "housing",
+        "flats",
+        "residences"
+      ],
+      "answers": [
+        "residences",
+        "apartments"
+      ],
+      "explanation": "완성 문장:\nStudents have the options to live in college residences or apartments.",
+      "memo": "WFD #35"
+    },
+    {
+      "id": "wfd-036",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Students who are [BLANK] have good [BLANK] for learning.",
+      "question": "#36 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "good",
+        "successful",
+        "effective",
+        "approaches",
+        "methods",
+        "strategies"
+      ],
+      "answers": [
+        "successful",
+        "strategies"
+      ],
+      "explanation": "완성 문장:\nStudents who are successful have good strategies for learning.",
+      "memo": "WFD #36"
+    },
+    {
+      "id": "wfd-037",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The application [BLANK] may take longer than [BLANK].",
+      "question": "#37 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "expected",
+        "procedures",
+        "planned",
+        "processes",
+        "steps",
+        "anticipated"
+      ],
+      "answers": [
+        "processes",
+        "expected"
+      ],
+      "explanation": "완성 문장:\nThe application processes may take longer than expected.",
+      "memo": "WFD #37"
+    },
+    {
+      "id": "wfd-038",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The cafeteria [BLANK] soup, salads, [BLANK], chicken and fish.",
+      "question": "#38 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "serves",
+        "features",
+        "offers",
+        "burgers",
+        "wraps",
+        "sandwiches"
+      ],
+      "answers": [
+        "features",
+        "sandwiches"
+      ],
+      "explanation": "완성 문장:\nThe cafeteria features soup, salads, sandwiches, chicken and fish.",
+      "memo": "WFD #38"
+    },
+    {
+      "id": "wfd-039",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The chemistry building is [BLANK] near the [BLANK] to the campus.",
+      "question": "#39 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "gate",
+        "entrance",
+        "exit",
+        "found",
+        "situated",
+        "located"
+      ],
+      "answers": [
+        "located",
+        "entrance"
+      ],
+      "explanation": "완성 문장:\nThe chemistry building is located near the entrance to the campus.",
+      "memo": "WFD #39"
+    },
+    {
+      "id": "wfd-040",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Rising [BLANK] may indicate an increase in the [BLANK] for consumer products.",
+      "question": "#40 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "demand",
+        "consumption",
+        "inflation",
+        "prices",
+        "rates",
+        "supply"
+      ],
+      "answers": [
+        "inflation",
+        "demand"
+      ],
+      "explanation": "완성 문장:\nRising inflation may indicate an increase in the demand for consumer products.",
+      "memo": "WFD #40"
+    },
+    {
+      "id": "wfd-041",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The faculty staff are very [BLANK], friendly and [BLANK] helpful.",
+      "question": "#41 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "approachable",
+        "extremely",
+        "highly",
+        "friendly",
+        "accessible",
+        "very"
+      ],
+      "answers": [
+        "approachable",
+        "extremely"
+      ],
+      "explanation": "완성 문장:\nThe faculty staff are very approachable, friendly and extremely helpful.",
+      "memo": "WFD #41"
+    },
+    {
+      "id": "wfd-042",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The [BLANK] of the university is a long and [BLANK] one.",
+      "question": "#42 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "fascinating",
+        "heritage",
+        "interesting",
+        "history",
+        "long",
+        "past"
+      ],
+      "answers": [
+        "interesting",
+        "history"
+      ],
+      "explanation": "완성 문장:\nThe history of the university is a long and interesting one.",
+      "memo": "WFD #42"
+    },
+    {
+      "id": "wfd-043",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The island is [BLANK] at the [BLANK] end of the bay.",
+      "question": "#43 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "east",
+        "situated",
+        "south",
+        "found",
+        "north",
+        "located"
+      ],
+      "answers": [
+        "located",
+        "south"
+      ],
+      "explanation": "완성 문장:\nThe island is located at the south end of the bay.",
+      "memo": "WFD #43"
+    },
+    {
+      "id": "wfd-044",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The massive [BLANK] of data was [BLANK] into a communicable argument.",
+      "question": "#44 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "collection",
+        "converted",
+        "gathering",
+        "transformed",
+        "changed",
+        "accumulation"
+      ],
+      "answers": [
+        "accumulation",
+        "converted"
+      ],
+      "explanation": "완성 문장:\nThe massive accumulation of data was converted into a communicable argument.",
+      "memo": "WFD #44"
+    },
+    {
+      "id": "wfd-045",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The most [BLANK] courses still have a few [BLANK] left.",
+      "question": "#45 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "spots",
+        "favourite",
+        "common",
+        "seats",
+        "popular",
+        "places"
+      ],
+      "answers": [
+        "popular",
+        "places"
+      ],
+      "explanation": "완성 문장:\nThe most popular courses still have a few places left.",
+      "memo": "WFD #45"
+    },
+    {
+      "id": "wfd-046",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The results of the study [BLANK] the importance of early [BLANK].",
+      "question": "#46 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "detection",
+        "identification",
+        "underscored",
+        "highlighted",
+        "emphasized",
+        "diagnosis"
+      ],
+      "answers": [
+        "underscored",
+        "detection"
+      ],
+      "explanation": "완성 문장:\nThe results of the study underscored the importance of early detection.",
+      "memo": "WFD #46"
+    },
+    {
+      "id": "wfd-047",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Safety glasses should be [BLANK] while doing [BLANK] in the lab.",
+      "question": "#47 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "used",
+        "experiments",
+        "required",
+        "tests",
+        "worn",
+        "procedures"
+      ],
+      "answers": [
+        "experiments",
+        "worn"
+      ],
+      "explanation": "완성 문장:\nSafety glasses should be worn while doing experiments in the lab.",
+      "memo": "WFD #47"
+    },
+    {
+      "id": "wfd-048",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "There are some [BLANK] about whether these events actually [BLANK].",
+      "question": "#48 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "happened",
+        "occurred",
+        "took place",
+        "concerns",
+        "doubts",
+        "questions"
+      ],
+      "answers": [
+        "doubts",
+        "occurred"
+      ],
+      "explanation": "완성 문장:\nThere are some doubts about whether these events actually occurred.",
+      "memo": "WFD #48"
+    },
+    {
+      "id": "wfd-049",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "There is a clear need for [BLANK] [BLANK] in this field.",
+      "question": "#49 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "research",
+        "investigation",
+        "study",
+        "additional",
+        "more",
+        "further"
+      ],
+      "answers": [
+        "further",
+        "research"
+      ],
+      "explanation": "완성 문장:\nThere is a clear need for further research in this field.",
+      "memo": "WFD #49"
+    },
+    {
+      "id": "wfd-050",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "There is [BLANK] a need for [BLANK] research in this field.",
+      "question": "#50 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "additional",
+        "more",
+        "further",
+        "clearly",
+        "obviously",
+        "evidently"
+      ],
+      "answers": [
+        "clearly",
+        "further"
+      ],
+      "explanation": "완성 문장:\nThere is clearly a need for further research in this field.",
+      "memo": "WFD #50"
+    },
+    {
+      "id": "wfd-051",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "This class will look at the [BLANK] of an [BLANK].",
+      "question": "#51 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "assignment",
+        "structure",
+        "format",
+        "essay",
+        "report",
+        "organization"
+      ],
+      "answers": [
+        "structure",
+        "essay"
+      ],
+      "explanation": "완성 문장:\nThis class will look at the structure of an essay.",
+      "memo": "WFD #51"
+    },
+    {
+      "id": "wfd-052",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Water filters on campus will [BLANK] the [BLANK] use of plastic bottles.",
+      "question": "#52 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "discourage",
+        "unnecessary",
+        "prevent",
+        "wasteful",
+        "reduce",
+        "excessive"
+      ],
+      "answers": [
+        "discourage",
+        "unnecessary"
+      ],
+      "explanation": "완성 문장:\nWater filters on campus will discourage the unnecessary use of plastic bottles.",
+      "memo": "WFD #52"
+    },
+    {
+      "id": "wfd-053",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "We have not yet [BLANK] [BLANK] in our society.",
+      "question": "#53 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "reached",
+        "equality",
+        "fairness",
+        "achieved",
+        "justice",
+        "attained"
+      ],
+      "answers": [
+        "achieved",
+        "equality"
+      ],
+      "explanation": "완성 문장:\nWe have not yet achieved equality in our society.",
+      "memo": "WFD #53"
+    },
+    {
+      "id": "wfd-054",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "We study science to [BLANK] and [BLANK] the world around us.",
+      "question": "#54 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "enjoy",
+        "value",
+        "understand",
+        "learn",
+        "study",
+        "appreciate"
+      ],
+      "answers": [
+        "appreciate",
+        "understand"
+      ],
+      "explanation": "완성 문장:\nWe study science to understand and appreciate the world around us.",
+      "memo": "WFD #54"
+    },
+    {
+      "id": "wfd-055",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Parents talk to children [BLANK] to be [BLANK].",
+      "question": "#55 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "inclined",
+        "basic",
+        "easier",
+        "tends",
+        "simplified"
+      ],
+      "answers": [
+        "simplified",
+        "tends"
+      ],
+      "explanation": "완성 문장:\nParents talk to children tends to be simplified.",
+      "memo": "WFD #55"
+    },
+    {
+      "id": "wfd-056",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "You will [BLANK] many skills during the [BLANK] studies.",
+      "question": "#56 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "scholarly",
+        "acquire",
+        "gain",
+        "academic",
+        "develop",
+        "university"
+      ],
+      "answers": [
+        "acquire",
+        "academic"
+      ],
+      "explanation": "완성 문장:\nYou will acquire many skills during the academic studies.",
+      "memo": "WFD #56"
+    },
+    {
+      "id": "wfd-057",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Speak to your [BLANK] if you need further [BLANK].",
+      "question": "#57 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "tutor",
+        "support",
+        "professor",
+        "assistance",
+        "help",
+        "lecturer"
+      ],
+      "answers": [
+        "assistance",
+        "tutor"
+      ],
+      "explanation": "완성 문장:\nSpeak to your tutor if you need further assistance.",
+      "memo": "WFD #57"
+    },
+    {
+      "id": "wfd-058",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Education and [BLANK] provide important skills for the [BLANK] force.",
+      "question": "#58 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "workforce",
+        "training",
+        "workers",
+        "skills",
+        "labor",
+        "education"
+      ],
+      "answers": [
+        "labor",
+        "training"
+      ],
+      "explanation": "완성 문장:\nEducation and training provide important skills for the labor force.",
+      "memo": "WFD #58"
+    },
+    {
+      "id": "wfd-059",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "There have been many changes [BLANK] in the [BLANK] department.",
+      "question": "#59 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "lately",
+        "recently",
+        "physics",
+        "mathematics",
+        "changes",
+        "science"
+      ],
+      "answers": [
+        "recently",
+        "mathematics"
+      ],
+      "explanation": "완성 문장:\nThere have been many changes recently in the mathematics department.",
+      "memo": "WFD #59"
+    },
+    {
+      "id": "wfd-060",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Those who are [BLANK] a career in [BLANK] should attend the talk.",
+      "question": "#60 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "exploring",
+        "economics",
+        "thinking about",
+        "marketing",
+        "considering",
+        "finance"
+      ],
+      "answers": [
+        "considering",
+        "marketing"
+      ],
+      "explanation": "완성 문장:\nThose who are considering a career in marketing should attend the talk.",
+      "memo": "WFD #60"
+    },
+    {
+      "id": "wfd-061",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The university has [BLANK] in new technologies designed to [BLANK] learning.",
+      "question": "#61 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "spent",
+        "invested",
+        "help",
+        "funded",
+        "assist",
+        "support"
+      ],
+      "answers": [
+        "invested",
+        "support"
+      ],
+      "explanation": "완성 문장:\nThe university has invested in new technologies designed to support learning.",
+      "memo": "WFD #61"
+    },
+    {
+      "id": "wfd-062",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "A good academic paper should [BLANK] a clear [BLANK].",
+      "question": "#62 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "provide",
+        "present",
+        "argument",
+        "clear",
+        "case",
+        "evidence"
+      ],
+      "answers": [
+        "present",
+        "argument"
+      ],
+      "explanation": "완성 문장:\nA good academic paper should present a clear argument.",
+      "memo": "WFD #62"
+    },
+    {
+      "id": "wfd-063",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "A good research assistant is not [BLANK] to ask [BLANK].",
+      "question": "#63 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "questions",
+        "afraid",
+        "hesitant",
+        "problems",
+        "scared",
+        "answers"
+      ],
+      "answers": [
+        "afraid",
+        "questions"
+      ],
+      "explanation": "완성 문장:\nA good research assistant is not afraid to ask questions.",
+      "memo": "WFD #63"
+    },
+    {
+      "id": "wfd-064",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "[BLANK] between departments is a [BLANK] of successful companies.",
+      "question": "#64 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "sign",
+        "Cooperation",
+        "Collaboration",
+        "Teamwork",
+        "characteristic",
+        "feature"
+      ],
+      "answers": [
+        "Collaboration",
+        "feature"
+      ],
+      "explanation": "완성 문장:\nCollaboration between departments is a feature of successful companies.",
+      "memo": "WFD #64"
+    },
+    {
+      "id": "wfd-065",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "[BLANK] in a double major may increase your [BLANK] options.",
+      "question": "#65 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "career",
+        "Studying",
+        "Enrolling",
+        "job",
+        "profession",
+        "Joining"
+      ],
+      "answers": [
+        "Enrolling",
+        "career"
+      ],
+      "explanation": "완성 문장:\nEnrolling in a double major may increase your career options.",
+      "memo": "WFD #65"
+    },
+    {
+      "id": "wfd-066",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Geography is generally [BLANK] into two main [BLANK], human and physical.",
+      "question": "#66 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "areas",
+        "separated",
+        "fields",
+        "branches",
+        "divided",
+        "split"
+      ],
+      "answers": [
+        "divided",
+        "branches"
+      ],
+      "explanation": "완성 문장:\nGeography is generally divided into two main branches, human and physical.",
+      "memo": "WFD #66"
+    },
+    {
+      "id": "wfd-067",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "In this language course, we focus on both [BLANK] and [BLANK].",
+      "question": "#67 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "flow",
+        "correctness",
+        "accuracy",
+        "fluency",
+        "precision",
+        "speed"
+      ],
+      "answers": [
+        "fluency",
+        "accuracy"
+      ],
+      "explanation": "완성 문장:\nIn this language course, we focus on both fluency and accuracy.",
+      "memo": "WFD #67"
+    },
+    {
+      "id": "wfd-068",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "This course provides the [BLANK] to get [BLANK] industry experience.",
+      "question": "#68 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "industry",
+        "opportunity",
+        "experience",
+        "useful",
+        "valuable",
+        "chance"
+      ],
+      "answers": [
+        "valuable",
+        "opportunity"
+      ],
+      "explanation": "완성 문장:\nThis course provides the opportunity to get valuable industry experience.",
+      "memo": "WFD #68"
+    },
+    {
+      "id": "wfd-069",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Read the safety [BLANK] before using any [BLANK] in the workshop.",
+      "question": "#69 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "instructions",
+        "tools",
+        "equipment",
+        "safety",
+        "workshop",
+        "guidelines"
+      ],
+      "answers": [
+        "instructions",
+        "equipment"
+      ],
+      "explanation": "완성 문장:\nRead the safety instructions before using any equipment in the workshop.",
+      "memo": "WFD #69"
+    },
+    {
+      "id": "wfd-070",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Essays and assignments are [BLANK] out across the [BLANK] year.",
+      "question": "#70 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "academic",
+        "university",
+        "distributed",
+        "spread",
+        "throughout",
+        "year"
+      ],
+      "answers": [
+        "spread",
+        "academic"
+      ],
+      "explanation": "완성 문장:\nEssays and assignments are spread out across the academic year.",
+      "memo": "WFD #70"
+    },
+    {
+      "id": "wfd-071",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Continuing students will be sent the [BLANK] [BLANK] forms.",
+      "question": "#71 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "necessary",
+        "registration",
+        "application",
+        "required",
+        "forms",
+        "needed"
+      ],
+      "answers": [
+        "necessary",
+        "application"
+      ],
+      "explanation": "완성 문장:\nContinuing students will be sent the necessary application forms.",
+      "memo": "WFD #71"
+    },
+    {
+      "id": "wfd-072",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Calculators may not be [BLANK] during the [BLANK].",
+      "question": "#72 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "used",
+        "exam",
+        "permitted",
+        "test",
+        "examination",
+        "allowed"
+      ],
+      "answers": [
+        "examination",
+        "used"
+      ],
+      "explanation": "완성 문장:\nCalculators may not be used during the examination.",
+      "memo": "WFD #72"
+    },
+    {
+      "id": "wfd-073",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The [BLANK] course [BLANK] engineering students to construction practices and concepts.",
+      "question": "#73 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "elective",
+        "introduces",
+        "explains",
+        "optional",
+        "teaches",
+        "course"
+      ],
+      "answers": [
+        "elective",
+        "introduces"
+      ],
+      "explanation": "완성 문장:\nThe elective course introduces engineering students to construction practices and concepts.",
+      "memo": "WFD #73"
+    },
+    {
+      "id": "wfd-074",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Our new medical students must [BLANK] the talk about [BLANK] courses.",
+      "question": "#74 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "attend",
+        "join",
+        "optional",
+        "participate",
+        "extra",
+        "elective"
+      ],
+      "answers": [
+        "optional",
+        "attend"
+      ],
+      "explanation": "완성 문장:\nOur new medical students must attend the talk about optional courses.",
+      "memo": "WFD #74"
+    },
+    {
+      "id": "wfd-075",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "A [BLANK] took one [BLANK] off to work on her book.",
+      "question": "#75 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "time",
+        "lecturer",
+        "month",
+        "teacher",
+        "year",
+        "professor"
+      ],
+      "answers": [
+        "professor",
+        "year"
+      ],
+      "explanation": "완성 문장:\nA professor took one year off to work on her book.",
+      "memo": "WFD #75"
+    },
+    {
+      "id": "wfd-076",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "This problem is [BLANK] and difficult to [BLANK].",
+      "question": "#76 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "describe",
+        "explain",
+        "difficult",
+        "complicated",
+        "understand",
+        "complex"
+      ],
+      "answers": [
+        "complex",
+        "explain"
+      ],
+      "explanation": "완성 문장:\nThis problem is complex and difficult to explain.",
+      "memo": "WFD #76"
+    },
+    {
+      "id": "wfd-077",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Scientists were [BLANK] when the early men first left [BLANK].",
+      "question": "#77 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "Europe",
+        "Asia",
+        "unclear",
+        "unsure",
+        "uncertain",
+        "Africa"
+      ],
+      "answers": [
+        "unsure",
+        "Africa"
+      ],
+      "explanation": "완성 문장:\nScientists were unsure when the early men first left Africa.",
+      "memo": "WFD #77"
+    },
+    {
+      "id": "wfd-078",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The printers [BLANK] print on both [BLANK] of each page.",
+      "question": "#78 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "automatically",
+        "every",
+        "sides",
+        "both",
+        "print",
+        "pages"
+      ],
+      "answers": [
+        "automatically",
+        "sides"
+      ],
+      "explanation": "완성 문장:\nThe printers automatically print on both sides of each page.",
+      "memo": "WFD #78"
+    },
+    {
+      "id": "wfd-079",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "There is a widely believed [BLANK] that [BLANK] is for boys.",
+      "question": "#79 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "science",
+        "engineering",
+        "technology",
+        "belief",
+        "view",
+        "perception"
+      ],
+      "answers": [
+        "perception",
+        "engineering"
+      ],
+      "explanation": "완성 문장:\nThere is a widely believed perception that engineering is for boys.",
+      "memo": "WFD #79"
+    },
+    {
+      "id": "wfd-080",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Time and [BLANK] are used to [BLANK] speed.",
+      "question": "#80 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "distance",
+        "calculate",
+        "compute",
+        "measure",
+        "time",
+        "speed"
+      ],
+      "answers": [
+        "calculate",
+        "distance"
+      ],
+      "explanation": "완성 문장:\nTime and distance are used to calculate speed.",
+      "memo": "WFD #80"
+    },
+    {
+      "id": "wfd-081",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Distance learning allows you to develop a [BLANK] around your [BLANK].",
+      "question": "#81 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "career",
+        "obligations",
+        "job",
+        "commitments",
+        "responsibilities",
+        "work"
+      ],
+      "answers": [
+        "commitments",
+        "career"
+      ],
+      "explanation": "완성 문장:\nDistance learning allows you to develop a career around your commitments.",
+      "memo": "WFD #81"
+    },
+    {
+      "id": "wfd-082",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Every student has [BLANK] meetings with his or her [BLANK] tutor.",
+      "question": "#82 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "regular",
+        "frequent",
+        "individual",
+        "scheduled",
+        "personal",
+        "private"
+      ],
+      "answers": [
+        "regular",
+        "personal"
+      ],
+      "explanation": "완성 문장:\nEvery student has regular meetings with his or her personal tutor.",
+      "memo": "WFD #82"
+    },
+    {
+      "id": "wfd-083",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Castles were designed to [BLANK] both local people and [BLANK].",
+      "question": "#83 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "people",
+        "intimidate",
+        "threaten",
+        "enemies",
+        "frighten",
+        "friends"
+      ],
+      "answers": [
+        "intimidate",
+        "enemies"
+      ],
+      "explanation": "완성 문장:\nCastles were designed to intimidate both local people and enemies.",
+      "memo": "WFD #83"
+    },
+    {
+      "id": "wfd-084",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The [BLANK] hours of the library are [BLANK] during summer.",
+      "question": "#84 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "shorter",
+        "limited",
+        "reduced",
+        "opening",
+        "closing",
+        "hours"
+      ],
+      "answers": [
+        "reduced",
+        "opening"
+      ],
+      "explanation": "완성 문장:\nThe opening hours of the library are reduced during summer.",
+      "memo": "WFD #84"
+    },
+    {
+      "id": "wfd-085",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "A laptop computer has been [BLANK] in the [BLANK] lab.",
+      "question": "#85 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "science",
+        "discovered",
+        "located",
+        "biology",
+        "found",
+        "chemistry"
+      ],
+      "answers": [
+        "found",
+        "biology"
+      ],
+      "explanation": "완성 문장:\nA laptop computer has been found in the biology lab.",
+      "memo": "WFD #85"
+    },
+    {
+      "id": "wfd-086",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "His [BLANK] to the Minister of Culture was seen as a [BLANK].",
+      "question": "#86 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "appointment",
+        "demotion",
+        "transfer",
+        "position",
+        "role",
+        "promotion"
+      ],
+      "answers": [
+        "appointment",
+        "demotion"
+      ],
+      "explanation": "완성 문장:\nHis appointment to the Minister of Culture was seen as a demotion.",
+      "memo": "WFD #86"
+    },
+    {
+      "id": "wfd-087",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Measures must be taken to [BLANK] the [BLANK] rate from increasing.",
+      "question": "#87 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "prevent",
+        "stop",
+        "reduce",
+        "rate",
+        "unemployment",
+        "employment"
+      ],
+      "answers": [
+        "prevent",
+        "unemployment"
+      ],
+      "explanation": "완성 문장:\nMeasures must be taken to prevent the unemployment rate from increasing.",
+      "memo": "WFD #87"
+    },
+    {
+      "id": "wfd-088",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Request for late applications will not be [BLANK] under any [BLANK].",
+      "question": "#88 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "conditions",
+        "accepted",
+        "allowed",
+        "circumstances",
+        "situations",
+        "rejected"
+      ],
+      "answers": [
+        "circumstances",
+        "accepted"
+      ],
+      "explanation": "완성 문장:\nRequest for late applications will not be accepted under any circumstances.",
+      "memo": "WFD #88"
+    },
+    {
+      "id": "wfd-089",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Salt is produced from [BLANK] or [BLANK] from the ground.",
+      "question": "#89 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "extracted",
+        "water",
+        "removed",
+        "ocean",
+        "taken",
+        "seawater"
+      ],
+      "answers": [
+        "extracted",
+        "seawater"
+      ],
+      "explanation": "완성 문장:\nSalt is produced from seawater or extracted from the ground.",
+      "memo": "WFD #89"
+    },
+    {
+      "id": "wfd-090",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The news will not be [BLANK] until the [BLANK] week.",
+      "question": "#90 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "next",
+        "upcoming",
+        "received",
+        "sent",
+        "delivered",
+        "following"
+      ],
+      "answers": [
+        "received",
+        "following"
+      ],
+      "explanation": "완성 문장:\nThe news will not be received until the following week.",
+      "memo": "WFD #90"
+    },
+    {
+      "id": "wfd-091",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "You do not need [BLANK] [BLANK] to enjoy this book.",
+      "question": "#91 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "special",
+        "expert",
+        "information",
+        "specialist",
+        "understanding",
+        "knowledge"
+      ],
+      "answers": [
+        "specialist",
+        "knowledge"
+      ],
+      "explanation": "완성 문장:\nYou do not need specialist knowledge to enjoy this book.",
+      "memo": "WFD #91"
+    },
+    {
+      "id": "wfd-092",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The area has a [BLANK] of underwater [BLANK] and species.",
+      "question": "#92 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "environments",
+        "species",
+        "habitats",
+        "variety",
+        "ecosystems",
+        "range"
+      ],
+      "answers": [
+        "variety",
+        "habitats"
+      ],
+      "explanation": "완성 문장:\nThe area has a variety of underwater habitats and species.",
+      "memo": "WFD #92"
+    },
+    {
+      "id": "wfd-093",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Your ideas are discussed and [BLANK] in [BLANK] and tutorials.",
+      "question": "#93 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "discussed",
+        "lectures",
+        "argued",
+        "seminars",
+        "debated",
+        "classes"
+      ],
+      "answers": [
+        "debated",
+        "seminars"
+      ],
+      "explanation": "완성 문장:\nYour ideas are discussed and debated in seminars and tutorials.",
+      "memo": "WFD #93"
+    },
+    {
+      "id": "wfd-094",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Our study program [BLANK] students with [BLANK] skills for university.",
+      "question": "#94 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "essential",
+        "important",
+        "equips",
+        "vital",
+        "gives",
+        "provides"
+      ],
+      "answers": [
+        "equips",
+        "essential"
+      ],
+      "explanation": "완성 문장:\nOur study program equips students with essential skills for university.",
+      "memo": "WFD #94"
+    },
+    {
+      "id": "wfd-095",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Many food crops [BLANK] large amounts of water and [BLANK].",
+      "question": "#95 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "require",
+        "amounts",
+        "water",
+        "crops",
+        "need",
+        "fertilizer"
+      ],
+      "answers": [
+        "require",
+        "fertilizer"
+      ],
+      "explanation": "완성 문장:\nMany food crops require large amounts of water and fertilizer.",
+      "memo": "WFD #95"
+    },
+    {
+      "id": "wfd-096",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Classical [BLANK] is sometimes considered as a branch of [BLANK] mathematics.",
+      "question": "#96 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "theoretical",
+        "physics",
+        "mechanics",
+        "pure",
+        "science",
+        "applied"
+      ],
+      "answers": [
+        "mechanics",
+        "applied"
+      ],
+      "explanation": "완성 문장:\nClassical mechanics is sometimes considered as a branch of applied mathematics.",
+      "memo": "WFD #96"
+    },
+    {
+      "id": "wfd-097",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Students should [BLANK] their bags on the [BLANK] by the door.",
+      "question": "#97 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "put",
+        "shelf",
+        "table",
+        "desk",
+        "leave",
+        "place"
+      ],
+      "answers": [
+        "leave",
+        "table"
+      ],
+      "explanation": "완성 문장:\nStudents should leave their bags on the table by the door.",
+      "memo": "WFD #97"
+    },
+    {
+      "id": "wfd-098",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Sea levels are [BLANK] to rise during the next [BLANK].",
+      "question": "#98 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "rise",
+        "year",
+        "expected",
+        "decade",
+        "century",
+        "predicted"
+      ],
+      "answers": [
+        "expected",
+        "century"
+      ],
+      "explanation": "완성 문장:\nSea levels are expected to rise during the next century.",
+      "memo": "WFD #98"
+    },
+    {
+      "id": "wfd-099",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Please close the door [BLANK] you when you [BLANK] the room.",
+      "question": "#99 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "after",
+        "leave",
+        "exit",
+        "behind",
+        "close",
+        "when"
+      ],
+      "answers": [
+        "behind",
+        "leave"
+      ],
+      "explanation": "완성 문장:\nPlease close the door behind you when you leave the room.",
+      "memo": "WFD #99"
+    },
+    {
+      "id": "wfd-100",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The department works [BLANK] with business [BLANK].",
+      "question": "#100 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "communities",
+        "businesses",
+        "well",
+        "groups",
+        "closely",
+        "department"
+      ],
+      "answers": [
+        "closely",
+        "communities"
+      ],
+      "explanation": "완성 문장:\nThe department works closely with business communities.",
+      "memo": "WFD #100"
+    },
+    {
+      "id": "wfd-101",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "There is an [BLANK] assignment for [BLANK] students.",
+      "question": "#101 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "finance",
+        "assignment",
+        "accounting",
+        "business",
+        "economics",
+        "students"
+      ],
+      "answers": [
+        "accounting",
+        "finance"
+      ],
+      "explanation": "완성 문장:\nThere is an accounting assignment for finance students.",
+      "memo": "WFD #101"
+    },
+    {
+      "id": "wfd-102",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Relying on natural [BLANK] will not get you far in [BLANK].",
+      "question": "#102 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "research",
+        "ability",
+        "maths",
+        "talent",
+        "science",
+        "skill"
+      ],
+      "answers": [
+        "ability",
+        "science"
+      ],
+      "explanation": "완성 문장:\nRelying on natural ability will not get you far in science.",
+      "memo": "WFD #102"
+    },
+    {
+      "id": "wfd-103",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "We should never [BLANK] the power of [BLANK] design.",
+      "question": "#103 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "overlook",
+        "innovative",
+        "artistic",
+        "ignore",
+        "underestimate",
+        "creative"
+      ],
+      "answers": [
+        "underestimate",
+        "creative"
+      ],
+      "explanation": "완성 문장:\nWe should never underestimate the power of creative design.",
+      "memo": "WFD #103"
+    },
+    {
+      "id": "wfd-104",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Linguistics is the [BLANK] study and [BLANK] of language.",
+      "question": "#104 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "study",
+        "analysis",
+        "linguistic",
+        "research",
+        "academic",
+        "scientific"
+      ],
+      "answers": [
+        "scientific",
+        "analysis"
+      ],
+      "explanation": "완성 문장:\nLinguistics is the scientific study and analysis of language.",
+      "memo": "WFD #104"
+    },
+    {
+      "id": "wfd-105",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Marine environments have been [BLANK] through pollution and [BLANK] development.",
+      "question": "#105 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "damaged",
+        "destroyed",
+        "excessive",
+        "unsustainable",
+        "harmful",
+        "ruined"
+      ],
+      "answers": [
+        "destroyed",
+        "unsustainable"
+      ],
+      "explanation": "완성 문장:\nMarine environments have been destroyed through pollution and unsustainable development.",
+      "memo": "WFD #105"
+    },
+    {
+      "id": "wfd-106",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Designers need to keep up with the [BLANK] [BLANK].",
+      "question": "#106 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "styles",
+        "cultural",
+        "modern",
+        "trends",
+        "changes",
+        "social"
+      ],
+      "answers": [
+        "trends",
+        "social"
+      ],
+      "explanation": "완성 문장:\nDesigners need to keep up with the social trends.",
+      "memo": "WFD #106"
+    },
+    {
+      "id": "wfd-107",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "People have been [BLANK] on using phones in their [BLANK] lives.",
+      "question": "#107 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "dependent",
+        "normal",
+        "reliant",
+        "everyday",
+        "addicted",
+        "daily"
+      ],
+      "answers": [
+        "dependent",
+        "everyday"
+      ],
+      "explanation": "완성 문장:\nPeople have been dependent on using phones in their everyday lives.",
+      "memo": "WFD #107"
+    },
+    {
+      "id": "wfd-108",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "A new [BLANK] of articles has just been [BLANK].",
+      "question": "#108 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "set",
+        "released",
+        "series",
+        "printed",
+        "collection",
+        "published"
+      ],
+      "answers": [
+        "collection",
+        "published"
+      ],
+      "explanation": "완성 문장:\nA new collection of articles has just been published.",
+      "memo": "WFD #108"
+    },
+    {
+      "id": "wfd-109",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "A visit to the [BLANK] museum is of great [BLANK].",
+      "question": "#109 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "worth",
+        "great",
+        "value",
+        "designed",
+        "art",
+        "special"
+      ],
+      "answers": [
+        "designed",
+        "value"
+      ],
+      "explanation": "완성 문장:\nA visit to the designed museum is of great value.",
+      "memo": "WFD #109"
+    },
+    {
+      "id": "wfd-110",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The university provides [BLANK] [BLANK] facilities for students and staff.",
+      "question": "#110 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "excellent",
+        "sports",
+        "good",
+        "great",
+        "leisure",
+        "recreational"
+      ],
+      "answers": [
+        "excellent",
+        "leisure"
+      ],
+      "explanation": "완성 문장:\nThe university provides excellent leisure facilities for students and staff.",
+      "memo": "WFD #110"
+    },
+    {
+      "id": "wfd-111",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "[BLANK] for the university [BLANK] will be held next week.",
+      "question": "#111 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "orchestra",
+        "Tryouts",
+        "Interviews",
+        "Auditions",
+        "band",
+        "choir"
+      ],
+      "answers": [
+        "Auditions",
+        "choir"
+      ],
+      "explanation": "완성 문장:\nAuditions for the university choir will be held next week.",
+      "memo": "WFD #111"
+    },
+    {
+      "id": "wfd-112",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "A good [BLANK] [BLANK] the key points of your paper.",
+      "question": "#112 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "summary",
+        "emphasises",
+        "highlights",
+        "abstract",
+        "shows",
+        "overview"
+      ],
+      "answers": [
+        "abstract",
+        "highlights"
+      ],
+      "explanation": "완성 문장:\nA good abstract highlights the key points of your paper.",
+      "memo": "WFD #112"
+    },
+    {
+      "id": "wfd-113",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The commissioner will [BLANK] the funds among all the [BLANK].",
+      "question": "#113 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "apportion",
+        "authorities",
+        "departments",
+        "agencies",
+        "divide",
+        "distribute"
+      ],
+      "answers": [
+        "apportion",
+        "authorities"
+      ],
+      "explanation": "완성 문장:\nThe commissioner will apportion the funds among all the authorities.",
+      "memo": "WFD #113"
+    },
+    {
+      "id": "wfd-114",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Please note that the [BLANK] has now been [BLANK].",
+      "question": "#114 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "canceled",
+        "seminar",
+        "postponed",
+        "class",
+        "lecture",
+        "changed"
+      ],
+      "answers": [
+        "canceled",
+        "seminar"
+      ],
+      "explanation": "완성 문장:\nPlease note that the seminar has now been canceled.",
+      "memo": "WFD #114"
+    },
+    {
+      "id": "wfd-115",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Three separate research [BLANK] are not enough for this [BLANK].",
+      "question": "#115 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "sources",
+        "evaluation",
+        "resources",
+        "assessment",
+        "materials",
+        "test"
+      ],
+      "answers": [
+        "assessment",
+        "resources"
+      ],
+      "explanation": "완성 문장:\nThree separate research resources are not enough for this assessment.",
+      "memo": "WFD #115"
+    },
+    {
+      "id": "wfd-116",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "New media [BLANK] is an [BLANK] area of study.",
+      "question": "#116 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "exciting",
+        "journalism",
+        "fascinating",
+        "media",
+        "interesting",
+        "writing"
+      ],
+      "answers": [
+        "journalism",
+        "exciting"
+      ],
+      "explanation": "완성 문장:\nNew media journalism is an exciting area of study.",
+      "memo": "WFD #116"
+    },
+    {
+      "id": "wfd-117",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Rising sea [BLANK] are a sign of [BLANK] change.",
+      "question": "#117 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "degrees",
+        "weather",
+        "climate",
+        "change",
+        "temperatures",
+        "levels"
+      ],
+      "answers": [
+        "temperatures",
+        "climate"
+      ],
+      "explanation": "완성 문장:\nRising sea temperatures are a sign of climate change.",
+      "memo": "WFD #117"
+    },
+    {
+      "id": "wfd-118",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The economic [BLANK] turned out to be [BLANK].",
+      "question": "#118 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "estimates",
+        "wrong",
+        "predictions",
+        "accurate",
+        "incorrect",
+        "forecasts"
+      ],
+      "answers": [
+        "predictions",
+        "incorrect"
+      ],
+      "explanation": "완성 문장:\nThe economic predictions turned out to be incorrect.",
+      "memo": "WFD #118"
+    },
+    {
+      "id": "wfd-119",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Students should take the [BLANK] course to use the [BLANK].",
+      "question": "#119 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "orientation",
+        "sports",
+        "gym",
+        "training",
+        "fitness",
+        "course"
+      ],
+      "answers": [
+        "training",
+        "gym"
+      ],
+      "explanation": "완성 문장:\nStudents should take the training course to use the gym.",
+      "memo": "WFD #119"
+    },
+    {
+      "id": "wfd-120",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "[BLANK] school programs allow some students to [BLANK] their studies.",
+      "question": "#120 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "Summer",
+        "Winter",
+        "accelerate",
+        "annual",
+        "speed up",
+        "fast-track"
+      ],
+      "answers": [
+        "accelerate",
+        "Summer"
+      ],
+      "explanation": "완성 문장:\nSummer school programs allow some students to accelerate their studies.",
+      "memo": "WFD #120"
+    },
+    {
+      "id": "wfd-121",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The [BLANK] is defined as the combination of mass and [BLANK].",
+      "question": "#121 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "energy",
+        "speed",
+        "momentum",
+        "velocity",
+        "force",
+        "acceleration"
+      ],
+      "answers": [
+        "momentum",
+        "velocity"
+      ],
+      "explanation": "완성 문장:\nThe momentum is defined as the combination of mass and velocity.",
+      "memo": "WFD #121"
+    },
+    {
+      "id": "wfd-122",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "More research is needed before any [BLANK] [BLANK] can be drawn.",
+      "question": "#122 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "conclusion",
+        "findings",
+        "results",
+        "final",
+        "definitive",
+        "clear"
+      ],
+      "answers": [
+        "definitive",
+        "conclusion"
+      ],
+      "explanation": "완성 문장:\nMore research is needed before any definitive conclusion can be drawn.",
+      "memo": "WFD #122"
+    },
+    {
+      "id": "wfd-123",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The north campus car park could be [BLANK] on [BLANK].",
+      "question": "#123 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "shut",
+        "Sunday",
+        "Saturday",
+        "closed",
+        "Monday",
+        "open"
+      ],
+      "answers": [
+        "closed",
+        "Sunday"
+      ],
+      "explanation": "완성 문장:\nThe north campus car park could be closed on Sunday.",
+      "memo": "WFD #123"
+    },
+    {
+      "id": "wfd-124",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "[BLANK] in the class is the [BLANK] of the course.",
+      "question": "#124 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "heart",
+        "Attending",
+        "center",
+        "Joining",
+        "focus",
+        "Participating"
+      ],
+      "answers": [
+        "Participating",
+        "center"
+      ],
+      "explanation": "완성 문장:\nParticipating in the class is the center of the course.",
+      "memo": "WFD #124"
+    },
+    {
+      "id": "wfd-125",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The study center in the [BLANK] has all the latest [BLANK].",
+      "question": "#125 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "library",
+        "technologies",
+        "resources",
+        "equipment",
+        "study",
+        "centre"
+      ],
+      "answers": [
+        "technologies",
+        "library"
+      ],
+      "explanation": "완성 문장:\nThe study center in the library has all the latest technologies.",
+      "memo": "WFD #125"
+    },
+    {
+      "id": "wfd-126",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "At [BLANK] students can make [BLANK] for life.",
+      "question": "#126 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "school",
+        "contacts",
+        "college",
+        "university",
+        "friends",
+        "connections"
+      ],
+      "answers": [
+        "friends",
+        "university"
+      ],
+      "explanation": "완성 문장:\nAt university students can make friends for life.",
+      "memo": "WFD #126"
+    },
+    {
+      "id": "wfd-127",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Much of this research is [BLANK] out in the [BLANK].",
+      "question": "#127 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "laboratory",
+        "conducted",
+        "carried",
+        "done",
+        "lab",
+        "research"
+      ],
+      "answers": [
+        "laboratory",
+        "carried"
+      ],
+      "explanation": "완성 문장:\nMuch of this research is carried out in the laboratory.",
+      "memo": "WFD #127"
+    },
+    {
+      "id": "wfd-128",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Technology is changing the way that [BLANK] is used and [BLANK].",
+      "question": "#128 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "news",
+        "media",
+        "technology",
+        "researched",
+        "learned",
+        "studied"
+      ],
+      "answers": [
+        "media",
+        "studied"
+      ],
+      "explanation": "완성 문장:\nTechnology is changing the way that media is used and studied.",
+      "memo": "WFD #128"
+    },
+    {
+      "id": "wfd-129",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "You will be tested by [BLANK] assessments and [BLANK].",
+      "question": "#129 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "assessments",
+        "continuous",
+        "ongoing",
+        "regular",
+        "examinations",
+        "tests"
+      ],
+      "answers": [
+        "continuous",
+        "examinations"
+      ],
+      "explanation": "완성 문장:\nYou will be tested by continuous assessments and examinations.",
+      "memo": "WFD #129"
+    },
+    {
+      "id": "wfd-130",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The college [BLANK] a system of [BLANK] assessments.",
+      "question": "#130 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "regular",
+        "continuous",
+        "operates",
+        "ongoing",
+        "system",
+        "runs"
+      ],
+      "answers": [
+        "operates",
+        "continuous"
+      ],
+      "explanation": "완성 문장:\nThe college operates a system of continuous assessments.",
+      "memo": "WFD #130"
+    },
+    {
+      "id": "wfd-131",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Scientists have [BLANK] all parts of [BLANK] today.",
+      "question": "#131 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "world",
+        "built",
+        "community",
+        "founded",
+        "society",
+        "created"
+      ],
+      "answers": [
+        "founded",
+        "society"
+      ],
+      "explanation": "완성 문장:\nScientists have founded all parts of society today.",
+      "memo": "WFD #131"
+    },
+    {
+      "id": "wfd-132",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "[BLANK] [BLANK] about the best things that they know about.",
+      "question": "#132 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "Writers",
+        "write",
+        "discuss",
+        "Authors",
+        "Novelists",
+        "describe"
+      ],
+      "answers": [
+        "Novelists",
+        "write"
+      ],
+      "explanation": "완성 문장:\nNovelists write about the best things that they know about.",
+      "memo": "WFD #132"
+    },
+    {
+      "id": "wfd-133",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The lecture today will [BLANK] all the main [BLANK] for global warming.",
+      "question": "#133 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "reasons",
+        "cover",
+        "causes",
+        "discuss",
+        "address",
+        "factors"
+      ],
+      "answers": [
+        "cover",
+        "reasons"
+      ],
+      "explanation": "완성 문장:\nThe lecture today will cover all the main reasons for global warming.",
+      "memo": "WFD #133"
+    },
+    {
+      "id": "wfd-134",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The rising [BLANK] is changing the [BLANK] population.",
+      "question": "#134 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "population",
+        "warming",
+        "temperature",
+        "wildlife",
+        "climate",
+        "animals"
+      ],
+      "answers": [
+        "temperature",
+        "wildlife"
+      ],
+      "explanation": "완성 문장:\nThe rising temperature is changing the wildlife population.",
+      "memo": "WFD #134"
+    },
+    {
+      "id": "wfd-135",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The director of the gallery was [BLANK] for the [BLANK] donation.",
+      "question": "#135 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "unknown",
+        "thankful",
+        "grateful",
+        "generous",
+        "anonymous",
+        "appreciative"
+      ],
+      "answers": [
+        "grateful",
+        "anonymous"
+      ],
+      "explanation": "완성 문장:\nThe director of the gallery was grateful for the anonymous donation.",
+      "memo": "WFD #135"
+    },
+    {
+      "id": "wfd-136",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "You should have [BLANK] of how the business operates [BLANK].",
+      "question": "#136 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "understanding",
+        "worldwide",
+        "internationally",
+        "globally",
+        "knowledge",
+        "awareness"
+      ],
+      "answers": [
+        "awareness",
+        "globally"
+      ],
+      "explanation": "완성 문장:\nYou should have awareness of how the business operates globally.",
+      "memo": "WFD #136"
+    },
+    {
+      "id": "wfd-137",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Art is an [BLANK] of creative skills and [BLANK].",
+      "question": "#137 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "display",
+        "form",
+        "expression",
+        "creativity",
+        "imagination",
+        "skills"
+      ],
+      "answers": [
+        "expression",
+        "imagination"
+      ],
+      "explanation": "완성 문장:\nArt is an expression of creative skills and imagination.",
+      "memo": "WFD #137"
+    },
+    {
+      "id": "wfd-138",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "We have [BLANK] ways of studying the [BLANK] in action.",
+      "question": "#138 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "complex",
+        "neural",
+        "sophisticated",
+        "mind",
+        "advanced",
+        "brain"
+      ],
+      "answers": [
+        "sophisticated",
+        "brain"
+      ],
+      "explanation": "완성 문장:\nWe have sophisticated ways of studying the brain in action.",
+      "memo": "WFD #138"
+    },
+    {
+      "id": "wfd-139",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The article considers the [BLANK] habits of [BLANK] in rural areas.",
+      "question": "#139 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "recreational",
+        "free time",
+        "teenagers",
+        "students",
+        "youth",
+        "leisure"
+      ],
+      "answers": [
+        "leisure",
+        "teenagers"
+      ],
+      "explanation": "완성 문장:\nThe article considers the leisure habits of teenagers in rural areas.",
+      "memo": "WFD #139"
+    },
+    {
+      "id": "wfd-140",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "We learned through [BLANK] and the analysis of human [BLANK].",
+      "question": "#140 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "analysis",
+        "behaviors",
+        "observations",
+        "conduct",
+        "actions",
+        "studies"
+      ],
+      "answers": [
+        "observations",
+        "behaviors"
+      ],
+      "explanation": "완성 문장:\nWe learned through observations and the analysis of human behaviors.",
+      "memo": "WFD #140"
+    },
+    {
+      "id": "wfd-141",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The [BLANK] was [BLANK] and difficult to explain.",
+      "question": "#141 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "complicated",
+        "topic",
+        "area",
+        "complex",
+        "difficult",
+        "subject"
+      ],
+      "answers": [
+        "complex",
+        "subject"
+      ],
+      "explanation": "완성 문장:\nThe subject was complex and difficult to explain.",
+      "memo": "WFD #141"
+    },
+    {
+      "id": "wfd-142",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Our aim is to [BLANK] the [BLANK] that people take.",
+      "question": "#142 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "dangers",
+        "lower",
+        "decrease",
+        "hazards",
+        "reduce",
+        "risks"
+      ],
+      "answers": [
+        "reduce",
+        "risks"
+      ],
+      "explanation": "완성 문장:\nOur aim is to reduce the risks that people take.",
+      "memo": "WFD #142"
+    },
+    {
+      "id": "wfd-143",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Please [BLANK] that you have [BLANK] the textbook.",
+      "question": "#143 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "obtained",
+        "check",
+        "received",
+        "verify",
+        "confirm",
+        "got"
+      ],
+      "answers": [
+        "confirm",
+        "received"
+      ],
+      "explanation": "완성 문장:\nPlease confirm that you have received the textbook.",
+      "memo": "WFD #143"
+    },
+    {
+      "id": "wfd-144",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "All answers must be [BLANK] researched and supported by [BLANK] theories.",
+      "question": "#144 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "carefully",
+        "suitable",
+        "fully",
+        "appropriate",
+        "relevant",
+        "thoroughly"
+      ],
+      "answers": [
+        "thoroughly",
+        "relevant"
+      ],
+      "explanation": "완성 문장:\nAll answers must be thoroughly researched and supported by relevant theories.",
+      "memo": "WFD #144"
+    },
+    {
+      "id": "wfd-145",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "[BLANK] students have to hand in their [BLANK] this week.",
+      "question": "#145 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "Accountancy",
+        "dissertations",
+        "Finance",
+        "theses",
+        "papers",
+        "Business"
+      ],
+      "answers": [
+        "dissertations",
+        "Accountancy"
+      ],
+      "explanation": "완성 문장:\nAccountancy students have to hand in their dissertations this week.",
+      "memo": "WFD #145"
+    },
+    {
+      "id": "wfd-146",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "His [BLANK] study appears to be based on the false [BLANK].",
+      "question": "#146 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "research",
+        "premise",
+        "study",
+        "analysis",
+        "assumption",
+        "basis"
+      ],
+      "answers": [
+        "premise",
+        "analysis"
+      ],
+      "explanation": "완성 문장:\nHis analysis study appears to be based on the false premise.",
+      "memo": "WFD #146"
+    },
+    {
+      "id": "wfd-147",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Visual aid can be really [BLANK] when you are [BLANK].",
+      "question": "#147 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "helpful",
+        "reviewing",
+        "beneficial",
+        "revising",
+        "studying",
+        "useful"
+      ],
+      "answers": [
+        "revising",
+        "helpful"
+      ],
+      "explanation": "완성 문장:\nVisual aid can be really helpful when you are revising.",
+      "memo": "WFD #147"
+    },
+    {
+      "id": "wfd-148",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "We [BLANK] students to complete their applications before the [BLANK].",
+      "question": "#148 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "encourage",
+        "deadline",
+        "submission",
+        "urge",
+        "advise",
+        "due date"
+      ],
+      "answers": [
+        "encourage",
+        "deadline"
+      ],
+      "explanation": "완성 문장:\nWe encourage students to complete their applications before the deadline.",
+      "memo": "WFD #148"
+    },
+    {
+      "id": "wfd-149",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Graduates from this course typically [BLANK] careers in [BLANK] sector.",
+      "question": "#149 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "pursue",
+        "financial",
+        "banking",
+        "follow",
+        "seek",
+        "economic"
+      ],
+      "answers": [
+        "pursue",
+        "financial"
+      ],
+      "explanation": "완성 문장:\nGraduates from this course typically pursue careers in financial sector.",
+      "memo": "WFD #149"
+    },
+    {
+      "id": "wfd-150",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "It is a [BLANK] about the value of [BLANK].",
+      "question": "#150 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "knowledge",
+        "learning",
+        "understanding",
+        "discussion",
+        "debate",
+        "argument"
+      ],
+      "answers": [
+        "debate",
+        "knowledge"
+      ],
+      "explanation": "완성 문장:\nIt is a debate about the value of knowledge.",
+      "memo": "WFD #150"
+    },
+    {
+      "id": "wfd-151",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Strangely, people are [BLANK] impressed by and [BLANK] about statistics.",
+      "question": "#151 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "critical",
+        "doubtful",
+        "at the same time",
+        "simultaneously",
+        "together",
+        "skeptical"
+      ],
+      "answers": [
+        "simultaneously",
+        "skeptical"
+      ],
+      "explanation": "완성 문장:\nStrangely, people are simultaneously impressed by and skeptical about statistics.",
+      "memo": "WFD #151"
+    },
+    {
+      "id": "wfd-152",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The [BLANK] of the housing market has caused [BLANK].",
+      "question": "#152 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "recessions",
+        "decline",
+        "crash",
+        "crises",
+        "collapse",
+        "downturns"
+      ],
+      "answers": [
+        "collapse",
+        "recessions"
+      ],
+      "explanation": "완성 문장:\nThe collapse of the housing market has caused recessions.",
+      "memo": "WFD #152"
+    },
+    {
+      "id": "wfd-153",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "[BLANK] allow us to add numbers without making [BLANK].",
+      "question": "#153 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "problems",
+        "mistakes",
+        "errors",
+        "Devices",
+        "Computers",
+        "Calculators"
+      ],
+      "answers": [
+        "mistakes",
+        "Calculators"
+      ],
+      "explanation": "완성 문장:\nCalculators allow us to add numbers without making mistakes.",
+      "memo": "WFD #153"
+    },
+    {
+      "id": "wfd-154",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Most of the lectures begin [BLANK], so do not be [BLANK].",
+      "question": "#154 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "absent",
+        "early",
+        "on time",
+        "late",
+        "punctually",
+        "promptly"
+      ],
+      "answers": [
+        "punctually",
+        "late"
+      ],
+      "explanation": "완성 문장:\nMost of the lectures begin punctually, so do not be late.",
+      "memo": "WFD #154"
+    },
+    {
+      "id": "wfd-155",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The student union [BLANK] a [BLANK] of social events.",
+      "question": "#155 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "selection",
+        "hosts",
+        "range",
+        "organises",
+        "runs",
+        "variety"
+      ],
+      "answers": [
+        "hosts",
+        "variety"
+      ],
+      "explanation": "완성 문장:\nThe student union hosts a variety of social events.",
+      "memo": "WFD #155"
+    },
+    {
+      "id": "wfd-156",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Social psychology is [BLANK] with the understanding of human [BLANK].",
+      "question": "#156 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "conduct",
+        "concerned",
+        "behaviors",
+        "focused on",
+        "actions",
+        "interested in"
+      ],
+      "answers": [
+        "concerned",
+        "behaviors"
+      ],
+      "explanation": "완성 문장:\nSocial psychology is concerned with the understanding of human behaviors.",
+      "memo": "WFD #156"
+    },
+    {
+      "id": "wfd-157",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Gravity is the force that [BLANK] two [BLANK] toward one another.",
+      "question": "#157 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "attracts",
+        "things",
+        "bodies",
+        "objects",
+        "pulls",
+        "force"
+      ],
+      "answers": [
+        "attracts",
+        "bodies"
+      ],
+      "explanation": "완성 문장:\nGravity is the force that attracts two bodies toward one another.",
+      "memo": "WFD #157"
+    },
+    {
+      "id": "wfd-158",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The reception staff can give advice on [BLANK] private [BLANK].",
+      "question": "#158 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "finding",
+        "housing",
+        "residence",
+        "renting",
+        "accommodation",
+        "leasing"
+      ],
+      "answers": [
+        "accommodation",
+        "renting"
+      ],
+      "explanation": "완성 문장:\nThe reception staff can give advice on renting private accommodation.",
+      "memo": "WFD #158"
+    },
+    {
+      "id": "wfd-159",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Artists need to make their works both [BLANK] and [BLANK].",
+      "question": "#159 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "open",
+        "unique",
+        "original",
+        "accessible",
+        "creative",
+        "available"
+      ],
+      "answers": [
+        "accessible",
+        "original"
+      ],
+      "explanation": "완성 문장:\nArtists need to make their works both original and accessible.",
+      "memo": "WFD #159"
+    },
+    {
+      "id": "wfd-160",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The archeologist's new [BLANK] stand out in the previously [BLANK] foundations.",
+      "question": "#160 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "findings",
+        "missed",
+        "ignored",
+        "overlooked",
+        "discoveries",
+        "results"
+      ],
+      "answers": [
+        "overlooked",
+        "discoveries"
+      ],
+      "explanation": "완성 문장:\nThe archeologist's new discoveries stand out in the previously overlooked foundations.",
+      "memo": "WFD #160"
+    },
+    {
+      "id": "wfd-161",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Please return the [BLANK] to the correct [BLANK] in the library.",
+      "question": "#161 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "library",
+        "bookshelves",
+        "shelves",
+        "materials",
+        "books",
+        "textbooks"
+      ],
+      "answers": [
+        "bookshelves",
+        "textbooks"
+      ],
+      "explanation": "완성 문장:\nPlease return the textbooks to the correct bookshelves in the library.",
+      "memo": "WFD #161"
+    },
+    {
+      "id": "wfd-162",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The contract will be [BLANK] by the [BLANK] of the company.",
+      "question": "#162 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "director",
+        "contract",
+        "approved",
+        "signed",
+        "owner",
+        "manager"
+      ],
+      "answers": [
+        "signed",
+        "owner"
+      ],
+      "explanation": "완성 문장:\nThe contract will be signed by the owner of the company.",
+      "memo": "WFD #162"
+    },
+    {
+      "id": "wfd-163",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The [BLANK] of the lake surface [BLANK] the fish.",
+      "question": "#163 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "hides",
+        "sparkling",
+        "glittering",
+        "camouflages",
+        "shining",
+        "disguises"
+      ],
+      "answers": [
+        "camouflages",
+        "glittering"
+      ],
+      "explanation": "완성 문장:\nThe glittering of the lake surface camouflages the fish.",
+      "memo": "WFD #163"
+    },
+    {
+      "id": "wfd-164",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Having enough sleep has many [BLANK] [BLANK].",
+      "question": "#164 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "good",
+        "health",
+        "positive",
+        "benefits",
+        "results",
+        "advantages"
+      ],
+      "answers": [
+        "positive",
+        "benefits"
+      ],
+      "explanation": "완성 문장:\nHaving enough sleep has many positive benefits.",
+      "memo": "WFD #164"
+    },
+    {
+      "id": "wfd-165",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The lecture will [BLANK] the [BLANK] for climate change.",
+      "question": "#165 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "address",
+        "cover",
+        "discuss",
+        "explain",
+        "reason",
+        "cause"
+      ],
+      "answers": [
+        "reason",
+        "cover"
+      ],
+      "explanation": "완성 문장:\nThe lecture will cover the reason for climate change.",
+      "memo": "WFD #165"
+    },
+    {
+      "id": "wfd-166",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Assessment [BLANK] has been changed [BLANK] since the last year.",
+      "question": "#166 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "procedure",
+        "process",
+        "somewhat",
+        "a little",
+        "slightly",
+        "method"
+      ],
+      "answers": [
+        "slightly",
+        "procedure"
+      ],
+      "explanation": "완성 문장:\nAssessment procedure has been changed slightly since the last year.",
+      "memo": "WFD #166"
+    },
+    {
+      "id": "wfd-167",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The article [BLANK] the [BLANK] relationship of culture and language.",
+      "question": "#167 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "demonstrates",
+        "intricate",
+        "relationship",
+        "complex",
+        "shows",
+        "illustrates"
+      ],
+      "answers": [
+        "intricate",
+        "illustrates"
+      ],
+      "explanation": "완성 문장:\nThe article illustrates the intricate relationship of culture and language.",
+      "memo": "WFD #167"
+    },
+    {
+      "id": "wfd-168",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The field of social [BLANK] includes description of social [BLANK].",
+      "question": "#168 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "actions",
+        "social",
+        "growth",
+        "conduct",
+        "behavior",
+        "development"
+      ],
+      "answers": [
+        "development",
+        "behavior"
+      ],
+      "explanation": "완성 문장:\nThe field of social development includes description of social behavior.",
+      "memo": "WFD #168"
+    },
+    {
+      "id": "wfd-169",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The tutor has [BLANK] the lecture for [BLANK] students.",
+      "question": "#169 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "postponed",
+        "canceled",
+        "history",
+        "science",
+        "tutor",
+        "geography"
+      ],
+      "answers": [
+        "canceled",
+        "geography"
+      ],
+      "explanation": "완성 문장:\nThe tutor has canceled the lecture for geography students.",
+      "memo": "WFD #169"
+    },
+    {
+      "id": "wfd-170",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "All [BLANK] students must submit their [BLANK] before the end of the week.",
+      "question": "#170 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "theses",
+        "accounting",
+        "dissertations",
+        "papers",
+        "finance",
+        "business"
+      ],
+      "answers": [
+        "dissertations",
+        "accounting"
+      ],
+      "explanation": "완성 문장:\nAll accounting students must submit their dissertations before the end of the week.",
+      "memo": "WFD #170"
+    },
+    {
+      "id": "wfd-171",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "You need to make sure that all your [BLANK] are [BLANK] in on time.",
+      "question": "#171 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "essays",
+        "submitted",
+        "papers",
+        "assignments",
+        "handed",
+        "given"
+      ],
+      "answers": [
+        "handed",
+        "essays"
+      ],
+      "explanation": "완성 문장:\nYou need to make sure that all your essays are handed in on time.",
+      "memo": "WFD #171"
+    },
+    {
+      "id": "wfd-172",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "We should always use [BLANK] plastic and glass [BLANK].",
+      "question": "#172 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "recycled",
+        "cans",
+        "eco-friendly",
+        "reusable",
+        "bottles",
+        "plastic"
+      ],
+      "answers": [
+        "recycled",
+        "bottles"
+      ],
+      "explanation": "완성 문장:\nWe should always use recycled plastic and glass bottles.",
+      "memo": "WFD #172"
+    },
+    {
+      "id": "wfd-173",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Plastic [BLANK] is very [BLANK] for ocean lives.",
+      "question": "#173 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "toxic",
+        "contamination",
+        "harmful",
+        "pollution",
+        "waste",
+        "dangerous"
+      ],
+      "answers": [
+        "dangerous",
+        "pollution"
+      ],
+      "explanation": "완성 문장:\nPlastic pollution is very dangerous for ocean lives.",
+      "memo": "WFD #173"
+    },
+    {
+      "id": "wfd-174",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The content is to define the [BLANK] of math and [BLANK].",
+      "question": "#174 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "mathematics",
+        "blend",
+        "mix",
+        "combination",
+        "philosophy",
+        "science"
+      ],
+      "answers": [
+        "combination",
+        "philosophy"
+      ],
+      "explanation": "완성 문장:\nThe content is to define the combination of math and philosophy.",
+      "memo": "WFD #174"
+    },
+    {
+      "id": "wfd-175",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Students often [BLANK] research to [BLANK] their knowledge.",
+      "question": "#175 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "carry out",
+        "develop",
+        "improve",
+        "conduct",
+        "enhance",
+        "do"
+      ],
+      "answers": [
+        "conduct",
+        "enhance"
+      ],
+      "explanation": "완성 문장:\nStudents often conduct research to enhance their knowledge.",
+      "memo": "WFD #175"
+    },
+    {
+      "id": "wfd-176",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "[BLANK] forms should be [BLANK] in one week.",
+      "question": "#176 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "submitted",
+        "Registration",
+        "handed in",
+        "Application",
+        "sent",
+        "forms"
+      ],
+      "answers": [
+        "submitted",
+        "Application"
+      ],
+      "explanation": "완성 문장:\nApplication forms should be submitted in one week.",
+      "memo": "WFD #176"
+    },
+    {
+      "id": "wfd-177",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Farming is affected by changes in [BLANK] [BLANK].",
+      "question": "#177 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "cycles",
+        "weather",
+        "changes",
+        "farming",
+        "patterns",
+        "seasonal"
+      ],
+      "answers": [
+        "seasonal",
+        "patterns"
+      ],
+      "explanation": "완성 문장:\nFarming is affected by changes in seasonal patterns.",
+      "memo": "WFD #177"
+    },
+    {
+      "id": "wfd-178",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The [BLANK] in sea level [BLANK] climate change.",
+      "question": "#178 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "level",
+        "shows",
+        "rise",
+        "increase",
+        "indicates",
+        "suggests"
+      ],
+      "answers": [
+        "indicates",
+        "rise"
+      ],
+      "explanation": "완성 문장:\nThe rise in sea level indicates climate change.",
+      "memo": "WFD #178"
+    },
+    {
+      "id": "wfd-179",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The university [BLANK] cafe is on the [BLANK] floor.",
+      "question": "#179 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "ground",
+        "second",
+        "third",
+        "study",
+        "cafe",
+        "library"
+      ],
+      "answers": [
+        "third",
+        "library"
+      ],
+      "explanation": "완성 문장:\nThe university library cafe is on the third floor.",
+      "memo": "WFD #179"
+    },
+    {
+      "id": "wfd-180",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Some students were [BLANK] due to the train [BLANK].",
+      "question": "#180 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "problem",
+        "late",
+        "missing",
+        "absent",
+        "issue",
+        "delay"
+      ],
+      "answers": [
+        "absent",
+        "delay"
+      ],
+      "explanation": "완성 문장:\nSome students were absent due to the train delay.",
+      "memo": "WFD #180"
+    },
+    {
+      "id": "wfd-181",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The class is [BLANK] because the [BLANK] is sick.",
+      "question": "#181 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "canceled",
+        "postponed",
+        "rescheduled",
+        "teacher",
+        "professor",
+        "lecturer"
+      ],
+      "answers": [
+        "canceled",
+        "professor"
+      ],
+      "explanation": "완성 문장:\nThe class is canceled because the professor is sick.",
+      "memo": "WFD #181"
+    },
+    {
+      "id": "wfd-182",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Maths uses numbers and [BLANK] to [BLANK] problems.",
+      "question": "#182 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "solve",
+        "answer",
+        "figures",
+        "shapes",
+        "numbers",
+        "calculate"
+      ],
+      "answers": [
+        "shapes",
+        "solve"
+      ],
+      "explanation": "완성 문장:\nMaths uses numbers and shapes to solve problems.",
+      "memo": "WFD #182"
+    },
+    {
+      "id": "wfd-183",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The [BLANK] rate has [BLANK] increased over the last year.",
+      "question": "#183 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "job",
+        "employment",
+        "steadily",
+        "gradually",
+        "consistently",
+        "unemployment"
+      ],
+      "answers": [
+        "steadily",
+        "employment"
+      ],
+      "explanation": "완성 문장:\nThe employment rate has steadily increased over the last year.",
+      "memo": "WFD #183"
+    },
+    {
+      "id": "wfd-184",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The professor said [BLANK] is not the only [BLANK] on the exam.",
+      "question": "#184 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "chemistry",
+        "subject",
+        "course",
+        "biology",
+        "topic",
+        "physics"
+      ],
+      "answers": [
+        "subject",
+        "biology"
+      ],
+      "explanation": "완성 문장:\nThe professor said biology is not the only subject on the exam.",
+      "memo": "WFD #184"
+    },
+    {
+      "id": "wfd-185",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Participants [BLANK] their sleep hours in the [BLANK].",
+      "question": "#185 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "recorded",
+        "noted",
+        "journals",
+        "notebooks",
+        "diaries",
+        "wrote"
+      ],
+      "answers": [
+        "recorded",
+        "journals"
+      ],
+      "explanation": "완성 문장:\nParticipants recorded their sleep hours in the journals.",
+      "memo": "WFD #185"
+    },
+    {
+      "id": "wfd-186",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "[BLANK] communication is the key to becoming a [BLANK] manager.",
+      "question": "#186 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "Good",
+        "Effective",
+        "excellent",
+        "great",
+        "Strong",
+        "successful"
+      ],
+      "answers": [
+        "Effective",
+        "successful"
+      ],
+      "explanation": "완성 문장:\nEffective communication is the key to becoming a successful manager.",
+      "memo": "WFD #186"
+    },
+    {
+      "id": "wfd-187",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Students need to [BLANK] to gain access to library [BLANK].",
+      "question": "#187 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "access",
+        "computers",
+        "printers",
+        "register",
+        "sign up",
+        "enroll"
+      ],
+      "answers": [
+        "printers",
+        "register"
+      ],
+      "explanation": "완성 문장:\nStudents need to register to gain access to library printers.",
+      "memo": "WFD #187"
+    },
+    {
+      "id": "wfd-188",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "There will be a [BLANK] class next [BLANK].",
+      "question": "#188 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "semester",
+        "quiz",
+        "week",
+        "class",
+        "test",
+        "month"
+      ],
+      "answers": [
+        "quiz",
+        "week"
+      ],
+      "explanation": "완성 문장:\nThere will be a quiz class next week.",
+      "memo": "WFD #188"
+    },
+    {
+      "id": "wfd-189",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "You can make an [BLANK] to meet the [BLANK].",
+      "question": "#189 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "appointment",
+        "librarian",
+        "meeting",
+        "booking",
+        "teacher",
+        "professor"
+      ],
+      "answers": [
+        "appointment",
+        "librarian"
+      ],
+      "explanation": "완성 문장:\nYou can make an appointment to meet the librarian.",
+      "memo": "WFD #189"
+    },
+    {
+      "id": "wfd-190",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The coffee machine [BLANK] on the third floor is not [BLANK] today.",
+      "question": "#190 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "found",
+        "situated",
+        "operational",
+        "working",
+        "broken",
+        "located"
+      ],
+      "answers": [
+        "located",
+        "working"
+      ],
+      "explanation": "완성 문장:\nThe coffee machine located on the third floor is not working today.",
+      "memo": "WFD #190"
+    },
+    {
+      "id": "wfd-191",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Teaching [BLANK] play a [BLANK] role in the learning process.",
+      "question": "#191 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "staff",
+        "vital",
+        "assistants",
+        "key",
+        "important",
+        "teachers"
+      ],
+      "answers": [
+        "vital",
+        "assistants"
+      ],
+      "explanation": "완성 문장:\nTeaching assistants play a vital role in the learning process.",
+      "memo": "WFD #191"
+    },
+    {
+      "id": "wfd-192",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Before [BLANK] food, please make sure to [BLANK] your hands.",
+      "question": "#192 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "wash",
+        "cooking",
+        "rinse",
+        "preparing",
+        "making",
+        "clean"
+      ],
+      "answers": [
+        "preparing",
+        "wash"
+      ],
+      "explanation": "완성 문장:\nBefore preparing food, please make sure to wash your hands.",
+      "memo": "WFD #192"
+    },
+    {
+      "id": "wfd-193",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "We were talking about ways of [BLANK] [BLANK].",
+      "question": "#193 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "doing",
+        "offences",
+        "illegal acts",
+        "committing",
+        "crimes"
+      ],
+      "answers": [
+        "committing",
+        "crimes"
+      ],
+      "explanation": "완성 문장:\nWe were talking about ways of committing crimes.",
+      "memo": "WFD #193"
+    },
+    {
+      "id": "wfd-194",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Please [BLANK] your essay [BLANK] before the deadline.",
+      "question": "#194 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "confirm",
+        "topic",
+        "check",
+        "title",
+        "subject",
+        "verify"
+      ],
+      "answers": [
+        "confirm",
+        "topic"
+      ],
+      "explanation": "완성 문장:\nPlease confirm your essay topic before the deadline.",
+      "memo": "WFD #194"
+    },
+    {
+      "id": "wfd-195",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "We have been [BLANK] in finding a new [BLANK].",
+      "question": "#195 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "unsuccessful",
+        "manager",
+        "director",
+        "leader",
+        "unable",
+        "failed"
+      ],
+      "answers": [
+        "unsuccessful",
+        "manager"
+      ],
+      "explanation": "완성 문장:\nWe have been unsuccessful in finding a new manager.",
+      "memo": "WFD #195"
+    },
+    {
+      "id": "wfd-196",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The exam will not be [BLANK] until further [BLANK].",
+      "question": "#196 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "information",
+        "announcement",
+        "notice",
+        "posted",
+        "sent",
+        "published"
+      ],
+      "answers": [
+        "notice",
+        "posted"
+      ],
+      "explanation": "완성 문장:\nThe exam will not be posted until further notice.",
+      "memo": "WFD #196"
+    },
+    {
+      "id": "wfd-197",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The lecture is about the [BLANK] for the [BLANK] crisis.",
+      "question": "#197 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "banking",
+        "causes",
+        "economic",
+        "crisis",
+        "financial",
+        "reasons"
+      ],
+      "answers": [
+        "reasons",
+        "financial"
+      ],
+      "explanation": "완성 문장:\nThe lecture is about the reasons for the financial crisis.",
+      "memo": "WFD #197"
+    },
+    {
+      "id": "wfd-198",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Important details from the [BLANK] are missing in the [BLANK].",
+      "question": "#198 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "essay",
+        "conclusion",
+        "overview",
+        "discussion",
+        "summary",
+        "argument"
+      ],
+      "answers": [
+        "summary",
+        "argument"
+      ],
+      "explanation": "완성 문장:\nImportant details from the argument are missing in the summary.",
+      "memo": "WFD #198"
+    },
+    {
+      "id": "wfd-199",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Sugar is a [BLANK] including carbon, oxygen, and [BLANK] atoms.",
+      "question": "#199 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "element",
+        "hydrogen",
+        "mixture",
+        "compound",
+        "oxygen",
+        "carbon"
+      ],
+      "answers": [
+        "compound",
+        "hydrogen"
+      ],
+      "explanation": "완성 문장:\nSugar is a compound including carbon, oxygen, and hydrogen atoms.",
+      "memo": "WFD #199"
+    },
+    {
+      "id": "wfd-200",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "University staff provide advice on [BLANK] and [BLANK].",
+      "question": "#200 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "housing",
+        "renting",
+        "leasing",
+        "advice",
+        "accommodation",
+        "assistance"
+      ],
+      "answers": [
+        "accommodation",
+        "renting"
+      ],
+      "explanation": "완성 문장:\nUniversity staff provide advice on renting and accommodation.",
+      "memo": "WFD #200"
+    },
+    {
+      "id": "wfd-201",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Many university [BLANK] can now be [BLANK] on the internet.",
+      "question": "#201 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "classes",
+        "watched",
+        "seen",
+        "seminars",
+        "lectures",
+        "viewed"
+      ],
+      "answers": [
+        "viewed",
+        "lectures"
+      ],
+      "explanation": "완성 문장:\nMany university lectures can now be viewed on the internet.",
+      "memo": "WFD #201"
+    },
+    {
+      "id": "wfd-202",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "The university will cease the [BLANK] [BLANK] of the faint empty theater.",
+      "question": "#202 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "colossal",
+        "renovation",
+        "construction",
+        "huge",
+        "massive",
+        "expansion"
+      ],
+      "answers": [
+        "colossal",
+        "renovation"
+      ],
+      "explanation": "완성 문장:\nThe university will cease the colossal renovation of the faint empty theater.",
+      "memo": "WFD #202"
+    },
+    {
+      "id": "wfd-203",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "A few [BLANK] students write for the school [BLANK].",
+      "question": "#203 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "newspaper",
+        "media",
+        "writing",
+        "journal",
+        "journalism",
+        "magazine"
+      ],
+      "answers": [
+        "journalism",
+        "newspaper"
+      ],
+      "explanation": "완성 문장:\nA few journalism students write for the school newspaper.",
+      "memo": "WFD #203"
+    },
+    {
+      "id": "wfd-204",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "Meteorology is the [BLANK] study of the Earth's [BLANK].",
+      "question": "#204 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "atmosphere",
+        "thorough",
+        "detailed",
+        "weather",
+        "careful",
+        "environment"
+      ],
+      "answers": [
+        "atmosphere",
+        "detailed"
+      ],
+      "explanation": "완성 문장:\nMeteorology is the detailed study of the Earth's atmosphere.",
+      "memo": "WFD #204"
+    },
+    {
+      "id": "wfd-205",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "[BLANK] is the most [BLANK] in the biology lab.",
+      "question": "#205 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "crucial",
+        "important",
+        "Security",
+        "Health",
+        "Safety",
+        "vital"
+      ],
+      "answers": [
+        "important",
+        "Safety"
+      ],
+      "explanation": "완성 문장:\nSafety is the most important in the biology lab.",
+      "memo": "WFD #205"
+    },
+    {
+      "id": "wfd-206",
+      "type": "FIB",
+      "cat": "wfd",
+      "date": "2025-03-16",
+      "passage": "We were discussing the [BLANK] used by [BLANK] to commit crimes.",
+      "question": "#206 빈칸에 알맞은 단어를 고르세요.",
+      "options": [
+        "offenders",
+        "techniques",
+        "suspects",
+        "methods",
+        "criminals",
+        "ways"
+      ],
+      "answers": [
+        "criminals",
+        "methods"
+      ],
+      "explanation": "완성 문장:\nWe were discussing the methods used by criminals to commit crimes.",
+      "memo": "WFD #206"
+    }
+  ]
+}
