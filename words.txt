@@ -626,3 +626,14 @@ urbanisation - 도시화
 industrialisation - 산업화
 infant mortality - 영아 사망률
 threshold values - 임계값, 기준치
+sinister - 사악한, 음흉한, 불길한
+baffled - 당황하다, 이해하지 못하다, 어리둥절하다
+assiduous - 근면한, 성실한, 끈기 있는
+capitalise on - 이용하다, 활용하다
+disaffection - 불만, 반감, 정치적 환멸
+rebuttal - 반박, 반론, 반증
+relaunch - 재출시하다, 재개하다
+malevolent - 악의적인, 사악한, 해를 끼치려는
+animosity - 적대감, 반감, 악감정
+spin doctoring - 여론 조작성 홍보, 이미지 관리
+efficacy - 효과성, 효능

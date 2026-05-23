@@ -1881,3 +1881,36 @@
 
 [한글] 비용이 *임계 수준에* 도달했다.
 [EN] Costs reached [[threshold values]].
+
+[한글] 그는 *음흉한* 미소를 지었다.
+[EN] He gave me a [[sinister]] smile.
+
+[한글] 과학자들은 그 결과를 *이해하지 못했다*.
+[EN] Scientists were [[baffled]] by the result.
+
+[한글] 그녀는 *매우 성실한* 학생이다.
+[EN] She is an [[assiduous]] student.
+
+[한글] 그 정당은 대중의 불만을 *이용했다*.
+[EN] The party [[capitalise on]] public disaffection.
+
+[한글] 그 정당은 대중의 *불만을* 활용했다.
+[EN] The party capitalised on public [[disaffection]].
+
+[한글] 변호사는 비난에 대한 *반박을* 준비했다.
+[EN] The lawyer prepared a [[rebuttal]] to the accusation.
+
+[한글] 회사는 제품을 *재출시했다*.
+[EN] The company [[relaunch]]ed its product.
+
+[한글] 그는 *악의적인* 표정을 지었다.
+[EN] He had a [[malevolent]] expression.
+
+[한글] 두 나라 사이에는 깊은 *적대감이* 있었다.
+[EN] There was deep [[animosity]] between the two countries.
+
+[한글] 정부는 *여론 조작* 비난을 받았다.
+[EN] The government was accused of [[spin doctoring]].
+
+[한글] 정치적 말 포장의 *효과성에* 대한 믿음이 약해졌다.
+[EN] There is a lowered perception of the [[efficacy]] of spin.
