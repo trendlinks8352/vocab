@@ -1914,3 +1914,12 @@
 
 [한글] 정치적 말 포장의 *효과성에* 대한 믿음이 약해졌다.
 [EN] There is a lowered perception of the [[efficacy]] of spin.
+
+[한글] 정부는 지방 의회로의 *권한 이양을* 발표했다.
+[EN] The government announced the [[devolution]] of power to local councils.
+
+[한글] 신뢰는 모든 성공적인 관계의 *토대이다*.
+[EN] Trust is the [[underpinning]] of any successful relationship.
+
+[한글] 인간의 존엄성은 많은 법의 *윤리적 토대이다*.
+[EN] Human dignity is the [[ethical underpinning]] of many laws.

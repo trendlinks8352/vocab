@@ -637,3 +637,6 @@ malevolent - 악의적인, 사악한, 해를 끼치려는
 animosity - 적대감, 반감, 악감정
 spin doctoring - 여론 조작성 홍보, 이미지 관리
 efficacy - 효과성, 효능
+devolution - 권한 이양, 권력 분산
+underpinning - 기반이 되는 것, 토대, 근간
+ethical underpinning - 윤리적 토대, 윤리적 기반
