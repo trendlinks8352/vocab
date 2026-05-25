@@ -1923,3 +1923,18 @@
 
 [한글] 인간의 존엄성은 많은 법의 *윤리적 토대이다*.
 [EN] Human dignity is the [[ethical underpinning]] of many laws.
+
+[한글] 건강한 관계는 서로 주고받는 *상호성* 위에 세워진다.
+[EN] A healthy relationship is built on [[reciprocity]].
+
+[한글] 폭풍이 마을에 심각한 피해를 *입혔다*.
+[EN] The storm [[inflict]]ed serious damage on the town.
+
+[한글] 네 도움을 어떻게 *보답할* 수 있을까?
+[EN] How can I [[repay]] your help?
+
+[한글] 두 집단 사이에 *적대감이* 있었다.
+[EN] There was [[hostility]] between the two groups.
+
+[한글] 그녀는 *정직함으로* 존경받는다.
+[EN] She is respected for her [[uprightness]].

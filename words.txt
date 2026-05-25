@@ -640,3 +640,8 @@ efficacy - 효과성, 효능
 devolution - 권한 이양, 권력 분산
 underpinning - 기반이 되는 것, 토대, 근간
 ethical underpinning - 윤리적 토대, 윤리적 기반
+reciprocity - 상호성, 호혜성, 서로 주고받음
+inflict - (고통·피해를) 가하다, 입히다 (inflict A on B)
+repay - 갚다, 보답하다
+hostility - 적대감, 적의, 적대적 행동
+uprightness - 정직함, 올바름, 공정함
