@@ -1938,3 +1938,39 @@
 
 [한글] 그녀는 *정직함으로* 존경받는다.
 [EN] She is respected for her [[uprightness]].
+
+[한글] 돈은 정치에서 큰 *영향력을* 가진다.
+[EN] Money has great [[potency]] in politics.
+
+[한글] 이번 주 업무량이 *엄청나다*.
+[EN] The workload this week is [[insane]].
+
+[한글] 의사들은 환자에게서 *비정상적* 행동을 관찰했다.
+[EN] Doctors observed [[aberrant]] behaviour in the patient.
+
+[한글] 약물 남용은 *정신증을* 유발할 수 있다.
+[EN] Drug abuse may trigger [[psychosis]].
+
+[한글] *거스를 수 없는* 시간의 흐름은 모든 것을 바꾼다.
+[EN] The [[inexorable]] passage of time changes everything.
+
+[한글] 콩은 싸지만 매우 *포만감을 준다*.
+[EN] Beans are cheap but very [[satiating]].
+
+[한글] 과학자들은 새로운 방법을 *고안했다*.
+[EN] Scientists [[devise]]d a new method.
+
+[한글] 의사의 설명이 그녀의 두려움을 *완화했다*.
+[EN] Her fears were [[assuaged]] by the doctor's explanation.
+
+[한글] 심한 스트레스 상태의 사람들은 *정신질환에 걸릴* 수 있다.
+[EN] People under severe stress may [[fall prey to]] psychiatric disorders.
+
+[한글] 그의 *성가신* 불평이 모두를 짜증나게 했다.
+[EN] His [[vexatious]] complaints annoyed everyone.
+
+[한글] 그 치료는 *효과가 없다는 것이* 드러났다.
+[EN] The treatment proved [[ineffectual]].
+
+[한글] 그는 *자기연민에 빠졌다*.
+[EN] He [[indulge in]] self-pity.

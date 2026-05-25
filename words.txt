@@ -645,3 +645,15 @@ inflict - (고통·피해를) 가하다, 입히다 (inflict A on B)
 repay - 갚다, 보답하다
 hostility - 적대감, 적의, 적대적 행동
 uprightness - 정직함, 올바름, 공정함
+potency - 강력함, 효능, 위력, 영향력
+insane - 정신이상인 / (구어) 엄청난, 말도 안 되는
+aberrant - 비정상적인, 일탈한, 정상에서 벗어난
+psychosis - 정신증, 정신병적 상태
+inexorable - 멈출 수 없는, 거스를 수 없는
+satiating - 포만감을 주는, 충분히 만족시키는
+devise - 고안하다, 계획해내다
+assuaged - 완화했다, 달랬다, 누그러뜨렸다
+fall prey to - ~에 걸리다, ~의 영향을 받다
+vexatious - 짜증나게 하는, 성가신
+ineffectual - 효과 없는, 무능한
+indulge in - ~에 빠지다, ~을 하다
