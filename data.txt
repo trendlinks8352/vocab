@@ -1974,3 +1974,30 @@
 
 [한글] 그는 *자기연민에 빠졌다*.
 [EN] He [[indulge in]] self-pity.
+
+[한글] 너무 빨리 일어나서 *어지러웠다*.
+[EN] I felt [[dizzy]] after standing up too quickly.
+
+[한글] 피해자는 베개로 *질식당했다*.
+[EN] The victim was [[smothered]] with a pillow.
+
+[한글] 그 기사는 충격적 내용으로 독자의 *호기심을 자극했다*.
+[EN] The article [[titillate]]d readers with shocking details.
+
+[한글] 그의 사과는 *거의 변명에 불과했다*.
+[EN] His apology was [[not much more than]] an excuse.
+
+[한글] 반응은 거의 *즉각적이었다*.
+[EN] The reaction was almost [[instantaneous]].
+
+[한글] 작가들은 침묵의 *절제 효과로부터* 도움을 받을 수 있다.
+[EN] Writers may benefit from the [[bracing restraints]] of silence.
+
+[한글] 연예인 의견은 종종 *지나치게 진지하게* 받아들여진다.
+[EN] Celebrity opinions are often [[taken far too seriously]].
+
+[한글] 죄수는 *입이 막히고* 묶여 있었다.
+[EN] The prisoner was [[gagged]] and tied up.
+
+[한글] 그 식당 음식은 *그저 그랬다*.
+[EN] The restaurant served [[mediocre]] food.
