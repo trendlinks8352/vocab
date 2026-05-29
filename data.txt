@@ -2001,3 +2001,66 @@
 
 [한글] 그 식당 음식은 *그저 그랬다*.
 [EN] The restaurant served [[mediocre]] food.
+
+[한글] 그 영화는 관객들을 *매료시켰다*.
+[EN] The movie [[mesmerize]]d the audience.
+
+[한글] 그 논쟁은 *인식론적* 질문들을 제기했다.
+[EN] The debate raised [[epistemological]] questions.
+
+[한글] 그 과학자는 기존의 *정통적* 사고방식에 도전했다.
+[EN] The scientist challenged [[orthodox]] thinking.
+
+[한글] 건강과 *관련된* 질문은 의사와 상의해야 한다.
+[EN] Questions [[pertaining]] to health should be discussed with a doctor.
+
+[한글] 판사는 *공정해야* 한다.
+[EN] A judge must remain [[impartial]].
+
+[한글] 안전은 *최우선적으로* 중요하다.
+[EN] Safety is of [[paramount]] importance.
+
+[한글] *제약 산업은* 연구에 많은 투자를 한다.
+[EN] The [[pharmaceutical]] industry invests heavily in research.
+
+[한글] *부유층이* 그 정책의 혜택을 받았다.
+[EN] The [[monied]] class benefited from the policy.
+
+[한글] 그 보고서는 *근본적인* 개혁을 제안했다.
+[EN] The report suggested [[radical]] reforms.
+
+[한글] 저렴한 가격은 고객을 *끌어들인다*.
+[EN] Cheap prices [[entice]] customers.
+
+[한글] 그 정치인은 그 스캔들과 *거리를 두었다*.
+[EN] The politician [[disassociate]]d himself from the scandal.
+
+[한글] 그 국가는 UN의 *제재를* 받았다.
+[EN] The country was [[sanctioned]] by the UN.
+
+[한글] 그 동물이 마을을 *휩쓸며 날뛰었다*.
+[EN] The animal went [[rampaging]] through the town.
+
+[한글] 그는 정부 *전복을 선동했다는* 비난을 받았다.
+[EN] He was accused of [[preaching the overthrow]] of the government.
+
+[한글] 그 정책은 *가장 어려운* 시민들을 도와야 한다.
+[EN] The policy should help the [[worst-off]] citizens.
+
+[한글] 그 조약은 의회의 *비준을* 받았다.
+[EN] The treaty was [[ratified]] by Congress.
+
+[한글] *이타심은* 사람들이 낯선 이를 돕게 만든다.
+[EN] [[Altruism]] motivates people to help strangers.
+
+[한글] 정부는 국내 산업 보호를 위해 *보호무역주의를* 채택했다.
+[EN] The government adopted [[protectionism]] to protect domestic industries.
+
+[한글] 일부 비평가들은 외채를 *신식민주의로* 본다.
+[EN] Some critics see foreign debt as [[neo-colonialism]].
+
+[한글] 그들은 *부촌에* 산다.
+[EN] They live in an [[affluent]] neighborhood.
+
+[한글] 경고를 무시하는 것은 *현명하지 않다*.
+[EN] It would be [[unwise]] to ignore the warning.
