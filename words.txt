@@ -687,3 +687,10 @@ protectionism - 보호무역주의
 neo-colonialism - 신식민주의
 affluent - 부유한, 풍족한
 unwise - 현명하지 않은, 어리석은
+infinitive - 부정사 (to + 동사원형)
+misconceiving - 오해하는, 잘못 이해하는
+lapse - 실수, 깜빡함, 순간적 오류
+preposition - 전치사
+substantive - 명사 (문법) / 실질적인, 본질적인
+split infinitive - 분리 부정사 (to와 동사 사이에 단어 삽입)
+literary pretensions - 문학적 허세, 고상한 척함

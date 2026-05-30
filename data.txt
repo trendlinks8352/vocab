@@ -2064,3 +2064,24 @@
 
 [한글] 경고를 무시하는 것은 *현명하지 않다*.
 [EN] It would be [[unwise]] to ignore the warning.
+
+[한글] 그녀는 *떠나기로* 결정했다.
+[EN] She decided to leave — using an [[infinitive]].
+
+[한글] 너는 내 의미를 *오해하고* 있다.
+[EN] You are [[misconceiving]] my meaning.
+
+[한글] 그는 순간적으로 *집중력이 흐트러졌다*.
+[EN] He had a [[lapse]] in concentration.
+
+[한글] 고양이가 탁자 아래에 있다 — "under"는 *전치사다*.
+[EN] The cat is under the table — "under" is a [[preposition]].
+
+[한글] 그들은 *핵심적* 문제를 논의했다.
+[EN] They discussed [[substantive]] issues.
+
+[한글] "to boldly go"는 *분리 부정사의* 예이다.
+[EN] "To boldly go" is an example of a [[split infinitive]].
+
+[한글] 그 책은 *문학적 허세가* 있다.
+[EN] The book has [[literary pretensions]].
