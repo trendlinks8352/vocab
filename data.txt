@@ -2085,3 +2085,84 @@
 
 [한글] 그 책은 *문학적 허세가* 있다.
 [EN] The book has [[literary pretensions]].
+
+[한글] 그는 모든 *가식을* 버리고 솔직히 말했다.
+[EN] He dropped all [[pretences]] and spoke honestly.
+
+[한글] 호텔은 많은 *편의시설을* 제공한다.
+[EN] The hotel offers many [[amenity]].
+
+[한글] 군사적 *계략이* 적을 속였다.
+[EN] Military [[stratagems]] deceived the enemy.
+
+[한글] 그의 *수다스러움이* 모두를 지치게 했다.
+[EN] His [[garrulousness]] exhausted everyone.
+
+[한글] 토론을 *딴길로 새게* 하지 마라.
+[EN] Please stop [[sidetracking]] the discussion.
+
+[한글] 그 구를 *괄호* 안에 넣어라.
+[EN] Put the phrase in [[parentheses]].
+
+[한글] 그 *불쌍한 사람들은* 밤새 일했다.
+[EN] The poor [[the sods]] worked all night.
+
+[한글] 그녀의 목소리에는 이상한 *억양이* 있었다.
+[EN] Her voice had a strange [[inflection]].
+
+[한글] 짧은 *작문을* 써라.
+[EN] Write a short [[composition]].
+
+[한글] 그 문제는 *별개의* 부분들로 나눌 수 있다.
+[EN] The problem can be divided into [[discrete]] parts.
+
+[한글] Sheldon은 *체질심리학을* 개척했다.
+[EN] Sheldon pioneered [[constitutional]] psychology.
+
+[한글] 그 주장은 잘못된 *전제에* 근거한다.
+[EN] The argument rests on a false [[premise]].
+
+[한글] 그녀는 차분한 *기질을* 가지고 있다.
+[EN] She has a calm [[temperament]].
+
+[한글] Sheldon의 *체형분류 이론은* 비판받았다.
+[EN] Sheldon's [[somatotyping]] position was criticized.
+
+[한글] 그는 몇몇 *수상한 사람들과* 관련되어 있었다.
+[EN] He was connected with some [[unsavoury]] people.
+
+[한글] 그 방은 *직사각형 모양이다*.
+[EN] The room is [[rectangular]].
+
+[한글] 마라톤 훈련은 *매우 고되다*.
+[EN] Marathon training is [[strenuous]].
+
+[한글] 그녀는 매년 *철인3종경기에* 참가한다.
+[EN] She competes in [[triathlon]]s every year.
+
+[한글] 성공의 *기준은* 무엇인가?
+[EN] What are the [[criteria]] for success?
+
+[한글] 연구자들은 그 *방법론을* 비판했다.
+[EN] Researchers criticized the [[methodology]].
+
+[한글] 과학자들은 피치의 *점도를* 측정했다.
+[EN] Scientists measured the [[viscosity]] of pitch.
+
+[한글] 그 방은 *거의* 비어 있었다.
+[EN] The room was [[virtually]] empty.
+
+[한글] 액체를 *비커에* 부어라.
+[EN] Pour the liquid into a [[beaker]].
+
+[한글] 그것은 *기이한* 실험이었다.
+[EN] It was a [[bizarre]] experiment.
+
+[한글] 그는 *사후에* 상을 받았다.
+[EN] He received the award [[posthumously]].
+
+[한글] 경쟁은 혁신을 *촉진한다*.
+[EN] Competition [[spur]]s innovation.
+
+[한글] 그는 그녀의 억양에 대해 *비하하는* 말을 했다.
+[EN] He made a [[derogatory]] comment about her accent.

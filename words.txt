@@ -694,3 +694,30 @@ preposition - 전치사
 substantive - 명사 (문법) / 실질적인, 본질적인
 split infinitive - 분리 부정사 (to와 동사 사이에 단어 삽입)
 literary pretensions - 문학적 허세, 고상한 척함
+pretences - 가식, 꾸밈, 허세, 겉으로 꾸며 보이는 태도
+amenity - 편의시설 / 쾌적함 / 친절함
+stratagems - 계략, 술책, 교묘한 전략
+garrulousness - 수다스러움, 지나친 말 많음, 장황함
+sidetracking - 본론에서 벗어나게 함, 딴길로 샘
+parentheses - 괄호 ( ) / 삽입구, 여담
+the sods - 그 녀석들, 불쌍한 사람들 (영국식 구어)
+inflection - 억양, 어조 변화 / 어형 변화(굴절)
+composition - 구성 / 작문 / 작곡 / 구도
+discrete - 분리된, 별개의, 독립된
+constitutional - 체질적인, 선천적인 / 헌법의
+premise - 전제, 가정
+temperament - 기질, 성향, 타고난 성격
+somatotyping - 체형 분류(법), 신체 유형 분류
+unsavoury - 불쾌한, 꺼림칙한, 평판이 나쁜
+rectangular - 직사각형의, 각진
+strenuous - 고된, 격렬한, 힘이 많이 드는
+triathlon - 철인 3종 경기
+criteria - 기준들 (criterion의 복수형)
+methodology - 방법론, 연구 방법 체계
+viscosity - 점도, 끈적한 정도
+virtually - 거의, 사실상
+beaker - 비커 (실험용 유리 용기)
+bizarre - 기이한, 매우 이상한
+posthumously - 사후에, 죽은 뒤에
+spur - 자극하다, 촉진하다, 박차를 가하다
+derogatory - 비하하는, 깎아내리는, 경멸적인
