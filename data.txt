@@ -2166,3 +2166,57 @@
 
 [한글] 그는 그녀의 억양에 대해 *비하하는* 말을 했다.
 [EN] He made a [[derogatory]] comment about her accent.
+
+[한글] 한국은 *3차 산업* 비중이 크다.
+[EN] Korea has a large [[tertiary]] industry sector.
+
+[한글] 그 이야기는 매우 *공상적이다*.
+[EN] The story is highly [[fanciful]].
+
+[한글] 그 사건은 국민 *정신에* 영향을 주었다.
+[EN] The event affected the national [[psyche]].
+
+[한글] 누군가 증거를 *조작했다*.
+[EN] Someone [[tamper with]] the evidence.
+
+[한글] 스트레스는 자신감을 서서히 *약화시킨다*.
+[EN] Stress can [[whittle away]] your confidence.
+
+[한글] 그는 *사관생도로* 입학했다.
+[EN] He entered the academy as a [[cadet]].
+
+[한글] 그녀는 *괴로운* 표정을 지었다.
+[EN] She had a [[tortured]] expression.
+
+[한글] 그의 *결심은* 약해지지 않았다.
+[EN] His [[resolve]] never weakened.
+
+[한글] 그녀의 눈에는 *강렬한 빛이* 있었다.
+[EN] There was a [[blaze]] in her eyes.
+
+[한글] 그는 웃음으로 *몸을 떨었다*.
+[EN] He [[convulsed]] with laughter.
+
+[한글] 방에 *섬뜩한* 정적이 흘렀다.
+[EN] An [[eerie]] silence filled the room.
+
+[한글] 그는 *다정하게* 말했다.
+[EN] He spoke with great [[tenderness]].
+
+[한글] 양국 관계가 *악화되었다*.
+[EN] Relations between the two countries [[deteriorate]]d.
+
+[한글] 이익이 위험을 *상쇄한다*.
+[EN] The benefits [[countervail]] the risks.
+
+[한글] 그는 나이에도 불구하고 *활력이 넘친다*.
+[EN] He remains [[vigorous]] despite his age.
+
+[한글] 교육에 대한 그녀의 *헌신은* 훌륭하다.
+[EN] Her [[devotion]] to teaching is admirable.
+
+[한글] 그 정책은 상황 *개선을* 가져왔다.
+[EN] The policy brought an [[amelioration]] of conditions.
+
+[한글] 직장 내 *괴롭힘은* 심각한 문제다.
+[EN] Workplace [[harassment]] is a serious issue.
