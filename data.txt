@@ -2241,3 +2241,27 @@
 
 [한글] 그 설계는 인간의 시각에 *맞추어* 만들어졌다.
 [EN] The design was made [[in accordance with]] human vision.
+
+[한글] 그 생각은 과학자들 사이에서 *널리 받아들여지게* 되었다.
+[EN] The idea has gained [[currency]] among scientists.
+
+[한글] 정치적 *갈등이* 국가의 불안을 초래했다.
+[EN] Political [[strife]] caused instability in the country.
+
+[한글] 많은 코미디언들이 *보드빌에서* 경력을 시작했다.
+[EN] Many comedians began their careers in [[vaudeville]].
+
+[한글] 부의 *매력은* 많은 사람들을 끌어당긴다.
+[EN] The [[allure]] of wealth attracts many people.
+
+[한글] 그 회사의 *몰락은* 투자자들을 놀라게 했다.
+[EN] The [[demise]] of the company shocked investors.
+
+[한글] 그의 제안은 비현실적이라고 *조롱받았다*.
+[EN] His proposal was [[derided]] as unrealistic.
+
+[한글] 수천 명의 *관중이* 경기를 관람했다.
+[EN] Thousands of [[spectator]]s watched the match.
+
+[한글] 그 보고서는 *매우* 부정확했다.
+[EN] The report was [[grossly]] inaccurate.
