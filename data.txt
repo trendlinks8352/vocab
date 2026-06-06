@@ -2220,3 +2220,24 @@
 
 [한글] 직장 내 *괴롭힘은* 심각한 문제다.
 [EN] Workplace [[harassment]] is a serious issue.
+
+[한글] 그 탑은 위로 갈수록 *좁아지는* 측면을 가지고 있다.
+[EN] The tower has [[taperings]] sides.
+
+[한글] 우리는 겉모습에 *속았다*.
+[EN] We were [[misled]] by appearances.
+
+[한글] 이익은 수익에서 비용을 *빼서* 계산한다.
+[EN] Profit is calculated by [[subtracting]] costs from revenue.
+
+[한글] 개인의 이익은 공동의 이익에 *종속되었다*.
+[EN] Personal interests were [[subordinated]] to the common good.
+
+[한글] 많은 유명 건축물들이 *뛰어난 건축가들에* 의해 설계되었다.
+[EN] Many famous buildings were designed by [[gifted architects]].
+
+[한글] 성공은 *시행착오를* 통해 이루어졌다.
+[EN] Success came through [[trial and error]].
+
+[한글] 그 설계는 인간의 시각에 *맞추어* 만들어졌다.
+[EN] The design was made [[in accordance with]] human vision.
