@@ -2265,3 +2265,54 @@
 
 [한글] 그 보고서는 *매우* 부정확했다.
 [EN] The report was [[grossly]] inaccurate.
+
+[한글] 그들은 강한 협력 관계를 *구축했다*.
+[EN] They [[forge]]d a strong partnership.
+
+[한글] 새로운 아이디어는 끊임없이 *변화한다*.
+[EN] New ideas are constantly [[mutating]].
+
+[한글] 정부는 그 지역의 *반란에* 직면했다.
+[EN] The government faced an [[insurgency]] in the region.
+
+[한글] 보고서에는 여러 *부록이* 포함되어 있다.
+[EN] The report includes several [[annexes]].
+
+[한글] 그 도시는 도로가 *종횡으로* 뻗어 있다.
+[EN] The city is [[crisscrossed]] by roads.
+
+[한글] 문화적 *동화에는* 시간이 걸린다.
+[EN] Cultural [[assimilation]] takes time.
+
+[한글] 보안 시스템은 공격을 *저지한다*.
+[EN] The security system [[thwarts]] attacks.
+
+[한글] 노동자들은 *착취적* 관행에 항의했다.
+[EN] Workers protested against [[exploitative]] practices.
+
+[한글] *해적들이* 배를 공격했다.
+[EN] [[Pirates]] attacked the ship.
+
+[한글] *밀수업자들은* 밤에 국경을 넘었다.
+[EN] [[Smugglers]] crossed the border at night.
+
+[한글] *연이은* 폭풍이 해안을 강타했다.
+[EN] A [[succession]] of storms hit the coast.
+
+[한글] 우리는 어떠한 형태의 폭력도 *규탄한다*.
+[EN] We [[deplore]] violence in any form.
+
+[한글] 찬장에는 고급 *도자기 식기가* 가득했다.
+[EN] The cabinet was filled with fine [[chinaware]].
+
+[한글] 나무는 화려한 *장식품으로* 꾸며져 있었다.
+[EN] The tree was decorated with colorful [[ornament]]s.
+
+[한글] 그 선수의 *민첩함은* 모두를 감탄하게 했다.
+[EN] The athlete's [[fleetness]] impressed everyone.
+
+[한글] 숙련된 엔지니어는 *수요가 높다*.
+[EN] Skilled engineers are highly [[sought after]].
+
+[한글] 어떤 사람들은 그 영화가 *과대평가되었다고* 생각한다.
+[EN] Some people think the movie is [[overrated]].
