@@ -2316,3 +2316,60 @@
 
 [한글] 어떤 사람들은 그 영화가 *과대평가되었다고* 생각한다.
 [EN] Some people think the movie is [[overrated]].
+
+[한글] 환자는 큰 신장 결석 *제거술을* 받았다.
+[EN] The patient underwent [[percutaneous nephrolithotomy]] for a large kidney stone.
+
+[한글] 그 병원은 지난해 500건 이상의 *수술을* 시행했다.
+[EN] The hospital performed over 500 [[operations]] last year.
+
+[한글] *비뇨기과 전문의들은* 요로 질환을 전문으로 한다.
+[EN] [[Urologists]] specialize in diseases of the urinary tract.
+
+[한글] 오래된 건물의 *잔해가* 아직도 보인다.
+[EN] The [[remnants]] of the old building can still be seen.
+
+[한글] 그 지진으로 많은 *사상자가* 발생했다.
+[EN] The earthquake caused many [[casualties]].
+
+[한글] 그녀는 프로젝트 관리 *역량을* 보여주었다.
+[EN] She demonstrated [[competence]] in managing the project.
+
+[한글] 그 신문은 그 사건을 *선정적으로* 보도했다는 비판을 받았다.
+[EN] The newspaper was accused of [[sensationalising]] the story.
+
+[한글] 관객들은 그녀의 공연에 완전히 *매료되었다*.
+[EN] The audience was [[mesmerise]]d by her performance.
+
+[한글] 그 소프트웨어는 놀라운 *정교함을* 보여준다.
+[EN] The software shows remarkable [[sophistication]].
+
+[한글] 성공은 열심히 노력하는 것에 *달려 있다*.
+[EN] Success is [[contingent]] on hard work.
+
+[한글] 그의 건강이 *악화되었다*.
+[EN] There has been a [[deterioration]] in his health.
+
+[한글] 의사들은 종종 *의료 과실 소송을* 두려워한다.
+[EN] Doctors often fear [[malpractice lawsuits]].
+
+[한글] 많은 직원들이 경영진으로부터 *소외감을* 느낀다.
+[EN] Many employees feel [[alienated]] from management.
+
+[한글] 그녀는 불만을 *줄줄이 늘어놓았다*.
+[EN] She recited a [[litany]] of complaints.
+
+[한글] 그 공격 *혐의자는* 혐의를 부인했다.
+[EN] The [[alleged]] attacker denied the accusation.
+
+[한글] 그 대학은 학문의 자유의 *보루이다*.
+[EN] The university is a [[bastion]] of academic freedom.
+
+[한글] 그 회사는 제품에 대해 *고의적으로* 소비자를 속였다.
+[EN] The company was [[deliberately deceitful]] about the product.
+
+[한글] 우리는 우리의 *부족한 점을* 인정해야 한다.
+[EN] We should acknowledge our [[shortcomings]].
+
+[한글] 대한민국은 *단일국가이다*.
+[EN] South Korea is a [[unitary]] state.
