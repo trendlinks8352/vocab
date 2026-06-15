@@ -2373,3 +2373,165 @@
 
 [한글] 대한민국은 *단일국가이다*.
 [EN] South Korea is a [[unitary]] state.
+
+[한글] 그 책에는 그의 어린 시절 *추억담이* 담겨 있다.
+[EN] The book contains his [[reminiscences]] of childhood.
+
+[한글] 그는 사과는커녕 *설명조차 하지 않았다*.
+[EN] He didn't apologize, [[nor even]] explain himself.
+
+[한글] 노동자들은 *노동절에* 시내를 행진했다.
+[EN] Workers marched through the city on [[May Day]].
+
+[한글] 그의 *동지들은* 그의 결정을 지지했다.
+[EN] His [[comrades]] supported his decision.
+
+[한글] 돈을 모으기 위해서는 종종 *기꺼운 희생이* 필요하다.
+[EN] Saving money often requires [[willing deprivation]].
+
+[한글] 그들은 *극히 적은 임금을* 받고 일했다.
+[EN] They worked for [[pauper's]] wages.
+
+[한글] 군중 사이로 *웅성거림이* 퍼졌다.
+[EN] A [[murmur]] spread through the crowd.
+
+[한글] 그는 *순종적으로* 고개를 끄덕였다.
+[EN] He nodded [[submissively]].
+
+[한글] 많은 사람들이 종교적 *박해를* 피해 도망쳤다.
+[EN] Many fled to escape religious [[persecution]].
+
+[한글] 그 운동은 많은 *지지자들을* 얻었다.
+[EN] The movement gained many [[adherents]].
+
+[한글] 많은 사람들이 희망을 *포기했다*.
+[EN] Many people [[given up]] hope.
+
+[한글] 군중은 *지루한 구호를* 되풀이했다.
+[EN] The crowd repeated the [[dreary chant]].
+
+[한글] 노동자들은 파업 기간 동안 *연대 의식을* 보여 주었다.
+[EN] Workers showed [[solidarity]] during the strike.
+
+[한글] 사회는 *편협한 편견을* 극복해야 한다.
+[EN] Society must overcome [[bigotry]].
+
+[한글] 아이들은 *안절부절못하기* 시작했다.
+[EN] The children became [[restless]].
+
+[한글] 명성은 종종 *덧없는 것이다*.
+[EN] Fame is often [[transient]].
+
+[한글] 회의는 *무기한 연기되었다*.
+[EN] The meeting was postponed [[indefinitely]].
+
+[한글] 사회적 *배제는* 외로움으로 이어질 수 있다.
+[EN] Social [[exclusion]] can lead to loneliness.
+
+[한글] 긴 여행 후 나는 완전히 *녹초가* 되었다.
+[EN] After the long journey, I was [[bushwhacked]].
+
+[한글] 자연 그 자체는 *도덕과 무관하다*.
+[EN] Nature itself is [[amoral]].
+
+[한글] 부모는 아이들의 *친사회적* 행동을 장려한다.
+[EN] Parents encourage [[prosocial]] behavior in children.
+
+[한글] 그 소설은 *망명자의* 시각을 반영한다.
+[EN] The novel reflects an [[exilic]] perspective.
+
+[한글] 그 연구는 유전자와 환경의 *상호작용을* 조사했다.
+[EN] The study examined the [[interplay]] between genes and environment.
+
+[한글] 나는 다친 개가 *안쓰러웠다*.
+[EN] I [[felt sorry for]] the injured dog.
+
+[한글] 인간의 삶은 종종 *역설로 가득 차* 있다.
+[EN] Human life is often [[awash in paradoxicality]].
+
+[한글] 사람들은 자신의 신념과 행동이 충돌할 때 *인지부조화를* 경험한다.
+[EN] People experience [[cognitive dissonance]] when their beliefs conflict with their actions.
+
+[한글] 그 나라는 *해결하기 어려운* 문제에 직면해 있다.
+[EN] The country faces an [[intractable]] problem.
+
+[한글] 그건 *터무니없는* 주장이다.
+[EN] That's a [[preposterous]] claim.
+
+[한글] 그는 *독특한 학자 집단에* 속해 있다.
+[EN] He belongs to a [[unique circle]] of scholars.
+
+[한글] 그 모임은 *외부인의* 출입을 막으려 했다.
+[EN] The club tried to keep [[interlopers]] away.
+
+[한글] 그 고양이는 열린 창문으로 *몰래 들어갔다*.
+[EN] The cat [[sneak through]] the open window.
+
+[한글] 젖지 *않도록* 우산을 가져가라.
+[EN] Take an umbrella [[lest]] you get wet.
+
+[한글] 나는 직장을 그만두고 싶은 *유혹을 느꼈다*.
+[EN] I was [[tempted]] to quit my job.
+
+[한글] 그는 갑자기 *격렬한 어조로* 말했다.
+[EN] He spoke with [[sudden ferocity]].
+
+[한글] 그는 실수를 한 뒤 *당황하고 민망해* 보였다.
+[EN] He looked [[chagrined]] after making the mistake.
+
+[한글] 그 물은 세균에 *오염되어* 있었다.
+[EN] The water was [[contaminated]] with bacteria.
+
+[한글] 그들은 소박한 *거처로* 돌아갔다.
+[EN] They returned to their humble [[abode]].
+
+[한글] 나는 그가 진실을 알고 있다고 *짐작한다*.
+[EN] I [[surmises]] that he knows the truth.
+
+[한글] 그 예술가는 왕실의 *후원을* 받았다.
+[EN] The artist enjoyed royal [[patronage]].
+
+[한글] 졸업 후 나는 삶의 방향을 잃은 *기분이다*.
+[EN] Since graduation, I have felt [[adrift]].
+
+[한글] 그는 다른 사람들에게 *기가 꺾이기를* 거부했다.
+[EN] He refused to be [[browbeaten]] by others.
+
+[한글] 그는 원칙보다 *자기 출세를* 더 중요하게 여겼다.
+[EN] He cared more about [[self-advancement]] than principles.
+
+[한글] 판사는 *소송 당사자의 주장을* 들었다.
+[EN] The judge heard the [[litigant's case]].
+
+[한글] 그는 *자기중심적이고* 거만하게 말했다.
+[EN] He sounded [[egotistical]] and haughty.
+
+[한글] 그는 자기중심적이고 *거만하게* 말했다.
+[EN] He sounded egotistical and [[haughty]].
+
+[한글] 그녀의 *호전적이고* 비하하는 말은 모두를 불쾌하게 했다.
+[EN] Her [[belligerent]] and belittling remarks upset everyone.
+
+[한글] 그녀의 호전적이고 *비하하는* 말은 모두를 불쾌하게 했다.
+[EN] Her belligerent and [[belittling]] remarks upset everyone.
+
+[한글] 그 기사에는 *악의적이고* 모욕적인 내용이 있었다.
+[EN] The article contained [[malicious]] and demeaning comments.
+
+[한글] 그 기사에는 악의적이고 *모욕적인* 내용이 있었다.
+[EN] The article contained malicious and [[demeaning]] comments.
+
+[한글] 그는 *붙임성 있고* 함께 있기에 편안한 사람이었다.
+[EN] He was [[affable]] and companionable.
+
+[한글] 그는 붙임성 있고 *함께 있기에 편안한* 사람이었다.
+[EN] He was affable and [[companionable]].
+
+[한글] 그녀는 부패에 맞서는 *완강한* 걸림돌이 되었다.
+[EN] She became a [[resolute]] obstacle to corruption.
+
+[한글] 그는 도덕의 *모범처럼* 보였지만 속은 공허했다.
+[EN] He appeared an [[exemplar]] of moral virtue in public but hollow within.
+
+[한글] 무지는 발전의 *적이다*.
+[EN] Ignorance is the [[foe]] of progress.
