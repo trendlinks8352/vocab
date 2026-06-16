@@ -2535,3 +2535,24 @@
 
 [한글] 무지는 발전의 *적이다*.
 [EN] Ignorance is the [[foe]] of progress.
+
+[한글] 곰 *괴롭히기는* 한때 인기 있는 오락이었다.
+[EN] Bear-[[baiting]] was once a popular form of entertainment.
+
+[한글] 그 만화는 *의인화* 기법에 크게 의존한다.
+[EN] The cartoon relies heavily on [[anthropomorphism]].
+
+[한글] 그 피해는 *고의적이었다*.
+[EN] The damage was [[wilful]].
+
+[한글] 그녀는 *자비로운* 간호사이다.
+[EN] She is a [[compassionate]] nurse.
+
+[한글] 많은 사람들은 죽음에 대해 이야기하는 것을 *꺼린다*.
+[EN] Many people are [[squeamish]] about discussing death.
+
+[한글] 인간은 오랫동안 자연을 *지배하려* 해왔다.
+[EN] Humans have long sought [[dominion]] over nature.
+
+[한글] 그는 계약을 *위반했다*.
+[EN] He [[breach]]ed the contract.

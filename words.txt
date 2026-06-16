@@ -844,3 +844,10 @@ companionable - 사귀기 편한, 다정한
 resolute - 단호한, 확고한
 exemplar - 모범, 본보기
 foe - 적, 숙적, 반대자
+baiting - 미끼로 유인하는 행위 / 도발하는 것
+anthropomorphism - 의인화 (동물·사물에 인간 감정을 투영)
+wilful - 고의적인, 일부러 하는, 고집 센
+compassionate - 자비로운, 연민이 있는, 배려심 있는
+squeamish - 비위가 약한, 불편한 진실을 꺼리는
+dominion - 지배권, 통치권, 지배 영역
+breach - 위반하다, 침해하다 / 계약 위반
