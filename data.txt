@@ -2556,3 +2556,30 @@
 
 [한글] 그는 계약을 *위반했다*.
 [EN] He [[breach]]ed the contract.
+
+[한글] *저기 멀리 있는* 산들은 눈으로 덮여 있다.
+[EN] The mountains [[yonder]] are covered with snow.
+
+[한글] 거리의 *아이들이* 골목에서 놀고 있었다.
+[EN] The street [[urchin]]s played in the alley.
+
+[한글] *녹는* 얼음은 봄의 도래를 알렸다.
+[EN] The [[thawing]] ice signaled the arrival of spring.
+
+[한글] 그녀는 사소한 실수 하나하나를 *걱정한다*.
+[EN] She [[frets]] over every little mistake.
+
+[한글] 그 비극 이후 우리의 *슬픔을 달랠* 수 있는 것은 아무것도 없었다.
+[EN] Nothing could [[assuage our grief]] after the tragedy.
+
+[한글] 그들은 여행에 필요한 물자를 충분히 *확보했다*.
+[EN] They [[procure]]d enough supplies for the journey.
+
+[한글] 그의 설렘 위에 두려움이 *덧씌워져* 있었다.
+[EN] Fear was [[overlaying]] his excitement.
+
+[한글] 피할 수 없는 것에 저항하는 것은 *부질없는* 일이었다.
+[EN] It was [[futile]] to resist the inevitable.
+
+[한글] 모든 인간의 삶은 결국 죽음으로 *끝난다*.
+[EN] Every human life [[inevitably ends]] in death.
