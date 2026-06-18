@@ -2583,3 +2583,33 @@
 
 [한글] 모든 인간의 삶은 결국 죽음으로 *끝난다*.
 [EN] Every human life [[inevitably ends]] in death.
+
+[한글] 그 지역은 *건강에 좋은* 기후로 유명하다.
+[EN] The region is famous for its [[salubrious]] climate.
+
+[한글] 우리는 그 결과에 대해 *심각할 정도로 무지했다*.
+[EN] We were [[woefully ignorant]] of the consequences.
+
+[한글] 그 회사는 *합병을* 통해 성장했다.
+[EN] The company grew through [[amalgamation]].
+
+[한글] 그 스캔들은 정치적 *부패를* 드러냈다.
+[EN] The scandal exposed political [[venality]].
+
+[한글] 폭풍 후 마을은 *난장판이* 되었다.
+[EN] After the storm, the town was in [[shambles]].
+
+[한글] 선행은 *기억되어야* 한다.
+[EN] Good [[deed]]s should be remembered.
+
+[한글] 많은 가정이 빚에 *얽매여* 있다고 느낀다.
+[EN] Many families feel [[shackled]] by debt.
+
+[한글] 그녀는 늘 *바쁘다*.
+[EN] She is [[perpetually]] busy.
+
+[한글] 그녀의 *집념은* 모두에게 깊은 인상을 주었다.
+[EN] Her [[tenacity]] impressed everyone.
+
+[한글] 새로운 기술이 오래된 방식을 *대체했다*.
+[EN] New technology has [[supersede]]d old methods.

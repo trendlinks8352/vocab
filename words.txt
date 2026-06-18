@@ -860,3 +860,13 @@ procure - 조달하다, 확보하다, 입수하다
 overlaying - 덧씌우다, 겹쳐 놓다, 중첩시키다
 futile - 헛된, 부질없는, 소용없는
 inevitably ends - 결국 끝난다, 필연적으로 종결된다
+salubrious - 건강에 좋은, 쾌적한, 유익한
+woefully ignorant - 매우 무지한, 형편없이 모르고 있는
+amalgamation - 합병, 통합, 융합
+venality - 부패성, 매수되기 쉬움
+shambles - 난장판, 엉망진창
+deed - 행위, 행동 (도덕적 의미가 있는)
+shackled - 족쇄가 채워진, 속박된, 얽매인
+perpetually - 끊임없이, 계속해서
+tenacity - 끈기, 집념, 불굴의 의지
+supersede - 대체하다, 대신하다
