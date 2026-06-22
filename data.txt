@@ -2613,3 +2613,45 @@
 
 [한글] 새로운 기술이 오래된 방식을 *대체했다*.
 [EN] New technology has [[supersede]]d old methods.
+
+[한글] 그는 자신은 잘못한 게 없다고 화를 내며 *받아쳤다*.
+[EN] He [[retorted]] angrily that he had done nothing wrong.
+
+[한글] 그 소문은 단순한 험담에 *불과했다*.
+[EN] The rumor was [[no more than]] gossip.
+
+[한글] 오늘 기분이 아주 *좋다*.
+[EN] I'm feeling quite [[bobbish]] today.
+
+[한글] 도둑은 노인의 시계를 *빼앗았다*.
+[EN] The thief [[robbed]] the old man of his watch.
+
+[한글] 그는 젊은 시절 이야기를 들려주며 우리를 *즐겁게 했다*.
+[EN] He [[regaled]] us with stories of his youth.
+
+[한글] 그 파충류는 꼬리 끝에 *비늘 같은 부분이* 있었다.
+[EN] The reptile had [[scaly tips]] on its tail.
+
+[한글] 죄책감은 *양심의 채찍* 역할을 할 수 있다.
+[EN] Guilt can act as a [[moral goads]].
+
+[한글] 그들의 대화는 *긴장되고* 대립적이었다.
+[EN] Their conversation was [[strained]] and confronting.
+
+[한글] 그들의 대화는 긴장되고 *대립적이었다*.
+[EN] Their conversation was strained and [[confronting]].
+
+[한글] 손님들은 그 자리의 *엄숙하고 딱딱한 분위기에* 위축되었다.
+[EN] The guests were [[stifled by sombre formality]] of the occasion.
+
+[한글] 그는 개인으로서는 *잠깐 관심을 둘 정도의* 인물에 불과했다.
+[EN] He was a person [[warranting only passing interest]] as an individual.
+
+[한글] 의심이 계속 그를 *괴롭혔다*.
+[EN] A doubt [[niggled]] at him.
+
+[한글] 그들은 그의 생각을 *비웃었다*.
+[EN] They [[ridicule]]d his ideas.
+
+[한글] 나는 그들이 나를 *희생양으로 삼는* 것 같다고 느꼈다.
+[EN] I felt they were [[serving up for dinner]].
