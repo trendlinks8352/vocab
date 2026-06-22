@@ -2655,3 +2655,39 @@
 
 [한글] 나는 그들이 나를 *희생양으로 삼는* 것 같다고 느꼈다.
 [EN] I felt they were [[serving up for dinner]].
+
+[한글] 쇼는 *신랄한 재치로* 유명했다.
+[EN] Shaw was famous for his [[cutting wit]].
+
+[한글] 그는 아이를 구하기 위해 *용감한* 노력을 했다.
+[EN] He made a [[gallant]] effort to save the child.
+
+[한글] 그녀는 연설 도중 *감정이* 북받쳤다.
+[EN] She became [[emotional]] during the speech.
+
+[한글] 그의 *냉담함은* 모두를 놀라게 했다.
+[EN] His [[callousness]] shocked everyone.
+
+[한글] 그녀는 *솔직하게* 대답했다.
+[EN] She gave a [[candid]] answer.
+
+[한글] 그들은 그를 매우 *존경한다*.
+[EN] They have a high [[regard]] for him.
+
+[한글] 돈 부족은 큰 *장애물이었다*.
+[EN] Lack of money was a major [[hindrance]].
+
+[한글] 그녀는 오직 *끈기만으로* 성공했다.
+[EN] She succeeded through [[sheer perseverance]].
+
+[한글] 그는 참여하기를 *꺼렸다*.
+[EN] He showed a [[disinclination]] to participate.
+
+[한글] 그 팀은 매우 *다른* 배경의 사람들로 이루어졌다.
+[EN] The team consisted of people from [[disparate]] backgrounds.
+
+[한글] 나는 그녀의 판단력을 *높이 평가한다*.
+[EN] I highly [[esteem]] her judgment.
+
+[한글] 그녀는 *통찰력 있는* 관찰자이다.
+[EN] She is a [[perspicacious]] observer.
