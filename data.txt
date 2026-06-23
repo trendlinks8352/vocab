@@ -2691,3 +2691,18 @@
 
 [한글] 그녀는 *통찰력 있는* 관찰자이다.
 [EN] She is a [[perspicacious]] observer.
+
+[한글] 그는 *뭉툭한* 손가락으로 가리켰다.
+[EN] He pointed with his [[stubby]] finger.
+
+[한글] 그녀는 화를 *억누르려* 했다.
+[EN] She tried to [[curb]] her anger.
+
+[한글] 그는 *애원하는* 표정을 지었다.
+[EN] He gave me a [[pleading]] look.
+
+[한글] 구름이 태양을 *가려* 버렸다.
+[EN] The clouds [[blotted out]] the sun.
+
+[한글] 그들의 우정은 세월과 함께 더욱 *원숙해졌다*.
+[EN] Their friendship has [[mellowed]] with age.
