@@ -2706,3 +2706,27 @@
 
 [한글] 그들의 우정은 세월과 함께 더욱 *원숙해졌다*.
 [EN] Their friendship has [[mellowed]] with age.
+
+[한글] 정신 질환은 신체 질환과 *질적으로* 다르다.
+[EN] Mental illness differs [[qualitatively]] from physical illness.
+
+[한글] 새로운 아이디어가 *싹트는 데는* 시간이 걸린다.
+[EN] The [[germination]] of new ideas takes time.
+
+[한글] 우리는 그 문제를 *대략적으로만* 이해하고 있다.
+[EN] We only have a [[gross]] understanding of the problem.
+
+[한글] 암은 많은 가정에 큰 *고통이다*.
+[EN] Cancer is a serious [[affliction]] for many families.
+
+[한글] 규칙적인 운동은 많은 건강 문제를 *예방할* 수 있다.
+[EN] Regular exercise can [[forestall]] many health problems.
+
+[한글] 그녀는 우울증으로 *정신과* 치료를 받았다.
+[EN] She received [[psychiatric]] treatment for depression.
+
+[한글] 선생님은 말다툼이 심해지기 전에 *개입했다*.
+[EN] The teacher [[interposing]] before the argument became worse.
+
+[한글] 그 정책은 전국적으로 *제도화되었다*.
+[EN] The policy became [[institutionalised]] across the country.
