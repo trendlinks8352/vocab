@@ -2730,3 +2730,21 @@
 
 [한글] 그 정책은 전국적으로 *제도화되었다*.
 [EN] The policy became [[institutionalised]] across the country.
+
+[한글] *일부일처제는* 많은 나라에서 가장 일반적인 결혼 형태이다.
+[EN] [[Monogamy]] is the most common form of marriage in many countries.
+
+[한글] *아버지가 된 것은* 그의 인생관을 바꾸었다.
+[EN] [[Fatherhood]] changed his outlook on life.
+
+[한글] 그녀는 부모님께 *효성을* 보였다.
+[EN] She showed [[filial]] respect to her parents.
+
+[한글] 그 팀의 경기력은 *형편없었다*.
+[EN] The team's performance was [[dismal]].
+
+[한글] 그 독재자는 *야만적인* 폭력으로 통치했다.
+[EN] The dictator ruled with [[brutish]] force.
+
+[한글] 자녀는 부모에 대한 *효도를* 잊어서는 안 된다.
+[EN] Children should never forget their [[filial duty]].
