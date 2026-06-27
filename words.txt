@@ -915,3 +915,7 @@ filial - 자식의, 부모에 대한 효도의
 dismal - 음울한, 암울한, 절망적인
 brutish - 짐승 같은, 야만적인, 난폭한
 filial duty - 부모를 봉양할 의무, 효도
+precursors - 선구자, 전조, 선행 요인
+conjecture - 추측, 추정
+foetal - 태아의
+coercion - 강요, 강압

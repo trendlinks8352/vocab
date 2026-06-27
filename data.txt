@@ -2748,3 +2748,15 @@
 
 [한글] 자녀는 부모에 대한 *효도를* 잊어서는 안 된다.
 [EN] Children should never forget their [[filial duty]].
+
+[한글] 인간의 *선조는* 수백만 년에 걸쳐 진화했다.
+[EN] Animal [[precursors]] to humans evolved over millions of years.
+
+[한글] 그의 결론은 *추측에* 근거한다.
+[EN] His conclusion is based on [[conjecture]].
+
+[한글] *태아의* 발달은 임신 초기에 시작된다.
+[EN] [[Foetal]] development begins early in pregnancy.
+
+[한글] 그는 *강압에* 의해 계약서에 서명했다.
+[EN] He signed the contract under [[coercion]].
