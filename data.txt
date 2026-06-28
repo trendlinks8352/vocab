@@ -2760,3 +2760,9 @@
 
 [한글] 그는 *강압에* 의해 계약서에 서명했다.
 [EN] He signed the contract under [[coercion]].
+
+[한글] 의사는 *치사량의* 약물을 준비했다.
+[EN] The doctor prepared a [[lethal dose]] of medication.
+
+[한글] 그 나라는 엄격한 조건 아래 *안락사를* 합법화했다.
+[EN] The country legalized [[euthanasia]] under strict conditions.

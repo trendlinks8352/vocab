@@ -919,3 +919,5 @@ precursors - 선구자, 전조, 선행 요인
 conjecture - 추측, 추정
 foetal - 태아의
 coercion - 강요, 강압
+lethal dose - 치사량
+euthanasia - 안락사
