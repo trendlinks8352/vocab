@@ -2766,3 +2766,12 @@
 
 [한글] 그 나라는 엄격한 조건 아래 *안락사를* 합법화했다.
 [EN] The country legalized [[euthanasia]] under strict conditions.
+
+[한글] 권력의 위계는 그 드라마에 *특이한* 방식으로 등장인물들을 구분짓는다.
+[EN] A hierarchy of power [[peculiar]] to the drama separates its characters.
+
+[한글] 그 사무실에는 분명한 *위계질서가* 있었다.
+[EN] There was a clear [[pecking order]] in the office.
+
+[한글] 그 연극은 인종, 색깔, 신념의 모든 측면을 *포함한다*.
+[EN] The play [[encompasses]] aspects of race, colour, and creed.

@@ -921,3 +921,6 @@ foetal - 태아의
 coercion - 강요, 강압
 lethal dose - 치사량
 euthanasia - 안락사
+peculiar - 특이한, 고유한 (~에 특유한, peculiar to)
+pecking order - 위계질서, 서열
+encompasses - 포함하다, 아우르다
