@@ -2775,3 +2775,39 @@
 
 [한글] 그 연극은 인종, 색깔, 신념의 모든 측면을 *포함한다*.
 [EN] The play [[encompasses]] aspects of race, colour, and creed.
+
+[한글] 그의 *과격한 발언은* 모두를 불쾌하게 했다.
+[EN] His [[intemperate]] remarks offended everyone.
+
+[한글] 그녀는 혼란 속에서도 *평온했다*.
+[EN] She remained [[serene]] despite the chaos.
+
+[한글] 그녀의 재능은 다른 사람들을 *압도하고 있다*.
+[EN] Her talent is [[eclipsing]] everyone else's.
+
+[한글] 그는 *욱신거리는* 두통이 있었다.
+[EN] He had a [[throbbing]] headache.
+
+[한글] 고대 문양이 바위에 *새겨져* 있었다.
+[EN] Ancient symbols were [[incised]] into the rock.
+
+[한글] 새들은 *새벽이 밝기 시작할 때* 노래했다.
+[EN] The birds sang at the [[first of morning]].
+
+[한글] 묘지는 *사이프러스 나무로* 둘러싸여 있었다.
+[EN] The cemetery was surrounded by [[cypress]] trees.
+
+[한글] 그녀의 얼굴은 행복으로 *환하게 빛났다*.
+[EN] Her face [[glowed]] with happiness.
+
+[한글] 그녀의 눈에는 눈물이 *가득 고였다*.
+[EN] Her eyes [[brimmed]] with tears.
+
+[한글] 군중은 승리 후 *환호하고* 있었다.
+[EN] The crowd was [[rejoicing]] after the victory.
+
+[한글] 그녀는 자신의 직장에서 *벗어날 수 없다고* 느꼈다.
+[EN] She felt [[entrapped]] in her job.
+
+[한글] 그는 가족과 *사이가 멀어졌다*.
+[EN] He became [[estranged]] from his family.
