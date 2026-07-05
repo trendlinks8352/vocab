@@ -2811,3 +2811,30 @@
 
 [한글] 그는 가족과 *사이가 멀어졌다*.
 [EN] He became [[estranged]] from his family.
+
+[한글] 인권 단체들이 전쟁 범죄 *의혹을* 제기했다.
+[EN] Human rights groups raised [[allegations]] of war crimes.
+
+[한글] 재난의 영향을 받은 사람들은 아직도 *고통받고* 있다.
+[EN] People affected by the disaster are still [[suffering]].
+
+[한글] 유엔은 *집단학살* 의혹을 조사하고 있다.
+[EN] The UN is investigating allegations of [[genocide]].
+
+[한글] 그 증인의 증언은 새로운 증거로 인해 *신뢰를 잃었다*.
+[EN] The witness's testimony was [[discredited]] by new evidence.
+
+[한글] 법원은 그 결정을 *지지하고 인정했다*.
+[EN] The court [[upheld]] the decision.
+
+[한글] 그는 그녀가 증거를 *조작했다고* 비난했다.
+[EN] He accused her of [[fabrication]] of evidence.
+
+[한글] 그 광고는 소비자들을 *오도한다*.
+[EN] The advertisement is [[misleading]].
+
+[한글] 근로자들에 대한 나쁜 *처우는* 심각한 문제이다.
+[EN] The poor [[treatment]] of workers is a serious issue.
+
+[한글] 피해자들은 손실에 대한 *보상을* 요구했다.
+[EN] The victims demanded [[compensation]] for their loss.
