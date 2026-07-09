@@ -955,3 +955,35 @@ precedence - 우선권, 우선순위
 moan - 신음하다, 불평하다
 incomprehensible - 이해할 수 없는
 pontification - 잘난 체하며 훈계하는 말, 권위적인 설교
+thesaurus - 유의어 사전
+outstanding - 두드러진, 눈에 띄는, 뛰어난
+provision - 제공 / 조항 / 보급품
+synonym - 유의어
+classification - 분류
+implied - 암시된, 암묵적인
+appropriate - 적절한
+vivid - 생생한
+number plate - 자동차 번호판 (영국식, 미국=license plate)
+fuzzy - 흐릿한, 기억이 희미한, 모호한
+imprecise - 부정확한, 정확하지 않은
+muddled - 뒤죽박죽인, 혼란스러운
+vague - 막연한, 애매한
+frayed - 닳은, 해진 / (신경 등이) 지친
+stub out - (담배를) 비벼 끄다
+jabbering - 쉴 새 없이 떠드는, 재잘거리는
+egg on - 부추기다, 선동하다
+fusty - 퀴퀴한, 오래되어 답답한, 시대에 뒤떨어진
+proprietor - 소유주, 주인, 업주
+refined - 세련된, 품위 있는
+coarse - 거친, 조잡한, 천한
+interfering - 참견하는, 간섭하는
+homely - (영국) 아늑한, 편안한 / (미국) 못생긴
+accommodating - 잘 맞춰주는, 친절한, 융통성 있는
+hidebound - 완고한, 고지식한, 변화를 싫어하는
+pastime - 취미, 여가 활동
+persistent - 끈질긴, 집요한
+surroundings - 주변 환경, 주위
+reproach - 비난, 질책
+intrusion - 침입, 방해, 간섭
+hasty - 성급한, 서두른
+lot - (문맥상) 처지, 운명, 신세
