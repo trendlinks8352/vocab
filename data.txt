@@ -2964,3 +2964,48 @@
 
 [한글] 그는 자신의 *처지를* 받아들였다.
 [EN] He accepted his [[lot]].
+
+[한글] 그의 총리 *재임 기간은* 경제적 불안정으로 특징지어졌다.
+[EN] His [[tenure]] as Prime Minister was marked by economic instability.
+
+[한글] 혁명 기간 동안 많은 정치범들이 *단두대로* 보내졌다.
+[EN] Many political prisoners were sent to the [[scaffold]] during the Revolution.
+
+[한글] 새 지도자는 고전하던 정당에 *강인한* 에너지를 불어넣었다.
+[EN] The new leader brought a [[virile]] energy to the struggling political party.
+
+[한글] 대법원장이 그 재판을 *주재할* 것이다.
+[EN] The chief justice will [[preside]] over the high-profile tribunal.
+
+[한글] 개혁 이전에는 지방 정부 내에 부패가 *만연했다*.
+[EN] Corruption was [[rife]] within the local government before the reforms.
+
+[한글] 그는 여러 *부정직한* 사업 거래에 연루되었다.
+[EN] He was involved in several [[crooked]] business deals.
+
+[한글] 위원회는 의심의 여지 없는 *청렴성을* 갖춘 후보를 찾고 있었다.
+[EN] The committee was looking for a candidate of unquestionable [[probity]].
+
+[한글] 그녀는 거짓 소문을 낸 잡지사를 *비방죄로* 고소했다.
+[EN] She sued the magazine for [[slander]] after they published false rumors.
+
+[한글] 그는 인권 보호를 위해 *설득력 있는* 호소를 했다.
+[EN] He made an [[eloquent]] plea for the protection of human rights.
+
+[한글] 지속적인 규정 위반으로 그의 면허가 *취소되었다*.
+[EN] The continuous violation of rules led to the [[revocation]] of his license.
+
+[한글] 새로운 재산법은 사실상 노동자 계급의 *선거권을 박탈했다*.
+[EN] The new property laws effectively [[disenfranchise]]d the working class.
+
+[한글] 그 정치인은 전국 언론에서 끊임없는 *비난에* 직면했다.
+[EN] The politician faced relentless [[vilification]] in the national press.
+
+[한글] 그 회사는 피해를 주는 기사에 대해 *명예훼손으로* 소송을 제기하고 있다.
+[EN] The company is suing for [[defamation]] over the damaging article.
+
+[한글] 부당한 대우를 받은 시민들은 법적 *구제를* 모색할 권리가 있다.
+[EN] Citizens who have been wronged have the right to seek legal [[redress]].
+
+[한글] 그 제한적인 법은 노동자들의 기본권을 *빼앗기* 위해 고안되었다.
+[EN] The restrictive law was designed to [[rob A of B]] the workers of their fundamental rights.

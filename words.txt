@@ -987,3 +987,18 @@ reproach - 비난, 질책
 intrusion - 침입, 방해, 간섭
 hasty - 성급한, 서두른
 lot - (문맥상) 처지, 운명, 신세
+tenure - 재임 기간, 보유권
+scaffold - 교수대, 단두대
+virile - 정력이 넘치는, 남성적인, 강인한
+preside - 주재하다, 통솔하다
+rife - (나쁜 것이) 만연한, 널리 퍼져 있는
+crooked - 비뚤어진, 부정직한
+probity - 정직성, 청렴결백
+slander - 비방, 중상모략 (말로 명예를 훼손함)
+eloquent - 유창한, 설득력 있는
+revocation - 폐지, 철회, 취소
+disenfranchise - 선거권(시민권)을 박탈하다
+vilification - 크게 비난함, 중상
+defamation - 명예훼손
+redress - 보상, 구제, (잘못을) 바로잡다
+rob A of B - (A에게서 B를) 빼앗다
