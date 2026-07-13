@@ -1016,3 +1016,12 @@ villain - 악당, 악역
 more than just - 단순히 ~ 이상, 단지 ~만이 아닌
 dread - 두려움, 공포
 mediocrity - 평범함, 보통 수준
+imbecile - 바보, 멍청이 / 멍청한
+slovenly - 단정하지 못한, 칠칠맞지 못한
+sentiment - 감정, 정서, 감상
+clatter - 덜거덕거리다 / 덜거덕거리는 소리
+insubstantial - 비현실적인, 실체가 없는, 중요하지 않은
+drowsiness - 졸림, 나른함
+shallow - 얕은, 피상적인
+enticing - 매력적인, 유혹하는
+stifled - 억눌린, 억압된

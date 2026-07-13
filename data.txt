@@ -3051,3 +3051,30 @@
 
 [한글] 그 회사는 *평범한 수준에* 만족하지 않았다.
 [EN] The company refused to accept [[mediocrity]].
+
+[한글] 그런 짓은 *바보나* 한다.
+[EN] Only an [[imbecile]] would do that.
+
+[한글] 그는 더러운 옷차림으로 *단정하지 못해* 보였다.
+[EN] He looked [[slovenly]] in dirty clothes.
+
+[한글] *여론이* 빠르게 바뀌었다.
+[EN] Public [[sentiment]] changed quickly.
+
+[한글] 접시들이 바닥에서 *달그락거렸다*.
+[EN] The dishes [[clatter]]ed on the floor.
+
+[한글] 그의 주장은 *실체가 부족했다*.
+[EN] His argument was [[insubstantial]].
+
+[한글] 그 약은 *졸음을* 유발했다.
+[EN] The medicine caused [[drowsiness]].
+
+[한글] 토론은 *피상적인* 수준에 머물렀다.
+[EN] The discussion remained [[shallow]].
+
+[한글] 그 식당은 *매력적인* 디저트를 제공했다.
+[EN] The restaurant offered [[enticing]] desserts.
+
+[한글] 엄격한 규칙 때문에 창의성이 *억눌렸다*.
+[EN] Creativity was [[stifled]] by strict rules.
