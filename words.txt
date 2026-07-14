@@ -1025,3 +1025,17 @@ drowsiness - 졸림, 나른함
 shallow - 얕은, 피상적인
 enticing - 매력적인, 유혹하는
 stifled - 억눌린, 억압된
+brimming - 가득 찬, 넘칠 듯한
+viewing - 바라보는 것, 감상하는 것
+sipping - 홀짝홀짝 마시는 것
+untended - 돌보지 않은, 방치된
+clump - (풀·나무의) 무리, 덤불
+alight - 내려앉다, 착륙하다
+fluttering - (날개 등을) 팔랑거리며 나는
+shrubbery - 관목 숲, 관목 지대
+clover - 클로버
+elegant - 우아한, 품위 있는
+diffident - 자신감 없는, 수줍은
+whimsical - 엉뚱한, 기발한, 변덕스러운
+restlessness - 불안함, 안절부절못함
+weariness - 피로, 권태

@@ -3078,3 +3078,45 @@
 
 [한글] 엄격한 규칙 때문에 창의성이 *억눌렸다*.
 [EN] Creativity was [[stifled]] by strict rules.
+
+[한글] 그녀의 눈에는 눈물이 *가득 고여* 있었다.
+[EN] Her eyes were [[brimming]] with tears.
+
+[한글] 우리는 오후 내내 그림을 *감상했다*.
+[EN] We spent the afternoon [[viewing]] the paintings.
+
+[한글] 그녀는 조용히 커피를 *홀짝이고* 있었다.
+[EN] She was [[sipping]] her coffee quietly.
+
+[한글] 그 정원은 몇 년 동안 *방치되어* 있었다.
+[EN] The garden was [[untended]] for years.
+
+[한글] 강가에 나무 한 *무리가* 서 있었다.
+[EN] A [[clump]] of trees stood by the river.
+
+[한글] 새 한 마리가 울타리에 *내려앉았다*.
+[EN] A bird [[alight]]ed on the fence.
+
+[한글] 나비들이 꽃 주위를 *팔랑거리며* 날고 있었다.
+[EN] Butterflies were [[fluttering]] around the flowers.
+
+[한글] 길은 빽빽한 *관목으로* 둘러싸여 있었다.
+[EN] The path was surrounded by dense [[shrubbery]].
+
+[한글] 아이들은 네잎 *클로버를* 찾았다.
+[EN] Children searched for four-leaf [[clover]]s.
+
+[한글] 그녀는 *우아한* 검은 드레스를 입었다.
+[EN] She wore an [[elegant]] black dress.
+
+[한글] 그는 사람들 앞에서 말하기에 너무 *자신감이 없었다*.
+[EN] He was too [[diffident]] to speak in public.
+
+[한글] 그 이야기는 *기발한* 유머 감각을 가지고 있다.
+[EN] The story has a [[whimsical]] sense of humor.
+
+[한글] 그는 시험 전에 *불안감을* 느꼈다.
+[EN] He felt a sense of [[restlessness]] before the exam.
+
+[한글] 긴 여행 후 그녀는 심한 *피로를* 느꼈다.
+[EN] After the long journey, she felt great [[weariness]].
