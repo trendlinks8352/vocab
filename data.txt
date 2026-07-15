@@ -3120,3 +3120,15 @@
 
 [한글] 긴 여행 후 그녀는 심한 *피로를* 느꼈다.
 [EN] After the long journey, she felt great [[weariness]].
+
+[한글] 수년간의 끊임없는 *고된 노동이* 임상 과학 습득에 필요하다.
+[EN] Years of relentless [[toil]] and dedication are required to master advanced clinical sciences.
+
+[한글] 세포는 필수 영양소가 부족하면 *굶주려* 결국 사멸한다.
+[EN] Cells will begin to [[starve]] if consistently deprived of essential nutrients.
+
+[한글] AI는 현대 의료에서 완전히 새로운 *영역을* 열었다.
+[EN] AI has opened up a completely new [[realm]] of diagnostic possibilities in healthcare.
+
+[한글] 숙련된 의사는 복잡한 증상을 평가할 때 신중한 판단을 *행사해야* 한다.
+[EN] A seasoned practitioner must [[exert]] careful judgment when evaluating complex symptoms.

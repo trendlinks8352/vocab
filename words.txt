@@ -1039,3 +1039,7 @@ diffident - 자신감 없는, 수줍은
 whimsical - 엉뚱한, 기발한, 변덕스러운
 restlessness - 불안함, 안절부절못함
 weariness - 피로, 권태
+toil - 고된 노동, 수고, 애쓰는 일
+starve - 굶주리다, 굶어 죽다
+realm - (활동·지식 등의) 영역, 분야
+exert - (권력·영향력 등을) 가하다, 행사하다, 발휘하다
