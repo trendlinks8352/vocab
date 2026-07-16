@@ -500,12 +500,6 @@ function grade(g) {
   saveDB(db);
 
   currentIdx++;
-
-  // Again(0)이면 큐 끝에 다시 넣기
-  if (g === 0) {
-    queue.push(card.id);
-  }
-
   render();
 }
 
