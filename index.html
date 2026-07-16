@@ -380,8 +380,8 @@ function buildQueue() {
   });
 
   // 오늘 큐: due 먼저, 그 다음 new (최대 20개씩)
-  queue = [...dueCards, ...newCards.slice(0, Math.max(0, 30 - dueCards.length))];
-  sessionStats = { new: newCards.slice(0, Math.max(0, 30 - dueCards.length)).length, review: dueCards.length, done: 0 };
+  queue = [...dueCards, ...newCards];
+  sessionStats = { new: newCards.length, review: dueCards.length, done: 0 };
   currentIdx = 0;
 }
 
