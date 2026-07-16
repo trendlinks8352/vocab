@@ -3132,3 +3132,27 @@
 
 [한글] 숙련된 의사는 복잡한 증상을 평가할 때 신중한 판단을 *행사해야* 한다.
 [EN] A seasoned practitioner must [[exert]] careful judgment when evaluating complex symptoms.
+
+[한글] 강한 냄새 때문에 음식에 대한 *흥미를 잃었다*.
+[EN] The strong smell [[put off]] me off my food.
+
+[한글] 그녀는 다른 사람들의 의견에 쉽게 *영향을 받는다*.
+[EN] She is easily [[swayed]] by other people's opinions.
+
+[한글] 금요일 밤에 피자 한 판을 다 먹는 것은 내 주말 *탐닉이다*.
+[EN] Eating a whole pizza on Friday night is my weekend [[indulgence]].
+
+[한글] 새로운 증거의 발견은 그 수사에 새로운 *추진력을* 주었다.
+[EN] The discovery of new evidence gave fresh [[impetus]] to the investigation.
+
+[한글] 그는 그 비극적인 소식을 듣고 *울지* 않을 수 없었다.
+[EN] He could not help but [[weep]] when he heard the tragic news.
+
+[한글] 어머니의 손길은 항상 부드럽고 *다정하다*.
+[EN] A mother's touch is always gentle and [[tender]].
+
+[한글] 그 연극은 불필요한 *음란함* 때문에 비판을 받았다.
+[EN] The play was criticized for its unnecessary [[bawdiness]].
+
+[한글] 훌륭한 리더는 팀원들의 요구를 *민감하게 알아차려야* 한다.
+[EN] A good leader must be highly [[attuned]] to the needs of the team.
