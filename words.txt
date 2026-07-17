@@ -11,52 +11,52 @@ pretension - 허세, 가식
 obscure (verb) - 가리다, 흐리게 하다
 annihilate - 전멸시키다, 완파하다
 dismantle - 해체하다, 분해하다
-irritated - 가벼운 짜증 / Mild
-annoyed - 현재 / Mild
-frustrated - 목표좌절 / Mild
-resentful - 억울함 / Medium
-indignant - 도덕적 분노 / Medium
-critical - 판단적 / Medium
-reproachful - 비난 / Medium
-outraged - 도덕·강 / Strong
-furious - 강한 분노 / Strong
-incensed - 격분 / Strong
-scathing - 신랄 / Strong
-vehement - 격렬 / Strong
-uneasy - 불편 / Mild
-apprehensive - 미래 걱정 / Mild
-wary - 경계 / Mild
-anxious - 불안 / Medium
-distressed - 고통 / Medium
-troubled - 심란 / Medium
-alarmed - 위기 / Strong
-terrified - 공포 / Strong
-petrified - 얼어붙음 / Strong
-horrified - 충격 / Strong
-content - 만족 / Mild
-pleased - 기쁜 / Mild
-hopeful - 미래 / Mild
-delighted - 매우 기쁨 / Medium
-joyful - 행복 / Medium
-optimistic - 미래 긍정 / Medium
-elated - 고양 / Strong
-ecstatic - 황홀 / Strong
-triumphant - 승리감 / Strong
-wistful - 과거·회상 / Mild
-somber - 중립·분위기 / Mild
-gloomy - 현재·우울 / Mild
-pensive - 성찰 / Mild
-subdued - 억제됨 / Mild
-sad - 현재 / Medium
-melancholic - 과거·잔잔 / Medium
-mournful - 상실 / Medium
-downcast - 자기 / Medium
-disheartened - 미래 / Medium
-despondent - 미래·희망상실 / Strong
-dejected - 자기·낙담 / Strong
-heartbroken - 상실 / Strong
-despairing - 미래·절망 / Strong
-inconsolable - 강한 상실 / Strong
+irritated - 짜증난, 가벼운 화
+annoyed - 불쾌한, 성가신
+frustrated - 좌절한, 답답한
+resentful - 억울한, 분개한
+indignant - 도덕적 분노, 분개한
+critical - 비판적인, 판단적인
+reproachful - 비난하는, 책망하는
+outraged - 격분한, 분노한 (도덕적 위반에 대한 강한 분노)
+furious - 격렬히 화난, 맹렬한
+incensed - 격분한, 몹시 화난
+scathing - 신랄한, 통렬한
+vehement - 격렬한, 맹렬한
+uneasy - 불안한, 불편한
+apprehensive - 염려하는, 미래를 걱정하는
+wary - 경계하는, 조심하는
+anxious - 불안한, 걱정스러운
+distressed - 고통받는, 괴로운
+troubled - 심란한, 걱정스러운
+alarmed - 놀란, 위기감을 느끼는
+terrified - 극도로 두려운, 공포에 질린
+petrified - 공포로 굳어버린, 얼어붙은
+horrified - 충격받은, 경악한
+content - 만족한
+pleased - 기쁜, 만족스러운
+hopeful - 희망찬, 기대하는
+delighted - 매우 기뻐하는, 즐거운
+joyful - 기쁜, 행복한
+optimistic - 낙관적인, 긍정적인
+elated - 들뜬, 고양된
+ecstatic - 황홀한, 열광적인
+triumphant - 승리감에 찬, 의기양양한
+wistful - 아련한, 그리워하는
+somber - 침울한, 어두운 분위기의
+gloomy - 우울한, 음침한
+pensive - 깊이 생각에 잠긴, 상념에 젖은
+subdued - 억제된, 차분한
+sad - 슬픈
+melancholic - 우울한, 애수에 잠긴
+mournful - 슬픔에 잠긴, 비통한
+downcast - 낙담한, 의기소침한
+disheartened - 낙담한, 실망한
+despondent - 낙담한, 희망을 잃은
+dejected - 낙담한, 기가 꺾인
+heartbroken - 마음이 산산조각 난, 비탄에 빠진
+despairing - 절망적인, 희망을 잃은
+inconsolable - 위로받을 수 없는, 극도로 슬픈
 skeptical - 의심 (회의적인)
 doubtful - 회의적 (의심스러운)
 dismissive - 무시 (일축하는)
@@ -1051,3 +1051,4 @@ weep - 울다
 tender - 다정한, 상냥한
 bawdiness - 음란함
 attuned - 민감하게 알아차리는, 조화를 이룬
+focal - 중심의, 초점의 (focal point = 중심점)

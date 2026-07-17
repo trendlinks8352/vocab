@@ -3156,3 +3156,6 @@
 
 [한글] 훌륭한 리더는 팀원들의 요구를 *민감하게 알아차려야* 한다.
 [EN] A good leader must be highly [[attuned]] to the needs of the team.
+
+[한글] 그 회의는 기후 변화를 *중심* 주제로 다뤘다.
+[EN] The meeting made climate change its [[focal]] point.
