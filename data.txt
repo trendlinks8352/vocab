@@ -3159,3 +3159,99 @@
 
 [한글] 그 회의는 기후 변화를 *중심* 주제로 다뤘다.
 [EN] The meeting made climate change its [[focal]] point.
+
+[한글] 세 힘을 벡터로 더하면 하나의 *합력이* 나온다.
+[EN] Adding three force vectors yields a single [[resultant force]].
+
+[한글] 그는 그 대의를 지지하겠다고 *서약했다*.
+[EN] He [[pledge]]d to support the cause.
+
+[한글] 그녀는 고전 문학에 *정통하다*.
+[EN] She is well [[versed]] in classical literature.
+
+[한글] 그는 *사소한* 이유로 소송을 제기했다.
+[EN] He filed a [[frivolous]] lawsuit for no serious reason.
+
+[한글] 그 음악은 깊은 감정적 *울림을* 만들어냈다.
+[EN] The music created a deep emotional [[resonance]].
+
+[한글] *백악기* 말에 대규모 멸종이 일어났다.
+[EN] A mass extinction occurred at the end of the [[Cretaceous]] period.
+
+[한글] *익룡은* 중생대에 하늘을 지배했다.
+[EN] [[Pterosaurs]] dominated the skies during the Mesozoic era.
+
+[한글] *암모나이트는* 백악기 말에 멸종했다.
+[EN] [[Ammonites]] went extinct at the end of the Cretaceous.
+
+[한글] 거대한 *소행성이* 약 6600만 년 전 지구에 충돌했다.
+[EN] A massive [[asteroid]] struck the Earth about 66 million years ago.
+
+[한글] 화산 *분출은* 대기에 막대한 영향을 미쳤다.
+[EN] Volcanic [[eruptions]] had a profound effect on the atmosphere.
+
+[한글] 그 결정은 *부수적인* 피해를 초래했다.
+[EN] The decision caused [[collateral]] damage.
+
+[한글] 그 언론은 *편파적인* 보도로 비판을 받았다.
+[EN] The media was criticized for its [[partisan]] reporting.
+
+[한글] 우리는 정신 건강의 중요성에 *비중을 두어야* 한다.
+[EN] We should [[attach importance to]] mental health.
+
+[한글] 그는 건강을 희생시켜 *가면서* 일했다.
+[EN] He worked [[at the expense of]] his health.
+
+[한글] 그 문제는 이미 해결됐으니 *논쟁의 여지가 없다*.
+[EN] The issue is [[moot]] since it has already been resolved.
+
+[한글] 그 사고로 그는 걸을 수 없는 *상태가 되었다*.
+[EN] The accident [[rendered]] him unable to walk.
+
+[한글] 스마트폰이 등장하면서 많은 기기들이 *구식이* 되었다.
+[EN] Many devices became [[obsolete]] with the rise of smartphones.
+
+[한글] 친구 사이에도 적당한 *경계가* 우정을 오래 유지시킨다.
+[EN] A [[hedge]] between keeps friendship green.
+
+[한글] 그 발견은 *상상조차 할 수 없던* 가능성들을 열었다.
+[EN] The discovery opened up [[undreamt]]-of possibilities.
+
+[한글] 그 괴물은 수세기를 가로질러 *구부정하게* 다가온다.
+[EN] The beast [[slouches]] down the centuries toward us.
+
+[한글] 성공 후 *안일해지는* 것은 위험하다.
+[EN] It is dangerous to become [[complacent]] after success.
+
+[한글] 그 시는 사소한 주제를 장엄하게 다루는 *모의 영웅시* 기법을 사용했다.
+[EN] The poem used a [[mock-heroic]] style to treat a trivial subject with grandeur.
+
+[한글] 그 연설은 *애국적인* 열정으로 가득했다.
+[EN] The speech was filled with [[patriotic]] fervour.
+
+[한글] 몽마르트르의 *풍차들은* 파리의 명물이다.
+[EN] The [[windmills]] of Montmartre are iconic landmarks of Paris.
+
+[한글] 그녀는 턱 밑에 끈을 묶는 *보닛을* 쓰고 있었다.
+[EN] She was wearing a [[bonnet]]s tied beneath her chin.
+
+[한글] 드레스의 *주름 장식이* 우아하게 흘러내렸다.
+[EN] The [[frills]] on the dress fell gracefully.
+
+[한글] 그녀는 어깨에 실크 *숄을* 두르고 있었다.
+[EN] She draped a silk [[shawl]]s over her shoulders.
+
+[한글] 파리는 세계 패션의 *중심지로* 알려져 있다.
+[EN] Paris is known as the fashion [[mart]] of the world.
+
+[한글] 그의 노력은 *칭찬할 만한* 것이었다.
+[EN] His efforts were truly [[commendable]].
+
+[한글] 그녀는 *사치스러운* 생활 방식을 유지했다.
+[EN] She maintained an [[extravagant]] lifestyle.
+
+[한글] 마감 기한의 *압박이* 그를 지치게 했다.
+[EN] The [[strain]] of the deadline exhausted him.
+
+[한글] 그들은 유행을 *맹목적으로* 따랐다.
+[EN] They [[slavishly]] followed every fashion trend.
