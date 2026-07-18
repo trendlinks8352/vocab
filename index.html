@@ -346,6 +346,7 @@ let queue = [];      // 오늘 학습할 카드 인덱스 배열
 let currentIdx = 0;
 let db = {};
 let sessionStats = { new: 0, review: 0, done: 0 };
+let isLoopMode = false;
 
 async function loadWords() {
   try {
@@ -379,9 +380,17 @@ function buildQueue() {
     }
   });
 
-  // 오늘 큐: due 먼저, 그 다음 new (최대 20개씩)
   queue = [...dueCards, ...newCards];
-  sessionStats = { new: newCards.length, review: dueCards.length, done: 0 };
+
+  // 오늘 할 카드 없으면 전체 무한 반복
+  if (queue.length === 0) {
+    queue = allCards.map(c => c.id);
+    sessionStats = { new: 0, review: queue.length, done: 0 };
+    isLoopMode = true;
+  } else {
+    sessionStats = { new: newCards.length, review: dueCards.length, done: 0 };
+    isLoopMode = false;
+  }
   currentIdx = 0;
 }
 
@@ -413,8 +422,7 @@ function render() {
     <div class="progress-bar"><div class="progress-fill" style="width:${progress}%"></div></div>
 
     <div class="queue-info">
-      <span class="new">🆕 신규 ${sessionStats.new}</span>
-      <span class="review">🔄 복습 ${sessionStats.review}</span>
+      ${isLoopMode ? '<span style="color:var(--gold)">♾️ 무한반복 모드</span>' : `<span class="new">🆕 신규 ${sessionStats.new}</span><span class="review">🔄 복습 ${sessionStats.review}</span>`}
     </div>
 
     <div class="card-wrap">
@@ -513,6 +521,12 @@ function handleTTS() {
 }
 
 function renderDone(app) {
+  // 오늘 세션 끝 → 스케줄상 할 게 없으면 무한반복 모드로
+  buildQueue();
+  if (isLoopMode) {
+    render(); // 전체 다시 돌리기
+    return;
+  }
   app.innerHTML = `
     <div class="done-screen visible">
       <h2>🎉 오늘 학습 완료!</h2>
