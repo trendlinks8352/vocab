@@ -3315,3 +3315,15 @@
 
 [한글] 이민자들은 새로운 문화에 *동화되는* 데 시간이 걸린다.
 [EN] Immigrants take time to [[assimilate]] into a new culture.
+
+[한글] 그 점들은 작업 공간의 *경계를 이루는* 정사각형을 형성한다고 가정한다.
+[EN] People assume the dots form a square that [[bounds]] the working space.
+
+[한글] 그는 규칙에 얽매이는 *윤리적* 태도 때문에 창의적으로 생각하지 못했다.
+[EN] He couldn't think creatively due to his [[ethical]] constraints.
+
+[한글] *문자 그대로의* 의미에서 정사각형은 네 변의 길이가 같은 직사각형이다.
+[EN] In the [[literal]] sense, a square is a rectangle with equal sides.
+
+[한글] 우리의 시각 시스템은 세부 특징보다 *전체적인 형태를* 먼저 인식한다.
+[EN] Our visual system recognizes [[global shapes]] before fine details.
