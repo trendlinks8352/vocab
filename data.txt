@@ -3255,3 +3255,63 @@
 
 [한글] 그들은 유행을 *맹목적으로* 따랐다.
 [EN] They [[slavishly]] followed every fashion trend.
+
+[한글] 그 냄새는 *구역질 나게* 역겨웠다.
+[EN] The smell was absolutely [[nauseating]].
+
+[한글] 짐을 선반 위에 *집어넣어라*.
+[EN] [[Stow]] your luggage in the overhead compartment.
+
+[한글] 비평가들은 그 영화에 대해 *극찬했다*.
+[EN] Critics [[rave]]d about the film.
+
+[한글] 그 약은 기적의 치료제로 *선전되었다*.
+[EN] The drug was [[touted]] as a miracle cure.
+
+[한글] 기수는 말에서 *내렸다*.
+[EN] The rider [[dismount]]ed from the horse.
+
+[한글] 그 지역은 식수가 *부족하다*.
+[EN] The region has [[scant]] access to clean water.
+
+[한글] 그는 자신보다 못한 사람들을 *속물적으로* 대했다.
+[EN] He was [[snobbish]] toward those he considered beneath him.
+
+[한글] 그녀는 *검소한* 생활로 돈을 모았다.
+[EN] She saved money through a [[frugal]] lifestyle.
+
+[한글] 그 미신은 과학자들에 의해 *허구임이 밝혀졌다*.
+[EN] The myth was [[debunked]] by scientists.
+
+[한글] *자연요법사들은* 약물 대신 자연 치료법을 사용한다.
+[EN] [[Naturopaths]] use natural remedies instead of conventional medicine.
+
+[한글] *척추지압사들은* 척추 교정을 통해 통증을 치료한다.
+[EN] [[Chiropractors]] treat pain through spinal manipulation.
+
+[한글] *침술사들은* 바늘을 이용해 신체의 혈자리를 자극한다.
+[EN] [[Acupuncturists]] stimulate pressure points in the body using needles.
+
+[한글] 물은 생존에 *필수적이다*.
+[EN] Water is [[indispensable]] for survival.
+
+[한글] 그 도시는 전쟁으로 *완전히 파괴되었다*.
+[EN] The city was [[raze]]d to the ground during the war.
+
+[한글] 그 고양이는 *골목길로* 사라졌다.
+[EN] The cat disappeared into the [[alleyway]].
+
+[한글] *류트는* 중세 유럽에서 인기 있던 현악기이다.
+[EN] The [[lute]] was a popular stringed instrument in medieval Europe.
+
+[한글] 기타리스트는 현을 *뜯어* 멜로디를 연주했다.
+[EN] The guitarist [[plucked]] the strings to play the melody.
+
+[한글] *프렛이 있는* 악기는 음정을 정확하게 잡기 쉽다.
+[EN] A [[fretted]] instrument makes it easier to play accurate notes.
+
+[한글] 그의 목소리는 깊고 *울림이 있었다*.
+[EN] His voice was deep and [[resonant]].
+
+[한글] 이민자들은 새로운 문화에 *동화되는* 데 시간이 걸린다.
+[EN] Immigrants take time to [[assimilate]] into a new culture.

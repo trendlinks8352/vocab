@@ -1084,3 +1084,23 @@ commendable - 칭찬할 만한, 훌륭한
 extravagant - 낭비하는, 사치스러운, 지나친
 strain - 부담, 중압감, 긴장
 slavishly - 맹목적으로, 노예처럼
+nauseating - 구역질 나는, 역겨운, 혐오스러운
+stow - (짐 등을) 집어넣다, 치워두다
+rave - 극찬하다, 열광하다 / 광적으로 떠들다
+touted - 크게 선전된, 극찬받은, 추천된 (tout = 강하게 홍보하다)
+dismount - (말·자전거 등에서) 내리다, 하차하다
+scant - 부족한, 거의 없는, 빈약한
+snobbish - 속물적인, 잘난 체하는
+frugal - 검소한, 절약하는
+debunked - 틀렸음을 밝혀낸, 허구임을 폭로한 (debunk = 거짓임을 드러내다)
+naturopaths - 자연요법사 (자연 치료법을 사용하는 의료 종사자)
+chiropractors - 척추지압사 (척추 교정 전문가)
+acupuncturists - 침술사 (침으로 혈자리를 자극하는 전문가)
+indispensable - 필수적인, 없어서는 안 될
+raze - 완전히 파괴하다, 쓸어버리다 (raze to the ground = 흔적도 없이 없애다)
+alleyway - 골목길, 좁은 통로
+lute - 류트 (중세 유럽의 발현악기, 기타와 비슷한 형태)
+plucked - (현을) 뜯은, 튕긴
+fretted - 프렛이 있는 (현악기) / 걱정하는, 안달하는
+resonant - 울림이 있는, 공명하는 / (비유) 감동적인, 여운이 남는
+assimilate - 동화되다, 흡수하다 / (지식을) 완전히 이해하다

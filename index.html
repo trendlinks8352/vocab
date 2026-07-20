@@ -594,7 +594,8 @@ function render() {
     <div class="header">
       <h1>📚 Anki 플래시카드</h1>
       <div class="stats">
-        <div><span id="s-done">${currentIdx}</span>/${queue.length}</div>
+        <div>오늘 <span id="s-done">${currentIdx}</span>/${queue.length}</div>
+        <div style="color:var(--muted)">전체 ${allCards.length}</div>
       </div>
     </div>
 
