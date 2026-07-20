@@ -222,64 +222,12 @@
     min-height: 18px;
   }
 
-  /* Token setup */
-  .token-screen {
-    position: fixed;
-    inset: 0;
-    background: var(--bg);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 100;
-    padding: 20px;
-  }
-  .token-box {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 32px;
-    width: 100%;
-    max-width: 480px;
-  }
-  .token-box h2 { color: var(--gold); margin-bottom: 8px; font-size: 20px; font-weight: normal; }
-  .token-box p { color: var(--muted); font-size: 13px; line-height: 1.6; margin-bottom: 20px; }
-  .token-box ol { color: var(--muted); font-size: 13px; line-height: 1.8; margin-bottom: 20px; padding-left: 18px; }
-  .token-box ol a { color: var(--gold); }
-  .token-input {
-    width: 100%;
-    background: var(--bg);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    padding: 10px 12px;
-    color: var(--text);
-    font-size: 13px;
-    font-family: monospace;
-    margin-bottom: 12px;
-  }
-  .token-input:focus { outline: none; border-color: var(--gold); }
-  .token-submit {
-    width: 100%;
-    background: var(--gold);
-    color: #0f0e0c;
-    border: none;
-    border-radius: 8px;
-    padding: 12px;
-    font-size: 15px;
-    font-family: inherit;
-    font-weight: bold;
-    cursor: pointer;
-  }
-  .token-skip {
-    width: 100%;
-    background: none;
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 10px;
-    font-size: 13px;
-    font-family: inherit;
+  /* Loading */
+  .loading {
     color: var(--muted);
-    cursor: pointer;
-    margin-top: 8px;
+    font-size: 15px;
+    text-align: center;
+    padding: 60px;
   }
 
   /* Export/Import */
@@ -301,30 +249,6 @@
     transition: all 0.2s;
   }
   .io-btn:hover { border-color: var(--gold); color: var(--gold); }
-
-  /* Sync status */
-  .sync-status {
-    position: fixed;
-    bottom: 16px;
-    right: 16px;
-    font-size: 12px;
-    color: var(--muted);
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    padding: 4px 10px;
-    opacity: 0;
-    transition: opacity 0.3s;
-  }
-  .sync-status.visible { opacity: 1; }
-
-  /* Loading */
-  .loading {
-    color: var(--muted);
-    font-size: 15px;
-    text-align: center;
-    padding: 60px;
-  }
 
   /* Queue info */
   .queue-info {
@@ -351,57 +275,6 @@
 // 등급: 0=Again, 1=Hard, 2=Good, 3=Easy
 // intervals: 1일 → 7일 → 14일 → 30일 → easeFactor 곱해서 무한반복
 const DB_KEY = 'anki_srs_v1';
-
-// ─── GitHub Gist 동기화 ───────────────────────────────────────────
-const GIST_ID = 'c9176b17b348271b3acbfa080b1604e9';
-const GIST_FILE = 'anki_data.json';
-function getToken() { return localStorage.getItem('anki_gist_token') || ''; }
-function saveToken(t) { localStorage.setItem('anki_gist_token', t); }
-
-async function syncFromGist() {
-  if (getToken() === 'skip') return loadDB();
-  try {
-    const res = await fetch(`https://api.github.com/gists/${GIST_ID}`, {
-      headers: { 'Authorization': `token ${getToken()}` }
-    });
-    const data = await res.json();
-    const content = data.files[GIST_FILE]?.content;
-    if (content) {
-      const remote = JSON.parse(content);
-      // 로컬과 병합 (더 최근 복습 기록 우선)
-      const local = loadDB();
-      const merged = { ...local };
-      for (const [id, rec] of Object.entries(remote)) {
-        if (!merged[id] || (rec.lastReview && rec.lastReview > (merged[id].lastReview || ''))) {
-          merged[id] = rec;
-        }
-      }
-      saveDB(merged);
-      return merged;
-    }
-  } catch(e) {
-    console.warn('Gist 불러오기 실패:', e);
-  }
-  return loadDB();
-}
-
-async function syncToGist(db) {
-  if (getToken() === 'skip') return;
-  try {
-    await fetch(`https://api.github.com/gists/${GIST_ID}`, {
-      method: 'PATCH',
-      headers: {
-        'Authorization': `token ${getToken()}`,
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({
-        files: { [GIST_FILE]: { content: JSON.stringify(db) } }
-      })
-    });
-  } catch(e) {
-    console.warn('Gist 저장 실패:', e);
-  }
-}
 
 function loadDB() {
   try { return JSON.parse(localStorage.getItem(DB_KEY)) || {}; }
@@ -481,8 +354,7 @@ function speak(text) {
   utterance.lang = 'en-US';
   utterance.rate = 0.88;
   const voices = window.speechSynthesis.getVoices();
-  const en = voices.find(v => v.lang === 'en-AU' && v.localService)
-    || voices.find(v => v.lang === 'en-US');
+  const en = voices.find(v => v.lang.startsWith('en') && v.localService);
   if (en) utterance.voice = en;
   window.speechSynthesis.speak(utterance);
   return utterance;
@@ -503,7 +375,6 @@ function exportData() {
   a.href = URL.createObjectURL(blob);
   a.download = `anki_backup_${getToday()}.json`;
   a.click();
-  showSync('✅ 내보내기 완료!');
 }
 
 function importData(event) {
@@ -514,7 +385,6 @@ function importData(event) {
     try {
       const imported = JSON.parse(e.target.result);
       const local = loadDB();
-      // 병합: 더 최근 복습 기록 우선
       const merged = { ...local };
       for (const [id, rec] of Object.entries(imported)) {
         if (!merged[id] || (rec.lastReview && rec.lastReview > (merged[id].lastReview || ''))) {
@@ -522,9 +392,8 @@ function importData(event) {
         }
       }
       saveDB(merged);
-      db = merged;
-      showSync('✅ 불러오기 완료! 새로고침합니다...');
-      setTimeout(() => location.reload(), 1000);
+      alert('✅ 불러오기 완료! 새로고침합니다.');
+      location.reload();
     } catch(e) {
       alert('올바른 백업 파일이 아니에요.');
     }
@@ -545,55 +414,6 @@ async function loadWords() {
     document.getElementById('loading').textContent = '❌ words.txt를 찾을 수 없어요. 같은 폴더에 words.txt를 넣어주세요.';
     return;
   }
-
-  // 토큰 없으면 설정 화면 표시
-  if (!getToken()) {
-    showTokenSetup();
-    return;
-  }
-
-  // Gist에서 복습 데이터 불러오기
-  document.getElementById('loading').textContent = '☁️ 복습 기록 불러오는 중...';
-  db = await syncFromGist();
-  buildQueue();
-  render();
-}
-
-function showTokenSetup() {
-  const app = document.getElementById('app');
-  app.innerHTML = `
-    <div class="token-screen">
-      <div class="token-box">
-        <h2>☁️ GitHub 동기화 설정</h2>
-        <p>복습 기록을 어느 기기에서나 유지하려면 GitHub Personal Access Token이 필요해요.<br>토큰은 이 기기에만 저장되며 파일에는 포함되지 않아요.</p>
-        <ol>
-          <li><a href="https://github.com/settings/tokens" target="_blank">GitHub → Settings → Developer settings → Tokens (classic)</a></li>
-          <li>Generate new token → <b>gist</b> 스코프만 체크</li>
-          <li>생성된 토큰(ghp_...)을 아래에 붙여넣기</li>
-        </ol>
-        <input class="token-input" id="token-input" type="password" placeholder="ghp_xxxxxxxxxxxxxxxx" />
-        <button class="token-submit" onclick="submitToken()">저장하고 시작하기</button>
-        <button class="token-skip" onclick="skipToken()">동기화 없이 시작 (이 기기에서만 저장)</button>
-      </div>
-    </div>
-  `;
-}
-
-async function submitToken() {
-  const t = document.getElementById('token-input').value.trim();
-  if (!t.startsWith('ghp_') && !t.startsWith('github_pat_')) {
-    alert('올바른 토큰 형식이 아니에요. ghp_ 로 시작하는 토큰을 입력해주세요.');
-    return;
-  }
-  saveToken(t);
-  document.getElementById('app').innerHTML = '<div class="loading">☁️ 복습 기록 불러오는 중...</div>';
-  db = await syncFromGist();
-  buildQueue();
-  render();
-}
-
-function skipToken() {
-  saveToken('skip');
   db = loadDB();
   buildQueue();
   render();
@@ -608,11 +428,8 @@ function buildQueue() {
     const rec = db[c.id];
     if (!rec || !rec.dueDate) {
       newCards.push(c.id);
-    } else if (rec.dueDate <= today && rec.lastReview !== today) {
-      // 오늘 이미 복습한 카드는 제외 (lastReview === today면 스킵)
+    } else if (rec.dueDate <= today) {
       dueCards.push(c.id);
-    } else if (rec.dueDate <= today && rec.lastReview === today) {
-      // 오늘 이미 복습했으면 내일로 미룸
     }
   });
 
@@ -749,7 +566,6 @@ function grade(g) {
   rec = scheduleCard(rec, g);
   db[card.id] = rec;
   saveDB(db);
-  syncToGist(db); // 백그라운드 저장
 
   currentIdx++;
   render();
@@ -785,29 +601,6 @@ function renderDone(app) {
 
 function escHtml(s) {
   return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-}
-
-// 동기화 상태 표시
-function showSync(msg, duration = 2000) {
-  let el = document.getElementById('sync-status');
-  if (!el) {
-    el = document.createElement('div');
-    el.id = 'sync-status';
-    el.className = 'sync-status';
-    document.body.appendChild(el);
-  }
-  el.textContent = msg;
-  el.classList.add('visible');
-  if (duration) setTimeout(() => el.classList.remove('visible'), duration);
-}
-
-// syncToGist 호출 시 상태 표시
-const _origSyncToGist = syncToGist;
-async function syncToGist(db) {
-  if (getToken() === 'skip') return;
-  showSync('☁️ 저장 중...', 0);
-  await _origSyncToGist(db);
-  showSync('✅ 저장 완료');
 }
 
 // 음성 로드 후 시작
