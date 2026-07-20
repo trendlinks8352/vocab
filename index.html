@@ -282,6 +282,26 @@
     margin-top: 8px;
   }
 
+  /* Export/Import */
+  .io-bar {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    margin-bottom: 16px;
+  }
+  .io-btn {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    color: var(--muted);
+    font-size: 13px;
+    font-family: inherit;
+    padding: 6px 14px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .io-btn:hover { border-color: var(--gold); color: var(--gold); }
+
   /* Sync status */
   .sync-status {
     position: fixed;
@@ -475,6 +495,42 @@ let db = {};
 let sessionStats = { new: 0, review: 0, done: 0 };
 let isLoopMode = false;
 
+function exportData() {
+  const db = loadDB();
+  const blob = new Blob([JSON.stringify(db, null, 2)], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `anki_backup_${getToday()}.json`;
+  a.click();
+  showSync('✅ 내보내기 완료!');
+}
+
+function importData(event) {
+  const file = event.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = (e) => {
+    try {
+      const imported = JSON.parse(e.target.result);
+      const local = loadDB();
+      // 병합: 더 최근 복습 기록 우선
+      const merged = { ...local };
+      for (const [id, rec] of Object.entries(imported)) {
+        if (!merged[id] || (rec.lastReview && rec.lastReview > (merged[id].lastReview || ''))) {
+          merged[id] = rec;
+        }
+      }
+      saveDB(merged);
+      db = merged;
+      showSync('✅ 불러오기 완료! 새로고침합니다...');
+      setTimeout(() => location.reload(), 1000);
+    } catch(e) {
+      alert('올바른 백업 파일이 아니에요.');
+    }
+  };
+  reader.readAsText(file);
+}
+
 async function loadWords() {
   try {
     const r = await fetch('words.txt');
@@ -600,6 +656,12 @@ function render() {
     </div>
 
     <div class="progress-bar"><div class="progress-fill" style="width:${progress}%"></div></div>
+
+    <div class="io-bar">
+      <button class="io-btn" onclick="exportData()">💾 내보내기</button>
+      <button class="io-btn" onclick="document.getElementById('import-file').click()">📂 불러오기</button>
+      <input type="file" id="import-file" accept=".json" style="display:none" onchange="importData(event)">
+    </div>
 
     <div class="queue-info">
       ${isLoopMode ? '<span style="color:var(--gold)">♾️ 무한반복 모드</span>' : `<span class="new">🆕 신규 ${sessionStats.new}</span><span class="review">🔄 복습 ${sessionStats.review}</span>`}
