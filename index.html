@@ -427,10 +427,13 @@ function buildQueue() {
   allCards.forEach(c => {
     const rec = db[c.id];
     if (!rec || !rec.dueDate) {
+      // 한 번도 안 한 신규 카드
       newCards.push(c.id);
-    } else if (rec.dueDate <= today) {
+    } else if (rec.dueDate <= today && rec.lastReview !== today) {
+      // due됐고 오늘 아직 안 한 카드만
       dueCards.push(c.id);
     }
+    // rec.lastReview === today 인 카드는 오늘 이미 했으니 스킵
   });
 
   queue = [...dueCards, ...newCards];
