@@ -481,7 +481,8 @@ function speak(text) {
   utterance.lang = 'en-US';
   utterance.rate = 0.88;
   const voices = window.speechSynthesis.getVoices();
-  const en = voices.find(v => v.lang.startsWith('en') && v.localService);
+  const en = voices.find(v => v.lang === 'en-AU' && v.localService)
+    || voices.find(v => v.lang === 'en-US');
   if (en) utterance.voice = en;
   window.speechSynthesis.speak(utterance);
   return utterance;
