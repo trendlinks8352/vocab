@@ -551,6 +551,9 @@ function getGoodLabel(rec) {
 function getEasyLabel(rec) {
   const r = rec.repetitions || 0;
   if (r === 0) return '4일 후';
+  if (r === 1) return '10일 후';
+  if (r === 2) return '20일 후';
+  if (r === 3) return '40일 후';
   return intervalLabel(Math.round((rec.interval||1) * (rec.easeFactor||2.5) * 1.3));
 }
 
