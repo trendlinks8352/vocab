@@ -1010,7 +1010,7 @@ sworn - 맹세한, 확신한 (swear의 과거분사)
 muck - 진흙, 오물, 쓰레기
 majesty - 위엄, 장엄함
 hoarder - 저장광, 물건을 쌓아두는 사람
-champion - 옹호자, 수호자 / 챔피언
+champion - 옹호자, 수호자, 챔피언 (동사) 지지하다, 옹호하다, 적극 장려하다
 saviour - 구세주, 구원자
 villain - 악당, 악역
 more than just - 단순히 ~ 이상, 단지 ~만이 아닌
@@ -1108,3 +1108,29 @@ bounds - 경계를 짓다, 둘러싸다, 제한하다
 ethical - 윤리적인, 규범적인 (문맥상 규칙에 얽매이는 태도)
 literal - 문자 그대로의, 사전적인
 global shapes - 전체적인 형태, 거시적인 모양
+preamble - 전문(前文), 서문, 도입부 (법률·헌법 등의 앞에 오는 서론)
+ample - 충분한, 넉넉한, 풍부한
+articulate - 명확하게 표현하다 / 말을 잘 하는, 표현력이 뛰어난
+interpolated - 삽입된, 끼워 넣어진 / (수학) 보간된
+emancipate - 해방시키다, 속박에서 자유롭게 하다
+Confederacy - 연합, 동맹 / (역사) 미국 남부 연합 (남북전쟁)
+insurmountable - 극복할 수 없는, 넘을 수 없는
+a call away - 전화 한 통 거리에, 언제든 연락 가능한
+concoction - 혼합물, 조합 / 꾸며낸 이야기, 날조
+conjunction - 결합, 연결 / (문법) 접속사 / in conjunction with = ~와 함께
+intercede - 중재하다, 조정하다, 탄원하다 (intercede on behalf of = ~을 위해 나서다)
+intersperse - 사이사이에 끼워 넣다, 군데군데 배치하다
+insectivorous - 식충성의, 곤충을 먹는
+deplete - 고갈시키다, 枯渇させる, 소진하다
+practicalities - 현실적인 문제들, 실용적 측면들 (practicality의 복수형)
+determiner - 결정 요인, 결정 기준 / (문법) 한정사
+de facto - 사실상의, 실질적인 (법적이 아닌 현실적 의미)
+marching - 행진하는, 진군하는 / 꾸준히 나아가는
+playwrights - 극작가들 (playwright = 희곡 작가)
+tragedies - 비극들 (tragedy의 복수형) / 참사, 비극적 사건들
+arteries - 동맥들 (artery의 복수형) / (비유) 주요 도로, 간선도로
+grander - 더 웅장한, 더 장엄한, 더 거대한 (grand의 비교급)
+plush - 호화로운, 고급스러운 / 부드러운 천
+palatial - 궁전 같은, 웅장하고 화려한
+vying - 경쟁하는, 다투는 (vie의 현재분사 / vying for = ~을 놓고 경쟁하다)
+palaces - 궁전들 (palace의 복수형)

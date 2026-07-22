@@ -423,20 +423,24 @@ function buildQueue() {
   const today = getToday();
   const newCards = [];
   const dueCards = [];
+  const againCards = []; // 오늘 "다시" 누른 카드
 
   allCards.forEach(c => {
     const rec = db[c.id];
     if (!rec || !rec.dueDate) {
       // 한 번도 안 한 신규 카드
       newCards.push(c.id);
+    } else if (rec.dueDate === today && rec.lastReview === today && rec.repetitions === 0) {
+      // 오늘 "다시" 누른 카드 → 다시 복습
+      againCards.push(c.id);
     } else if (rec.dueDate <= today && rec.lastReview !== today) {
-      // due됐고 오늘 아직 안 한 카드만
+      // due됐고 오늘 아직 안 한 카드
       dueCards.push(c.id);
     }
-    // rec.lastReview === today 인 카드는 오늘 이미 했으니 스킵
+    // 오늘 이미 정상 복습한 카드는 스킵
   });
 
-  queue = [...dueCards, ...newCards];
+  queue = [...againCards, ...dueCards, ...newCards];
 
   // 오늘 할 카드 없으면 전체 무한 반복
   if (queue.length === 0) {
@@ -444,7 +448,7 @@ function buildQueue() {
     sessionStats = { new: 0, review: queue.length, done: 0 };
     isLoopMode = true;
   } else {
-    sessionStats = { new: newCards.length, review: dueCards.length, done: 0 };
+    sessionStats = { new: newCards.length, review: dueCards.length + againCards.length, done: 0 };
     isLoopMode = false;
   }
   currentIdx = 0;

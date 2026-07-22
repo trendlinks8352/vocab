@@ -3327,3 +3327,81 @@
 
 [한글] 우리의 시각 시스템은 세부 특징보다 *전체적인 형태를* 먼저 인식한다.
 [EN] Our visual system recognizes [[global shapes]] before fine details.
+
+[한글] 헌법 *전문에는* 기본 원칙이 담겨 있다.
+[EN] The [[preamble]] to the constitution contains its fundamental principles.
+
+[한글] 그 연구를 뒷받침하는 *충분한* 증거가 있다.
+[EN] There is [[ample]] evidence to support the research.
+
+[한글] 그녀는 자신의 생각을 *명확하게 표현하는* 능력이 뛰어나다.
+[EN] She has a remarkable ability to [[articulate]] her thoughts clearly.
+
+[한글] 편집자는 원문에 몇 가지 설명을 *삽입했다*.
+[EN] The editor [[interpolated]] several explanations into the original text.
+
+[한글] 교육은 사람들을 무지로부터 *해방시킨다*.
+[EN] Education [[emancipate]]s people from ignorance.
+
+[한글] 남부 *연합은* 남북전쟁 중 북부와 싸웠다.
+[EN] The [[Confederacy]] fought against the Union during the Civil War.
+
+[한글] 그 문제는 *극복할 수 없는* 장벽처럼 보였다.
+[EN] The problem seemed like an [[insurmountable]] barrier.
+
+[한글] 도움이 필요하면 언제든지 *연락 한 번이면* 돼.
+[EN] If you need help, I'm just [[a call away]].
+
+[한글] 그 음료는 여러 재료를 섞어 만든 *혼합물이었다*.
+[EN] The drink was a strange [[concoction]] of various ingredients.
+
+[한글] 이 약은 다른 치료법과 *함께* 사용해야 한다.
+[EN] This medicine should be used in [[conjunction]] with other treatments.
+
+[한글] 그는 억울하게 해고된 직원을 위해 *중재에 나섰다*.
+[EN] He [[intercede]]d on behalf of the wrongfully dismissed employee.
+
+[한글] 강의는 짧은 휴식을 *중간중간 끼워넣어* 진행되었다.
+[EN] The lecture was [[intersperse]]d with short breaks.
+
+[한글] 파리지옥은 *식충성* 식물로 곤충을 잡아먹는다.
+[EN] The Venus flytrap is an [[insectivorous]] plant that traps and digests insects.
+
+[한글] 과도한 채굴로 천연자원이 *고갈되고* 있다.
+[EN] Excessive mining is [[deplete]] natural resources.
+
+[한글] 우리는 그 계획의 *현실적인 문제들을* 논의해야 한다.
+[EN] We need to discuss the [[practicalities]] of the plan.
+
+[한글] 평균 연령이 그룹 배치의 *결정 기준으로* 사용된다.
+[EN] The average age is used as the [[determiner]] for group placement.
+
+[한글] 그들은 법적 혼인은 아니지만 *사실상의* 부부 관계이다.
+[EN] They are in a [[de facto]] marriage without formal registration.
+
+[한글] 수천 명의 시위대가 거리를 *행진하고* 있었다.
+[EN] Thousands of protesters were [[marching]] through the streets.
+
+[한글] 셰익스피어는 역사상 가장 위대한 *극작가 중* 한 명이다.
+[EN] Shakespeare is one of the greatest [[playwrights]] in history.
+
+[한글] 햄릿과 맥베스는 셰익스피어의 대표적인 *비극이다*.
+[EN] Hamlet and Macbeth are Shakespeare's most famous [[tragedies]].
+
+[한글] *동맥은* 심장에서 산소가 풍부한 혈액을 온몸으로 운반한다.
+[EN] [[Arteries]] carry oxygen-rich blood from the heart to the rest of the body.
+
+[한글] 새 청사는 이전 건물보다 훨씬 *웅장했다*.
+[EN] The new building was far [[grander]] than the old one.
+
+[한글] 그 호텔은 *호화로운* 인테리어로 유명하다.
+[EN] The hotel is known for its [[plush]] interior.
+
+[한글] 그들은 *궁전 같은* 저택에서 살았다.
+[EN] They lived in a [[palatial]] mansion.
+
+[한글] 두 팀이 우승을 *놓고 경쟁하고* 있다.
+[EN] The two teams are [[vying]] for the championship.
+
+[한글] 유럽의 *궁전들은* 수백 년의 역사를 간직하고 있다.
+[EN] The [[palaces]] of Europe hold centuries of history.
