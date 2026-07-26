@@ -3480,3 +3480,30 @@
 
 [한글] 그는 항상 만만해서 *부당한 요구를 떠안게 된다*.
 [EN] He is always seen as someone who can be [[imposed upon]].
+
+[한글] 사진이 *흐릿해서* 얼굴을 알아볼 수 없었다.
+[EN] The photo was too [[blurry]] to make out the face.
+
+[한글] 그는 축구 경기에서 실수를 연발하는 *얼간이였다*.
+[EN] He was a complete [[clod]] on the football field.
+
+[한글] 그녀는 다리를 몸 아래로 *접어 넣고* 앉아 있었다.
+[EN] She sat with her legs [[tucked]] under her.
+
+[한글] 그는 상사에게 심한 *질책을* 들었다.
+[EN] He received a severe tongue-[[lashing]] from his boss.
+
+[한글] 그녀의 얼굴은 분노로 *일그러져* 있었다.
+[EN] Her face was [[pinched]] with anger.
+
+[한글] 그의 *묵인* 덕분에 부정행위가 계속될 수 있었다.
+[EN] The cheating continued with his [[connivance]].
+
+[한글] 에머슨은 *자립을* 미덕의 핵심으로 여겼다.
+[EN] Emerson regarded [[self-reliance]] as the core of virtue.
+
+[한글] 관료적 절차가 혁신을 *방해하고* 있다.
+[EN] Bureaucratic procedures are [[hinder]]ing innovation.
+
+[한글] 혼쭐이 난 후 그는 *풀이 죽어* 조용해졌다.
+[EN] After being told off, he became [[chastened]] and quiet.
