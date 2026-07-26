@@ -3405,3 +3405,78 @@
 
 [한글] 유럽의 *궁전들은* 수백 년의 역사를 간직하고 있다.
 [EN] The [[palaces]] of Europe hold centuries of history.
+
+[한글] 이 문장은 그의 철학의 핵심을 *압축하여 담아낸다*.
+[EN] This sentence [[encapsulates]] the essence of his philosophy.
+
+[한글] 그의 셔츠가 바지 밖으로 *삐져나와* 있었다.
+[EN] His shirt was [[poking out]] from his trousers.
+
+[한글] 빛이 안개를 통해 *퍼져나갔다*.
+[EN] Light was [[diffused]] through the fog.
+
+[한글] 그는 얇은 얼음 위를 *조심스럽게 밟으며* 걸어갔다.
+[EN] He was [[treading]] carefully on thin ice.
+
+[한글] 산업혁명은 사회에 엄청난 변화를 *가져왔다*.
+[EN] The Industrial Revolution [[wrought]] great changes in society.
+
+[한글] 농부들은 새벽부터 밤까지 들판에서 *고되게 일하고* 있었다.
+[EN] Farmers were [[toiling]] in the fields from dawn to dusk.
+
+[한글] 그 우유는 *시어서* 마실 수 없었다.
+[EN] The milk had gone [[sour]] and was undrinkable.
+
+[한글] 그녀는 회사에서 가장 *탐나는* 자리를 얻었다.
+[EN] She landed the most [[plum]] position in the company.
+
+[한글] 고고학자들은 이 지역에서 여러 *매장지를* 발견했다.
+[EN] Archaeologists discovered several ancient [[burials]] in the area.
+
+[한글] 그 건물은 그 지역에서 가장 *눈에 띄는* 랜드마크이다.
+[EN] The building is the most [[conspicuous]] landmark in the area.
+
+[한글] 그 오래된 *묘지는* 수백 년의 역사를 간직하고 있다.
+[EN] The old [[cemetery]] holds centuries of history.
+
+[한글] *발굴 작업* 중에 고대 유물들이 발견되었다.
+[EN] Ancient artifacts were found during the [[excavation]].
+
+[한글] 왕의 *방들은* 금과 보석으로 장식되어 있었다.
+[EN] The king's [[chambers]] were decorated with gold and jewels.
+
+[한글] 그는 너무 *게을러서* 기본적인 집안일조차 하지 않았다.
+[EN] He was too [[indolent]] to do even basic household chores.
+
+[한글] 그 사고는 그를 평생 *불구로* 만들었다.
+[EN] The accident left him [[crippled]] for life.
+
+[한글] 배를 타고 나서 *메스꺼움을* 느꼈다.
+[EN] I felt [[queasy]] after the boat ride.
+
+[한글] 그의 친절함은 진심이 아닌 *겉모습에* 불과했다.
+[EN] His kindness was nothing but a [[facade]].
+
+[한글] 그 회사는 계약을 따내기 위해 *입찰했다*.
+[EN] The company [[bid]] for the contract.
+
+[한글] 많은 사람들이 따뜻한 *기후를* 찾아 이주한다.
+[EN] Many people migrate in search of a warmer [[clime]].
+
+[한글] 그 카페는 *콧대 높은* 분위기로 유명했다.
+[EN] The café was known for its [[snooty]] atmosphere.
+
+[한글] 그 가게의 *거만함은* 손님들을 불편하게 만들었다.
+[EN] The shop's [[snootiness]] made customers feel unwelcome.
+
+[한글] 그는 카운터에 *몸을 기댄 채* 대화를 엿듣고 있었다.
+[EN] He was [[leaning on]] the counter, eavesdropping on the conversation.
+
+[한글] 그 대형 체인점은 *인간미 없는* 공간이었다.
+[EN] The large chain store was a [[soulless]] place.
+
+[한글] 스타벅스는 *비인격적이어서* 오히려 편하다.
+[EN] Starbucks feels comfortable precisely because it is [[impersonal]].
+
+[한글] 그는 항상 만만해서 *부당한 요구를 떠안게 된다*.
+[EN] He is always seen as someone who can be [[imposed upon]].
