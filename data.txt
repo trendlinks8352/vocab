@@ -3507,3 +3507,66 @@
 
 [한글] 혼쭐이 난 후 그는 *풀이 죽어* 조용해졌다.
 [EN] After being told off, he became [[chastened]] and quiet.
+
+[한글] 미국은 중국산 수입품에 높은 *관세를* 부과했다.
+[EN] The US imposed high [[tariffs]] on Chinese imports.
+
+[한글] 주민들은 홍수 위험으로 인해 *대피했다*.
+[EN] Residents were ordered to [[evacuate]] due to flood risk.
+
+[한글] 그는 복잡한 법적 문제를 *풀어나가는* 데 전문가다.
+[EN] He is an expert at [[untangling]] complex legal issues.
+
+[한글] *균류는* 죽은 유기물을 분해하는 데 중요한 역할을 한다.
+[EN] [[Fungi]] play a crucial role in breaking down dead organic matter.
+
+[한글] 폭풍 후 해변은 *잔해로* 가득했다.
+[EN] The beach was covered in [[debris]] after the storm.
+
+[한글] 낙엽은 토양 속에서 천천히 *분해된다*.
+[EN] Fallen leaves slowly [[decomposes]] in the soil.
+
+[한글] 그는 *경찰 출입 기자로* 10년간 일했다.
+[EN] He worked as a [[police reporter]] for ten years.
+
+[한글] 그 *사건 담당 기자는* 매일 경찰서를 방문했다.
+[EN] The [[roundsman]] visited the police station every day.
+
+[한글] 그녀는 그것이 실수였다고 *생각한다*.
+[EN] She [[reckons]] it was a mistake.
+
+[한글] 그 도시는 적군에게 *포위되었다*.
+[EN] The city was [[besieged]] by enemy forces.
+
+[한글] 그의 말은 완전히 *말도 안 되는 소리였다*.
+[EN] His [[stuff]] was complete nonsense.
+
+[한글] 그 *심문은* 몇 시간 동안 계속되었다.
+[EN] The [[inquisition]] lasted for several hours.
+
+[한글] 그것은 *당연한 사실로 여겨도* 된다.
+[EN] You can [[take it as read]] that she will be there.
+
+[한글] 그는 부당한 해고에 *억울함을* 느꼈다.
+[EN] He felt deeply [[aggrieved]] by the unfair dismissal.
+
+[한글] 그녀의 곡 *해석은* 독창적이었다.
+[EN] Her [[rendition]] of the song was unique.
+
+[한글] 그것은 *순전한* 우연이었다.
+[EN] It was [[sheer]] coincidence.
+
+[한글] 언론은 그 사건을 *하찮게 다뤘다*.
+[EN] The media [[trivialised]] the issue.
+
+[한글] 가장 *핵심적인* 점은 비용이다.
+[EN] The most [[salient]] point is the cost.
+
+[한글] 그녀는 심각한 *곤경에* 처해 있었다.
+[EN] She was in a desperate [[plight]].
+
+[한글] 그 논쟁의 *핵심은* 자유에 관한 것이다.
+[EN] The main [[thrust]] of the argument is about freedom.
+
+[한글] 규칙이 그의 자유를 *제한했다*.
+[EN] The rules [[circumscribe]]d his freedom.

@@ -1168,3 +1168,24 @@ connivance - 묵인, 방조 (나쁜 일을 알면서도 모른 체함)
 self-reliance - 자립, 독립독행, 자기 의존
 hinder - 방해하다, 저해하다
 chastened - 풀이 죽은, 기가 꺾인, 혼나서 위축된
+tariffs - 관세들 (tariff의 복수형) / 수입품에 부과하는 세금
+evacuate - 대피하다, 피난하다 / 대피시키다
+untangling - 풀어내는, 해결하는, 엉킨 것을 풀어내는
+fungi - 균류, 곰팡이류 (fungus의 복수형)
+debris - 잔해, 파편, 쓰레기
+decomposes - 분해되다, 썩다 (decompose의 3인칭 단수)
+police reporter - 경찰 출입 기자, 사건 기자
+roundsman - 사건 담당 기자, 특정 분야 출입 기자
+reckons - 생각하다, 추측하다, 여기다
+besieged - 포위된, (요구·질문에) 시달리는
+stuff - 물건, 것 / (구어) 말도 안 되는 소리
+inquisition - 심문, 철저한 조사
+take it as read - 당연한 사실로 여기다
+aggrieved - 억울한, 분개한, 부당한 대우를 받은
+rendition - 표현, 해석, 연주 (작품의 해석·연주 방식)
+sheer - 순전한, 완전한 / 깎아지른 듯한
+trivialised - 하찮게 만들다, 경시하다
+salient - 현저한, 가장 중요한, 핵심적인
+plight - 곤경, 역경, 어려운 처지
+thrust - 핵심, 요지 / 밀치다, 밀어붙이다
+circumscribe - 제한하다, 한정하다 / (기하) 외접하다
