@@ -556,7 +556,7 @@ throng - 군중, 인파 / 붐비다
 vowelly - 모음 소리가 풍부한
 corroboree - 호주 원주민의 전통 의식·춤·집회
 teeming - 가득한, 들끓는
-refugee - 난민
+refuge - 난민
 flattery - 아첨, 지나친 칭찬
 simile - 직유법 (~처럼, ~같이 비교)
 portraits - 초상화, 인물 묘사
@@ -936,7 +936,7 @@ brimmed - 가득 찼다, 넘칠 듯했다
 rejoicing - 기뻐하는, 환호하는
 entrapped - 갇힌, 함정에 빠진
 estranged - 소원해진, 멀어진, 소외된
-allegations - 의혹, 주장, 혐의
+allegations - 의혹, 주장, 혐혐의
 suffering - 고통, 고난
 genocide - 집단학살, 종족 말살
 discredited - 신뢰를 잃은, 불신임을 받은
@@ -1189,3 +1189,12 @@ salient - 현저한, 가장 중요한, 핵심적인
 plight - 곤경, 역경, 어려운 처지
 thrust - 핵심, 요지 / 밀치다, 밀어붙이다
 circumscribe - 제한하다, 한정하다 / (기하) 외접하다
+fallible - 실수를 할 수 있는, 오류를 범하기 쉬운
+deviation - 일탈, 벗어남, (통계 등의) 편차
+abhorrences - 혐오(하는 것들), 증오(하는 대상들) (abhorrence의 복수형)
+transcendental - 초월적인, 경험을 넘어서는
+prescriptive - 규범적인, 지시하는
+denigrated - 폄하된, 몹시 비난받은
+dialect - 방언, 사투리
+acceptable usage - 허용되는(올바른) 용법
+treble - 3배가 되다, 3배로 만들다 / 최고음, 고음
