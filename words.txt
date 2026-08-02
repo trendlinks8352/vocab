@@ -1198,3 +1198,78 @@ denigrated - 폄하된, 몹시 비난받은
 dialect - 방언, 사투리
 acceptable usage - 허용되는(올바른) 용법
 treble - 3배가 되다, 3배로 만들다 / 최고음, 고음
+prolific - 다작하는, 다산의, 풍부한
+hypothetically - 가상으로, 가설상, 가정하여
+dissociated - 분리된, 단절된, (심리) 해리된
+disproves - 틀렸음을 입증하다, 반증하다
+dyes - 염료, 염색약 / 염색하다
+pigments - 안료, 색소
+outstripped - 앞질렀다, 능가했다
+resilience - 회복력, 탄성, 복원력
+When problems arise, we prepare to solve them. - 문제가 발생할 때, 우리는 그것들을 해결할 준비를 한다.
+For this cycle to be effective, - 이 순환이 효과적이기 위해서는,
+The next crisis needs to resemble the previous one. - 다음 위기는 이전 위기와 비슷해야 한다.
+follow the same patterns as - ~와 동일한 패턴을 따르다
+Future threats follow the same patterns as past ones. - 미래의 위협은 과거의 위협과 동일한 패턴을 따른다.
+be optimized for - ~에 최적화되다
+Preparations are optimized for previous crises. - 대비책은 이전 위기들에 맞춰 최적화되어 있다.
+The problem was not A, but B. - 문제는 A가 아니라 B였다.
+what mattered most was... - 가장 중요했던 것은 ~였다
+What mattered most was how quickly... - 가장 중요했던 것은 얼마나 빨리 ~하느냐였다
+This does not mean that... - 이것이 ~라는 것을 의미하지는 않는다
+strike a balance between A and B - A와 B 사이의 균형을 맞추다
+On the other hand, - 반면에,
+develop the ability to... - ~하는 능력을 기르다
+few people would disagree that... - ~라는 것에 반대할 사람은 거의 없을 것이다
+our only freedom is... - 우리의 유일한 자유는 ~이다
+Möbius strip - 뫼비우스의 띠
+walking around the same side - 같은 면을 계속 걷는 것
+needs to resemble - 비슷해야 한다
+future threats - 미래의 위협들
+follow the same patterns - 같은 패턴을 따르다
+real crises rarely occur in the same way - 실제 위기는 거의 같은 방식으로 발생하지 않는다
+be optimized for previous crises - 이전 위기에 최적화되다
+not to predict - 예측하지 않는 것
+build a system - 시스템을 구축하다
+quickly detect - 빠르게 감지하다
+medical preparedness / medical infrastructure - 의료적 준비태세 / 의료 인프라
+hospitals - 병원들
+COVID-19 emerged - 코로나19가 나타났다
+not a lack of preparation, but the wrong kind of preparation - 준비 부족이 아니라, 잘못된 방향의 준비
+the top ranking reflected - 1위라는 순위는 ~을 반영했다
+testing system - 검사 시스템
+I think - 내 생각에는
+strike a balance - 균형을 맞추다
+detect new signals - 새로운 신호를 감지하다
+respond to crises - 위기에 대응하다
+escape the Möbius strip - 뫼비우스의 띠에서 벗어나다
+Life does not offer perfect answers like mathematics. - 삶은 수학처럼 완벽한 정답을 제공하지 않는다.
+rectification - 교정
+egalitarians - 평등주의자들
+legalistic - 법률 만능주의
+redress - 바로잡다
+rectified - 교정되어지는
+ramps - 진입로
+incoherent - 일관성이 없는
+stupor - 혼미
+mysticism - 신비주의
+persecution - 박해
+egocentrism - 이기주의
+hounding - 괴롭힘
+appendicitis - 맹장염
+nuisance - 골칫거리
+urinated - 배뇨하다
+withdrawn - 내성적인
+disinherited - 상속권을 박탈당한
+sedated - 진정된
+detainees - 구금자들
+interspersed - 섞다
+composure - 평정심
+belligerent - 적대적인
+belie - 숨기다
+inhibiting - 억제하는
+Casualty - 사상자
+depressed - 우울한, 함몰된
+fracture - 골절
+purged - 숙청된
+portly recluse - 뚱뚱한 체격의 은둔자
