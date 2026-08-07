@@ -556,7 +556,7 @@ throng - 군중, 인파 / 붐비다
 vowelly - 모음 소리가 풍부한
 corroboree - 호주 원주민의 전통 의식·춤·집회
 teeming - 가득한, 들끓는
-refuge - 난민
+refugee - 난민
 flattery - 아첨, 지나친 칭찬
 simile - 직유법 (~처럼, ~같이 비교)
 portraits - 초상화, 인물 묘사
@@ -936,7 +936,7 @@ brimmed - 가득 찼다, 넘칠 듯했다
 rejoicing - 기뻐하는, 환호하는
 entrapped - 갇힌, 함정에 빠진
 estranged - 소원해진, 멀어진, 소외된
-allegations - 의혹, 주장, 혐혐의
+allegations - 의혹, 주장, 혐의
 suffering - 고통, 고난
 genocide - 집단학살, 종족 말살
 discredited - 신뢰를 잃은, 불신임을 받은
@@ -1189,87 +1189,168 @@ salient - 현저한, 가장 중요한, 핵심적인
 plight - 곤경, 역경, 어려운 처지
 thrust - 핵심, 요지 / 밀치다, 밀어붙이다
 circumscribe - 제한하다, 한정하다 / (기하) 외접하다
-fallible - 실수를 할 수 있는, 오류를 범하기 쉬운
-deviation - 일탈, 벗어남, (통계 등의) 편차
+affair - 비밀 연애, 정사 / 사건, 일
+chaperoned - 보호자가 동반된
+connived - 공모하다, 은밀히 협조하다
+peppered - (질문 등을) 쉴 새 없이 퍼붓다
+dump - (사람을) 툭 내려놓다, 두고 가다
+hot-footing - 부랴부랴 서둘러 가다
+aching - 몹시 ~하고 싶은, ~하고 싶어 안달 난
+sake - (for God's sake) 제발, 맹세코
+carrying a torch - 여전히 잊지 못하고 사랑하다, 짝사랑하다
+sprees - 흥청망청 놀기, 법석 (bachelor sprees = 총각 시절의 일탈)
+creep - 소름 끼치는 사람, 싫은 인간
+worming his way into - 교묘하게 파고들다, 환심을 사서 스며들다
+bright - 영리한, 똑똑한
+I've got to hand that to him - 그 점만큼은 그를 인정해야겠어
+haunted - (불쾌한 기억이) 뇌리에서 떠나지 않다, 계속 괴롭히다
+garbled - 뒤섞인, 왜곡된, 알아듣기 어렵게 변형된
+grandiose - 과대한, 웅장한 척하는, 허세 부리는 (실제보다 더 인상적으로 보이려는)
+dynasties - 왕조들 (dynasty의 복수형) / 지배적인 가문이나 집단
+miscarriage - 유산 / miscarriage of justice = 사법 오류
+flame - 불길, 불꽃 / (비유) 강렬한 열정
+stowed - (짐을) 안전하게 짐칸에 넣은, 수납된
+magnanimous - 도량이 넓은, 너그러운, 관대한
+anyhow - 어쨌든, 아무튼
+scowl - 얼굴을 찌푸리다, 찡그린 표정
+tweed - 트위드 (거친 털실로 짠 두꺼운 직물)
+flickering - 깜박이는, 스치는, 흔들리는
+offhandedly - 무심하게, 퉁명스럽게, 툭 던지듯이
+solemnly - 진지하게, 엄숙하게
+solemn - 진지한, 엄숙한
+headstrong - 고집이 센, 완고한
+fool-hardy - 무모한, 앞뒤 안 가리는
+blase - 무덤덤한, 시큰둥한, 감흥이 없는
+gentrified - 젠트리피케이션된, 고급화된 (저소득층 지역이 부유층 유입으로 변화됨)
+dissident - 반체제 인사, 반정부 활동가 / 이견을 가진 사람
+applause - 박수갈채, 박수
+greeted - 맞이하다, 인사하다, 환영하다 (greet의 과거형)
+multitude - 다수, 수많음 / a multitude of = 수많은
+protagonist - 주인공, 주역 / 어떤 운동의 핵심 지지자
+succinct - 간결한, 간명한, 핵심만 담은
+bureaucracy - 관료주의, 관료제, 번거로운 행정 절차
+surreal - 비현실적인, 초현실적인, 꿈같은
+stagnating - 정체되는, 침체되는, 발전 없이 멈춰있는
+phase out - 단계적으로 폐지하다, 점차 없애다
+dispersion - 분산, 확산, 흩어짐 / (물리) 빛의 분산
+focus of inquiry - 탐구의 초점, 핵심 연구 주제 (학술·연구 맥락에서 자주 쓰임)
+sewerage - 하수 시스템, 하수도 설비 / 하수 처리
+reclamation - 간척, 개간 / 회수, 복구 / (자원의) 재활용
+flush - 얼굴이 붉어지다 / 물을 세게 흘려보내다 / (비유) 넘쳐흐르는, 풍부한
+pedagogy - 교육학, 교수법, 가르치는 방법론
+envision - 마음속에 그리다, 상상하다, 구상하다
+courteous - 공손한, 예의 바른, 정중한
+proportionately - 비례하여, 균형 있게, 상응하게
+foraging - 먹이를 찾아다니는, 식량을 구하러 돌아다니는
+rudimentary - 기초적인, 초보적인, 기본적인
+employ strategies - 전략을 사용하다 / employ methods = 방법을 쓰다 / employ techniques = 기법을 활용하다 / employ approaches = 접근법을 사용하다
+corollary - 당연한 결과, 필연적 귀결 / (수학) 따름 정리
+epistemology - 인식론 (지식의 본질·기원·한계를 연구하는 철학 분야)
+alloy - 합금 / (비유) 순수함을 희석시키다
+grease - 기름, 윤활유 / 기름을 치다 / grease someone's palm = 뇌물을 주다
+or rather - 아니, 정확히 말하면 / 더 정확하게는 (앞의 말을 수정하거나 더 정확하게 표현할 때)
+skitters - 재빠르게 달리다, 스르르 미끄러지듯 움직이다 (작은 동물의 날쌘 움직임)
+rehabilitate - 재활시키다, 사회에 복귀시키다 / (명성을) 회복시키다
+malleable - 가단성 있는, 유연한 / (비유) 쉽게 영향받는, 순응하는
+arduously - 고되게, 힘겹게, 몹시 힘들여 (arduous = 힘든, 고된)
+bucks - (동사) 거스르다, 저항하다 (bucks the trend = 유행을 거스르다) / (명사) 달러, 수컷 사슴
+irrelevant - 관련 없는, 중요하지 않은, 의미 없는, 영향력이 없는
+sprawl - 무질서하게 뻗어나가다, 사방으로 퍼지다 / urban sprawl = 도시 무분별 확장
+redundant - 불필요한, 중복된, 여분의 / (영국) 정리해고된
+regimens - 요법들, 처방 계획들 (regimen의 복수형) / 운동·식이·치료 루틴
+staple - 주식, 주요 산물 / 필수적인, 기본적인 / 스테이플러 침
+cult - 열성 팬층, 숭배 집단 / 사이비 종교 / cult following = 열렬한 소수 팬덤
+as its name suggests - 이름에서 알 수 있듯이, 이름이 시사하는 바와 같이
+sowed - 씨를 뿌렸다 (sow의 과거형) / sow seeds of doubt = 의심의 씨앗을 심다
+lucrative - 수익성 높은, 돈이 되는, 이윤이 많은
+rectification - 수정, 교정, 바로잡음
+egalitarians - 평등주의자들 (모든 사람의 평등을 지지하는 사람들)
+decent - 괜찮은, 제법 좋은 / 예의 바른, 품위 있는 / 적절한
+legalistic - 법률 만능주의적인, 법 조문에 지나치게 얽매이는
+inextricably - 불가분하게, 떼어낼 수 없게, 풀 수 없을 만큼 얽혀
+rectified - 교정된, 시정된 (rectify의 과거분사)
+ramps - 경사로, 진입로 (ramp의 복수형)
+deflate - 바람을 빼다 / (비유) 기를 꺾다, 자신감을 떨어뜨리다 / (경제) 디플레이션시키다
+fatigued - 지친, 피로한, 극도로 피곤한
+fallible - 오류를 범할 수 있는, 실수하기 쉬운
+deviation - 일탈, 편차, 규범에서 벗어남
+germane - (주제와) 직접적으로 관련된, 적절한
+zeal - 열정, 열의, 열심
+secularisation - 세속화 (종교의 사회적 영향력이 감소하는 과정)
+repercussions - 파급 효과, 반향, 여파 (주로 부정적인 결과)
+imperative - 필수적인, 반드시 해야 하는 / (문법) 명령법 / 긴박한 요구
+partake - 참여하다, 함께 하다 / partake of = ~을 먹다, 마시다 (격식체)
+the written word - 문자(글), 글로 기록된 것 (구전과 대비되는 문자 기록)
+a body of - ~의 집합, 총체 (a body of evidence = 증거들의 집합 / a body of knowledge = 지식 체계)
+
 abhorrences - 혐오(하는 것들), 증오(하는 대상들) (abhorrence의 복수형)
-transcendental - 초월적인, 경험을 넘어서는
-prescriptive - 규범적인, 지시하는
-denigrated - 폄하된, 몹시 비난받은
-dialect - 방언, 사투리
 acceptable usage - 허용되는(올바른) 용법
-treble - 3배가 되다, 3배로 만들다 / 최고음, 고음
-prolific - 다작하는, 다산의, 풍부한
-hypothetically - 가상으로, 가설상, 가정하여
-dissociated - 분리된, 단절된, (심리) 해리된
-disproves - 틀렸음을 입증하다, 반증하다
-dyes - 염료, 염색약 / 염색하다
-pigments - 안료, 색소
-outstripped - 앞질렀다, 능가했다
-resilience - 회복력, 탄성, 복원력
-When problems arise, we prepare to solve them. - 문제가 발생할 때, 우리는 그것들을 해결할 준비를 한다.
-For this cycle to be effective, - 이 순환이 효과적이기 위해서는,
-The next crisis needs to resemble the previous one. - 다음 위기는 이전 위기와 비슷해야 한다.
-follow the same patterns as - ~와 동일한 패턴을 따르다
-Future threats follow the same patterns as past ones. - 미래의 위협은 과거의 위협과 동일한 패턴을 따른다.
-be optimized for - ~에 최적화되다
-Preparations are optimized for previous crises. - 대비책은 이전 위기들에 맞춰 최적화되어 있다.
-The problem was not A, but B. - 문제는 A가 아니라 B였다.
-what mattered most was... - 가장 중요했던 것은 ~였다
-What mattered most was how quickly... - 가장 중요했던 것은 얼마나 빨리 ~하느냐였다
-This does not mean that... - 이것이 ~라는 것을 의미하지는 않는다
-strike a balance between A and B - A와 B 사이의 균형을 맞추다
-On the other hand, - 반면에,
-develop the ability to... - ~하는 능력을 기르다
-few people would disagree that... - ~라는 것에 반대할 사람은 거의 없을 것이다
-our only freedom is... - 우리의 유일한 자유는 ~이다
-Möbius strip - 뫼비우스의 띠
-walking around the same side - 같은 면을 계속 걷는 것
-needs to resemble - 비슷해야 한다
-future threats - 미래의 위협들
-follow the same patterns - 같은 패턴을 따르다
-real crises rarely occur in the same way - 실제 위기는 거의 같은 방식으로 발생하지 않는다
-be optimized for previous crises - 이전 위기에 최적화되다
-not to predict - 예측하지 않는 것
-build a system - 시스템을 구축하다
-quickly detect - 빠르게 감지하다
-medical preparedness / medical infrastructure - 의료적 준비태세 / 의료 인프라
-hospitals - 병원들
-COVID-19 emerged - 코로나19가 나타났다
-not a lack of preparation, but the wrong kind of preparation - 준비 부족이 아니라, 잘못된 방향의 준비
-the top ranking reflected - 1위라는 순위는 ~을 반영했다
-testing system - 검사 시스템
-I think - 내 생각에는
-strike a balance - 균형을 맞추다
-detect new signals - 새로운 신호를 감지하다
-respond to crises - 위기에 대응하다
-escape the Möbius strip - 뫼비우스의 띠에서 벗어나다
-Life does not offer perfect answers like mathematics. - 삶은 수학처럼 완벽한 정답을 제공하지 않는다.
-rectification - 교정
-egalitarians - 평등주의자들
-legalistic - 법률 만능주의
-redress - 바로잡다
-rectified - 교정되어지는
-ramps - 진입로
-incoherent - 일관성이 없는
-stupor - 혼미
-mysticism - 신비주의
-persecution - 박해
-egocentrism - 이기주의
-hounding - 괴롭힘
 appendicitis - 맹장염
-nuisance - 골칫거리
-urinated - 배뇨하다
-withdrawn - 내성적인
-disinherited - 상속권을 박탈당한
-sedated - 진정된
-detainees - 구금자들
-interspersed - 섞다
-composure - 평정심
-belligerent - 적대적인
+be optimized for - ~에 최적화되다
 belie - 숨기다
-inhibiting - 억제하는
+biscuits - 비스킷, 과자 (영국식 쿠키 / 미국식 스콘 형태의 빵)
+build a system - 시스템을 구축하다
+bursaries / bursary - 장학금, 학비 보조금
 Casualty - 사상자
+composure - 평정심
+daunting - 벅찬, 주눅이 들게 하는, 쉽지 않은
+deference - 존경, 공손한 복종
+denigrated - 폄하된, 몹시 비난받은
 depressed - 우울한, 함몰된
+detainees - 구금자들
+dialect - 방언, 사투리
+disinherited - 상속권을 박탈당한
+disproves - 틀렸음을 입증하다, 반증하다
+dissociated - 분리된, 단절된, (심리) 해리된
+dyes - 염료, 염색약 / 염색하다
+egocentrism - 이기주의
+escape the Möbius strip - 뫼비우스의 띠에서 벗어나다
+few people would disagree that... - ~라는 것에 반대할 사람은 거의 없을 것이다
+follow the same patterns - 같은 패턴을 따르다
 fracture - 골절
-purged - 숙청된
+future threats - 미래의 위협들
+hoax - 거짓말, 장난, 날조, 속임수
+homogeneous - 동질적인 (↔ heterogeneous 이질적인)
+hospitals - 병원들
+hounding - 괴롭힘
+hypothetically - 가상으로, 가설상, 가정하여
+I think - 내 생각에는
+incoherent - 일관성이 없는
+inhibiting - 억제하는
+interspersed - 섞다
+lenient - 관대한, 너그러운
+ludicrous - 터무니없는, 말도 안 되는, 우스꽝스러운
+medical preparedness / medical infrastructure - 의료적 준비태세 / 의료 인프라
+milieu - 사회적·문화적 환경, 분위기
+mysticism - 신비주의
+Möbius strip - 뫼비우스의 띠
+needs to resemble - 비슷해야 한다
+not to predict - 예측하지 않는 것
+nuisance - 골칫거리
+On the other hand, - 반면에,
+orator - 연설가
+outstripped - 앞질렀다, 능가했다
+pigments - 안료, 색소
 portly recluse - 뚱뚱한 체격의 은둔자
+predisposition - 선천적 성향, 선입 성향
+prescriptive - 규범적인, 지시하는
+prolific - 다작하는, 다산의, 풍부한
+proposition - 주장, 명제
+purged - 숙청된
+quickly detect - 빠르게 감지하다
+resilience - 회복력, 탄성, 복원력
+respond to crises - 위기에 대응하다
+retrospection - 회고, 회상, 추억
+sedated - 진정된
+strike a balance - 균형을 맞추다
+strike a balance between A and B - A와 B 사이의 균형을 맞추다
+stupor - 혼미
+testing system - 검사 시스템
+transcendental - 초월적인, 경험을 넘어서는
+treble - 3배가 되다, 3배로 만들다 / 최고음, 고음
+urinated - 배뇨하다
+verdict - 평결, 판결, 결정, 의견
+withdrawn - 내성적인hailed - (칭찬·환호하며) 칭송받았다, 환영받았다
+surplus - 흑자, 잉여, 과잉 (budget surplus = 재정 흑자)
+ethnic - 민족의, 인종의
+on-the-spot - 현장의, 즉석의
