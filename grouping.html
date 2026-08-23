@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>단어 그룹핑 게임</title>
+<style>
+  :root {
+    --bg: #0f0e0c;
+    --surface: #1a1917;
+    --border: #2e2c28;
+    --gold: #c9a84c;
+    --text: #e8e4dc;
+    --muted: #7a756c;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Georgia', serif;
+    min-height: 100vh;
+    padding: 20px;
+  }
+  .app { max-width: 680px; margin: 0 auto; }
+  h1 { color: var(--gold); font-size: 20px; font-weight: normal; margin-bottom: 6px; text-align: center; }
+  .subtitle { color: var(--muted); font-size: 13px; text-align: center; margin-bottom: 28px; }
+
+  /* 그룹 카테고리 표시 */
+  .categories {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 24px;
+  }
+  .category {
+    border: 2px solid var(--border);
+    border-radius: 10px;
+    padding: 12px;
+    min-height: 100px;
+    transition: border-color 0.2s;
+  }
+  .category.active { border-color: var(--gold); }
+  .category.correct { border-color: #27ae60; background: rgba(39,174,96,0.08); }
+  .category.wrong { border-color: #c0392b; animation: shake 0.3s; }
+  @keyframes shake { 0%,100%{transform:translateX(0)} 25%{transform:translateX(-6px)} 75%{transform:translateX(6px)} }
+  .cat-label {
+    font-size: 11px;
+    color: var(--muted);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+  .cat-words {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .cat-chip {
+    background: rgba(201,168,76,0.15);
+    border: 1px solid var(--gold);
+    border-radius: 4px;
+    padding: 3px 8px;
+    font-size: 13px;
+    color: var(--gold);
+  }
+
+  /* 단어 선택 영역 */
+  .word-pool {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    margin-bottom: 24px;
+    min-height: 80px;
+  }
+  .word-btn {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--text);
+    font-family: inherit;
+    font-size: 15px;
+    padding: 10px 16px;
+    cursor: pointer;
+    transition: all 0.15s;
+    font-style: italic;
+  }
+  .word-btn:hover { border-color: var(--gold); color: var(--gold); }
+  .word-btn.selected { background: rgba(201,168,76,0.2); border-color: var(--gold); color: var(--gold); }
+
+  /* 하단 버튼 */
+  .bottom-row {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  .btn {
+    border: none;
+    border-radius: 8px;
+    padding: 12px 24px;
+    font-size: 15px;
+    font-family: inherit;
+    font-weight: bold;
+    cursor: pointer;
+    transition: opacity 0.2s;
+  }
+  .btn:hover { opacity: 0.85; }
+  .btn-submit { background: var(--gold); color: #0f0e0c; }
+  .btn-skip { background: var(--surface); color: var(--muted); border: 1px solid var(--border); }
+
+  /* 정보 */
+  .info-bar {
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    color: var(--muted);
+    margin-bottom: 20px;
+  }
+  .info-bar span { color: var(--text); font-weight: bold; }
+
+  .hint-box {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px 16px;
+    font-size: 13px;
+    color: var(--muted);
+    margin-bottom: 20px;
+    text-align: center;
+    min-height: 44px;
+  }
+
+  /* 완료 화면 */
+  .done-screen { display: none; text-align: center; padding: 60px 20px; }
+  .done-screen.visible { display: block; }
+  .done-screen h2 { color: var(--gold); font-size: 26px; margin-bottom: 12px; }
+  .done-screen p { color: var(--muted); font-size: 15px; line-height: 1.7; }
+  .restart-btn { margin-top: 24px; background: var(--gold); color: #0f0e0c; border: none; border-radius: 8px; padding: 12px 28px; font-size: 16px; font-family: inherit; font-weight: bold; cursor: pointer; }
+
+  .loading { color: var(--muted); text-align: center; padding: 60px; }
+</style>
+</head>
+<body>
+<div class="app" id="app">
+  <div class="loading">단어 불러오는 중...</div>
+</div>
+
+<script>
+// ── 유사 단어 그룹 정의 ──────────────────────────────────────────
+// 각 그룹: { label, theme, words[] }
+const GROUPS = [
+  { label: "😠 화남 (약→강)", theme: "분노 감정", words: ["irritated","annoyed","frustrated","resentful","indignant","outraged","furious","incensed"] },
+  { label: "😨 두려움", theme: "공포·불안", words: ["uneasy","apprehensive","anxious","alarmed","terrified","petrified","horrified","distressed"] },
+  { label: "😊 기쁨", theme: "행복·즐거움", words: ["content","pleased","delighted","joyful","elated","ecstatic","triumphant","bliss"] },
+  { label: "😢 슬픔", theme: "슬픔·우울", words: ["sad","wistful","somber","gloomy","pensive","subdued","melancholic","mournful","downcast","despondent","dejected","heartbroken"] },
+  { label: "🗣️ 비난하다", theme: "비판·비난", words: ["criticise","decry","vilify","reproach","deplore","slander","defamation","vilification","scathing","reproachful"] },
+  { label: "🏃 빠른 움직임", theme: "빠름·날쌤", words: ["skitters","fluttering","darting","fleetness","agile","nimble","swift"] },
+  { label: "🌑 어두운·음울한", theme: "우울·어두움", words: ["gloomy","somber","dismal","bleak","dreary","sombre","ominous"] },
+  { label: "💪 극복불가·힘든", theme: "어려움", words: ["insurmountable","insuperable","intractable","crippling","arduous","arduously","daunting"] },
+  { label: "🎭 풍자·비웃음", theme: "조롱·풍자", words: ["satire","ridicule","derided","scoffers","mock-heroic","sarcasm","deride"] },
+  { label: "🤫 비밀·은밀한", theme: "은밀함", words: ["surreptitious","covert","clandestine","furtive","stealthy","connived","masquerading"] },
+  { label: "🧠 추측·추론", theme: "추측·가정", words: ["conjecture","surmise","infer","hypothetically","tenable","inferentially"] },
+  { label: "⚖️ 도덕·윤리", theme: "도덕·윤리", words: ["conscience","probity","virtue","rectitude","integrity","ethical","moral"] },
+  { label: "😴 게으름·나태", theme: "게으름", words: ["indolent","slothful","lethargic","sluggish","stagnant","inert"] },
+  { label: "🌟 웅장한·화려한", theme: "웅장함·화려함", words: ["palatial","grandiose","majestic","splendid","grander","plush","majesty"] },
+  { label: "💔 소외·단절", theme: "소외감", words: ["alienated","estranged","ostracised","marginalised","excluded","withdrawn"] },
+];
+
+// 한 라운드에 4개 그룹씩, 각 그룹에서 4단어 선택
+let allWords = [];
+let currentGroups = [];
+let selectedWords = [];
+let solvedGroups = [];
+let score = 0;
+let totalRounds = 0;
+let activeTarget = null; // 현재 드래그 드롭 타겟 그룹
+
+async function loadWords() {
+  try {
+    const r = await fetch('words.txt');
+    const text = await r.text();
+    allWords = new Set(text.trim().split('\n').map(l => l.split(' - ')[0].trim().toLowerCase()));
+  } catch(e) {}
+  startRound();
+}
+
+function startRound() {
+  // 4개 그룹 랜덤 선택
+  const shuffledGroups = [...GROUPS].sort(() => Math.random() - 0.5).slice(0, 4);
+  
+  currentGroups = shuffledGroups.map(g => {
+    // 각 그룹에서 단어장에 있는 단어들만 필터 후 4개 선택
+    const available = g.words.filter(w => allWords.has(w.toLowerCase()));
+    const picked = available.length >= 4 
+      ? available.sort(() => Math.random() - 0.5).slice(0, 4)
+      : g.words.sort(() => Math.random() - 0.5).slice(0, 4);
+    return { ...g, picked };
+  });
+
+  solvedGroups = [];
+  selectedWords = [];
+  totalRounds++;
+  render();
+}
+
+function render() {
+  const app = document.getElementById('app');
+  
+  if (solvedGroups.length === 4) {
+    renderDone(app);
+    return;
+  }
+
+  // 아직 안 풀린 그룹들의 단어 섞기
+  const remaining = currentGroups.filter((_, i) => !solvedGroups.includes(i));
+  const poolWords = remaining.flatMap(g => g.picked).sort(() => Math.random() - 0.5);
+
+  app.innerHTML = `
+    <h1>📚 단어 그룹핑</h1>
+    <p class="subtitle">같은 계열의 단어 4개를 골라 올바른 카테고리에 넣으세요</p>
+
+    <div class="info-bar">
+      <div>라운드 <span>${totalRounds}</span></div>
+      <div>완료 <span>${solvedGroups.length}/4</span></div>
+      <div>점수 <span>${score}</span></div>
+    </div>
+
+    <div class="hint-box" id="hint-box">단어를 선택하고 카테고리에 제출하세요</div>
+
+    <div class="categories" id="categories">
+      ${currentGroups.map((g, i) => `
+        <div class="category ${solvedGroups.includes(i) ? 'correct' : ''}" id="cat-${i}" onclick="setTarget(${i})">
+          <div class="cat-label">${g.label}</div>
+          <div class="cat-words">
+            ${solvedGroups.includes(i) ? g.picked.map(w => `<span class="cat-chip">${w}</span>`).join('') : ''}
+          </div>
+        </div>
+      `).join('')}
+    </div>
+
+    <div class="word-pool" id="word-pool">
+      ${poolWords.map(w => `
+        <button class="word-btn ${selectedWords.includes(w) ? 'selected' : ''}" onclick="toggleWord('${w}')">${w}</button>
+      `).join('')}
+    </div>
+
+    <div class="bottom-row">
+      <button class="btn btn-submit" onclick="submitGroup()">제출 ✓</button>
+      <button class="btn btn-skip" onclick="startRound()">다음 라운드 →</button>
+    </div>
+  `;
+}
+
+function setTarget(idx) {
+  if (solvedGroups.includes(idx)) return;
+  activeTarget = idx;
+  document.querySelectorAll('.category').forEach((el, i) => {
+    el.classList.toggle('active', i === idx && !solvedGroups.includes(i));
+  });
+  document.getElementById('hint-box').textContent = `"${currentGroups[idx].theme}" 계열 단어 4개를 선택하세요`;
+}
+
+function toggleWord(word) {
+  if (selectedWords.includes(word)) {
+    selectedWords = selectedWords.filter(w => w !== word);
+  } else {
+    if (selectedWords.length >= 4) selectedWords.shift();
+    selectedWords.push(word);
+  }
+  render();
+  // 선택 상태 복원
+  if (activeTarget !== null) setTarget(activeTarget);
+}
+
+function submitGroup() {
+  if (activeTarget === null) {
+    document.getElementById('hint-box').textContent = '먼저 카테고리(위 박스)를 클릭하세요!';
+    return;
+  }
+  if (selectedWords.length < 4) {
+    document.getElementById('hint-box').textContent = '단어 4개를 선택해주세요!';
+    return;
+  }
+
+  const target = currentGroups[activeTarget];
+  const correct = selectedWords.every(w => target.picked.includes(w)) && selectedWords.length === 4;
+
+  if (correct) {
+    solvedGroups.push(activeTarget);
+    score += 10;
+    selectedWords = [];
+    activeTarget = null;
+    render();
+  } else {
+    // 틀림 표시
+    const catEl = document.getElementById(`cat-${activeTarget}`);
+    if (catEl) {
+      catEl.classList.add('wrong');
+      setTimeout(() => catEl.classList.remove('wrong'), 400);
+    }
+    document.getElementById('hint-box').textContent = '❌ 틀렸어요! 다시 선택해보세요.';
+    score = Math.max(0, score - 2);
+    selectedWords = [];
+  }
+}
+
+function renderDone(app) {
+  app.innerHTML = `
+    <div class="done-screen visible">
+      <h2>🎉 라운드 완료!</h2>
+      <p>4개 그룹을 모두 맞혔어요!<br>현재 점수: <strong style="color:var(--gold)">${score}점</strong></p>
+      <button class="restart-btn" onclick="startRound()">다음 라운드 →</button>
+    </div>
+  `;
+}
+
+loadWords();
+</script>
+</body>
+</html>

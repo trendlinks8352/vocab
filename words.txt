@@ -1367,3 +1367,127 @@ incessant - 끊임없는, 쉴 새 없는
 dispelled - (의심·걱정 등을) 떨쳐버리다, 없애다 (dispel의 과거형)
 clouded - 흐려진, 모호해진 (판단력·기억 등이 흐려진)
 doctrines - 교리, 신조, 원칙들 (doctrine의 복수형)
+ounce - 온스 (무게 단위, 약 28g) / (비유) 조금, 극소량 (not an ounce of = ~의 조금도 없는)
+peculiarly - 특이하게, 독특하게, 유별나게
+endowed with - ~을 부여받은, ~을 타고난
+menagerie - (동물원 같은) 동물 수집, 이동 동물원
+marble - 대리석 / 구슬 / 대리석의
+abruptly - 갑자기, 불쑥, 급작스럽게
+in quest of - ~을 추구하여, ~을 찾아서
+indiscriminate - 무차별적인, 가리지 않는
+immerse - 몰두하다, 빠져들다 / 담그다 (immerse oneself in = ~에 몰입하다)
+stipend - 생활 지원금, 장학금, 소정의 급여 (주로 연구자·수련의·인턴에게 지급되는 소액 수당)
+parliamentary - 의회의, 국회의 (parliamentary democracy = 의회 민주주의)
+tepee - 티피 (북미 원주민의 원뿔형 천막 주거지, teepee/tipi라고도 씀)
+onus - 책임, 의무, 부담 (the onus is on ~ = ~에게 책임이 있다)
+bliss - 더없는 행복, 지복, 황홀감
+gander - 수거위 / (구어) 흘끗 보기 (take a gander = 잠깐 보다)
+gratification - 만족감, 욕구 충족
+restraining - 억제하는, 누르는 (restraining order = 접근금지 명령)
+cottage - 시골집, 오두막, 작은 집
+lurches - 갑자기 휘청거리다, 쏠리다
+snarling - (이빨을 드러내며) 으르렁거리는, 사납게 으르렁대는
+immortal - 죽지 않는, 불멸의 / 불후의 (immortal works = 불후의 작품)
+disdain - 경멸, 무시 / 경멸하다
+abhorrence - 증오, 혐오, 극도의 싫음
+apathy - 무관심, 냉담, 감정의 결여
+doctorates - 박사 학위들 (doctorate의 복수형)
+decry - 매도하다, 공공연히 비난하다, 폄하하다
+eponymy - 이름을 딴 명칭의 사용, 시조·유래가 된 이름의 부여
+surreptitious - 은밀한, 슬그머니 하는, 몰래 이루어지는
+vanity - 허영심, 자만심 / 헛됨, 공허함
+submultiple - 약수, 소분수 (단위의 분수 부분)
+annex - (영토를) 강제 병합하다 / 별관, 부속 건물
+cardinal - 가장 중요한, 근본적인 / (가톨릭) 추기경
+unleash - (강한 힘·전쟁 등을) 촉발시키다, 풀어놓다
+hounded into exile - 쫓겨나 망명길에 오르다, 망명하도록 내몰리다
+analogy - 비유, 유사점, 유추 (draw an analogy = 유추하다)
+oxymoron - 모순어법 (서로 반대되는 말을 함께 쓰는 수사법)
+conscience - 양심, 도덕심
+salved - (죄책감·양심을) 완화하다, 달래다 (salve의 과거형)
+a level playing field - 동등한 경쟁 환경, 공평한 조건 (모두에게 동등한 기회가 주어지는 상황)
+fugue - 푸가 (다성 음악 형식) / (심리) 기억 상실 도주 상태
+hushes - 조용히 시키다, 웩웩거리다 (hush의 3인칭 단수)
+zest - 열정, 열의, 즐거움 / 껍질 (lemon zest = 레몬 껍질)
+scours - 문질러 닦다, 싹싹 문지르다 / 샅샅이 뒤지다
+caper - 뛰어다니다, 깡충깡충 뛰다 / 장난, 모험 / 케이퍼 (향신료)
+corpse - 시체, 시신
+brats - 장난꾸러기, 버릇없는 아이들 (brat의 복수형)
+mischievous - 짓궂은, 장난기 많은
+dogged - 끈질긴, 완강한, 집요한
+sordid - 추잡한, 지저분한, 초라한
+peril - 위험, 위협 (in peril = 위험에 처한)
+supper - 저녁 식사 (dinner보다 가볍고 늦은 시간의 식사, 영국식 표현)
+dormant - 휴면 상태의, 잠자는 듯한, 활동을 멈춘
+unrippled - 잔잔한, 물결이 일지 않는
+peasants - 소작농들, 농민들 (peasant의 복수형)
+grotesque - 기괴한, 괴상한, 터무니없는
+futility - 헛됨, 무익함, 소용없음
+stagnant - 침체된, 고여 있는, 발전이 없는
+tumultuous - 혼란스러운, 소란스러운, 격동의
+disorienting - 방향감각을 잃게 하는, 혼란스럽게 하는
+conjugation - (문법) 동사 활용, 어형 변화 / (생물) 접합, 결합
+marginalise - 소외시키다, 주변부로 밀어내다, 경시하다 (영국식 / 미국식: marginalize)
+contestation - 논쟁, 이의 제기, 경합 (어떤 주장·권리·결정에 대한 공식적 이의)
+transcend - 초월하다, 뛰어넘다, 한계를 넘어서다
+on the margins - 주변부에, 사회적으로 소외된 위치에 (on the margins of society = 사회의 주변부에)
+encyclopaedia - 백과사전 (영국식 철자 / 미국식: encyclopedia)
+plunges - 뛰어들다, 급락하다, 돌진하다 (plunge의 3인칭 단수)
+fringes - 가장자리들, 주변부들, 비주류 (fringe의 복수형)
+plausibility - 타당성, 개연성, 그럴듯함 (lend plausibility to = ~에 타당성을 부여하다)
+celestial - 천상의, 하늘의, 신성한 (celestial bodies = 천체)
+intensive - 집중적인, 강도 높은, 철저한 (intensive care = 집중 치료 / intensive training = 집중 훈련)
+manifold - 다양한, 다채로운, 여러 가지의
+egoism - 이기주의, 자아주의
+credulity - 쉽사리 믿음, 쉽게 속는 경향
+enigmatical - 수수께끼 같은, 난해한 (= enigmatic)
+latent - 잠재되어 있는, 숨어 있는
+invincible - 천하무적의, 정복할 수 없는, 확고한
+knits - 결속시키다, 하나로 묶다 (knit의 3인칭 단수)
+ephemeral - 수명이 짧은, 덧없는, 일시적인
+clinking - 쨍그랑거리는 소리, 찰랑거리는 음향
+waggled - 흔들거렸다 (waggle의 과거형)
+rags - 누더기, 낡은 천 (rag의 복수형)
+ominous - 불길한, 징조가 안 좋은
+dilated - 넓어진, 확장된 (dilate의 과거분사)
+nostrils - 콧구멍들 (nostril의 복수형)
+quivered - 떨렸다, 경련했다 (quiver의 과거형)
+stonily - 돌처럼 냉정하게, 무표정하게, 감정 없이
+despondently - 낙담하여, 실의에 빠져, 시무룩하게
+rifle - 소총, 라이플
+hoisted - 들어올렸다, 짊어졌다 (hoist의 과거형)
+prudence - 신중함, 사려 깊음
+rascally - 장난기 있는, 짓궂은, 악의 없이 장난스러운
+exalted - 고귀한, 격상된, 드높은
+inferentially - 추론적으로, 추론에 의해
+inhere - 내재하다, 본질적으로 속해 있다
+insuperable - 극복할 수 없는, 넘어서기 힘든 (far from insuperable = 결코 극복 못 할 것이 아닌)
+stationary - 정지된, 움직이지 않는 (stationery와 혼동 주의 - e로 끝나면 문구류)
+microscopic - 미세한, 현미경으로 봐야 볼 수 있는
+enzyme - 효소 (생명체 내 화학 반응을 촉진하는 단백질)
+inert - 비활성의, 움직이지 않는, 반응하지 않는
+rogues - 악당들, 사기꾼들, 불량배들 (rogue의 복수형)
+earnestly - 진심으로, 진지하게, 열성적으로
+scoffers - 비웃는 사람들, 조롱하는 자들
+drunkards - 술꾼들, 음주가들 (drunkard의 복수형)
+abstainers - 절제하는 사람들, 금주가들
+fickle - 변덕스러운, 일관성 없는
+impassive - 무감각한, 냉정한, 표정이 없는
+ore - 광석
+alembics - 증류기들 (연금술용 / alembic의 복수형)
+vessels - 용기들, 그릇들 / 선박들
+cabalistic - 신비주의적인, 비밀의, 카발라의
+perched - (높은 곳에) 앉아 있는, 걸터앉은
+consummation - 완성, 성취, 완결 / (결혼의) 완성
+transmogrified - 완전히 변형된, 엉뚱하게 바뀐
+philologists - 문헌학자들, 언어학자들
+gulls - 잘 속는 사람들, 바보 / 갈매기들
+gull-catchers - 남을 잘 속이는 사람들, 사기꾼들
+pluck - (깃털 등을) 뽑다 / 용기, 배짱
+fortune - 부, 재산, 운 / 운명
+herald - 알리다, 예고하다 / 전령, 선구자
+thatched - 초가지붕의, 짚으로 이은 (thatched roof = 초가지붕)
+as though - ~인 것처럼, 마치 ~하듯이
+presumptuousness - 건방짐, 주제넘음, 오만함
+tenable - (주장·이론이) 옹호될 수 있는, 타당한, 방어할 수 있는
+stands and falls with - ~에 달려 있다, ~와 운명을 같이하다
