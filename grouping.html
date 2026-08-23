@@ -174,7 +174,8 @@ let selectedWords = [];
 let solvedGroups = [];
 let score = 0;
 let totalRounds = 0;
-let activeTarget = null; // 현재 드래그 드롭 타겟 그룹
+let activeTarget = null;
+let lastHint = '';
 
 async function loadWords() {
   try {
@@ -226,7 +227,7 @@ function render() {
       <div>점수 <span>${score}</span></div>
     </div>
 
-    <div class="hint-box" id="hint-box">단어를 선택하고 카테고리에 제출하세요</div>
+    <div class="hint-box" id="hint-box">${lastHint || '카테고리를 클릭한 뒤 단어 4개를 선택하고 제출하세요'}</div>
 
     <div class="categories" id="categories">
       ${currentGroups.map((g, i) => `
@@ -292,6 +293,8 @@ function submitGroup() {
     selectedWords = [];
     activeTarget = null;
     render();
+    lastHint = `✅ 정답! "${target.theme}" 계열이 맞아요 (+10점)`;
+    document.getElementById('hint-box').textContent = lastHint;
   } else {
     // 틀림 표시
     const catEl = document.getElementById(`cat-${activeTarget}`);
@@ -299,7 +302,9 @@ function submitGroup() {
       catEl.classList.add('wrong');
       setTimeout(() => catEl.classList.remove('wrong'), 400);
     }
-    document.getElementById('hint-box').textContent = '❌ 틀렸어요! 다시 선택해보세요.';
+    const correctWords = target.picked.join(', ');
+    lastHint = `❌ 틀렸어요! "${target.theme}" 정답: ${correctWords}`;
+    document.getElementById('hint-box').innerHTML = `❌ 틀렸어요! <strong style="color:var(--gold)">"${target.theme}"</strong> 정답: <em style="color:#c9a84c">${correctWords}</em>`;
     score = Math.max(0, score - 2);
     selectedWords = [];
   }
