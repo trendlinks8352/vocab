@@ -1491,3 +1491,97 @@ as though - ~인 것처럼, 마치 ~하듯이
 presumptuousness - 건방짐, 주제넘음, 오만함
 tenable - (주장·이론이) 옹호될 수 있는, 타당한, 방어할 수 있는
 stands and falls with - ~에 달려 있다, ~와 운명을 같이하다
+foliage - 나뭇잎들, 잎사귀 (집합적으로 나무·식물의 잎 전체를 가리킴)
+legions - 군단들, 다수의 무리 (legions of = 수많은)
+clotted - 응고된, 굳어진, 빽빽하게 막힌
+vice - 악, 악덕, 결함 / 부도덕한 행위
+exterminated - 몰살된, 완전히 제거된 (exterminate의 과거분사)
+undimmed - 흐려지지 않은, 여전히 밝은/강렬한
+writ - 성서, 경전 (holy writ) / 법원 명령서
+conformity - 순응, 복종, 일치 (in conformity with = ~에 따라)
+unorthodox - 비정통적인, 이례적인, 관습에서 벗어난
+stifling - 억압하는, 답답하게 하는, 숨막히게 하는
+provincial - 지방의, 지역의 / (비유) 편협한, 시야가 좁은 (provincial attitude = 편협한 사고방식)
+prospectus - 안내서, 요강, 투자설명서 (학교·대학의 안내 책자 또는 금융 투자 설명서)
+venerate - 공경하다, 존경하다, 숭배하다
+turbulence - 격동, 동란, 난기류, 혼란
+bleakness - 암울함, 절망감, 황량함
+oblivion - 망각, 의식을 잃은 상태 (sink into oblivion = 망각 속으로 사라지다)
+urge - (강한) 충동, 욕구 / 강하게 촉구하다
+abusive - 학대하는, 폭력적인, 모욕적인
+salvage - 구조하다, 건져내다 / 잔존물, 구조물 (salvage a situation = 상황을 수습하다)
+convene - (회의·모임을) 소집하다, 집합시키다
+rancorous - 악의에 찬, 원한에 가득 찬, 앙심을 품은
+despicable - 비열한, 경멸스러운, 비겁한
+abstinences - 절제들, 금욕들 (abstinence의 복수형 / 음식·음주·성 등의 자제)
+forbearances - 인내들, 관용들 (forbearance의 복수형 / 참고 견디는 태도)
+observe - 관찰하다 / (기념일·의식을) 기념하다, 지키다 (observe a holiday = 휴일을 지키다)
+swarms - 떼, 무리, 군집 / 떼를 지어 다니다, 바글거리다 (swarms of = 수많은 무리의)
+pea - 완두콩 / as like as two peas = 꼭 닮은 / pea-sized = 완두콩만한 크기의
+pineal - 송과선의 (pineal gland = 송과선 / 뇌 속 멜라토닌 분비 기관)
+gland - 샘, 선(腺) (분비 기관 / sweat gland = 땀샘 / lymph gland = 림프샘)
+rodents - 설치류들 (rodent의 복수형 / 쥐·다람쥐·비버 등 이빨로 갉는 포유류)
+baptismal - 세례의 (baptismal name = 세례명 / 기독교식 이름)
+hyphenated - 하이픈이 들어간, 하이픈으로 연결된
+patronymic - 부칭의, 아버지·조상의 이름에서 파생된 성씨
+millet - 수수, 기장 (식물 / 성씨로 쓰일 때 식물 유래)
+milliner - 여성 모자 제조자 (직업 유래 성씨)
+millman - 방앗간 일꾼 (mill + man / 직업 유래 성씨)
+peasant - 농민, 소농 (소규모 농지를 경작하는 사람)
+tolerance - 관용, 아량, 포용 / 내성, 허용 오차
+testify - 증언하다, 입증하다 (testify to = ~을 증명하다)
+spiteful - 앙심을 품은, 악의적인, 심술궂은
+bigoted - 편협한, 완고한 편견을 가진 (bigot의 형용사형)
+riddle - 수수께끼, 난제 / 구멍을 뚫다 (riddled with = ~투성이인)
+oppressive - 억압적인, 답답한, 가혹한
+communal - 공동의, 지역 사회의, 공유의
+nasty piece of work - 아주 고약한/못된 사람, 비열한 인간
+idyll - 전원시, 목가적이고 평화로운 이상향
+imbued - (감정·사상 등이) 가득 찬, 젖어 든 (imbued with = ~으로 가득 찬)
+deviousness - 교활함, 음흉함, 간사함 (devious = 교활한, 간사한)
+obscurity - 무명, 잘 알려지지 않은 상태 / 불명확함, 모호함 (fall into obscurity = 무명으로 사라지다)
+rampant - 만연한, 걷잡을 수 없는, 극성스러운 (rampant corruption = 만연한 부패)
+devotee - 열렬한 팬, 헌신적인 지지자, 신봉자 (a devotee of = ~의 열렬한 팬)
+assure - (사람에게) 확신시키다, 안심시키다 (assure someone that = ~에게 ~라고 확신시키다)
+insure - 보험을 들다, 보험으로 보장하다 (insure against = ~에 대비해 보험을 들다)
+reassure - 불안해하는 사람을 다시 안심시키다 (re + assure)
+stampede - (동물·군중의) 우르르 달아남, 패닉 도주 / 우르르 몰려가다
+envisaged - 상상했다, 구상했다, 예상했다 (envisage의 과거형 / 영국식 = envision)
+flattered - 으쓱해진, 우쭐해진, 기분 좋게 된
+embargo - 금지, 제한, 수출입 금지령
+alluded - 넌지시 언급했다, 암시했다 (allude to의 과거형)
+gratitude - 감사, 고마움
+assurances - 확언들, 장담들, 안심시키는 말들
+raptures - 황홀감, 큰 기쁨 (in raptures = 황홀해하며)
+disapprobation - (도덕적·사회적) 비난, 반대, 마땅찮게 여김
+dissembled - (감정·의도를) 숨겼다, 내색하지 않았다
+decorum - 예의, 격식, 단정함 (breach of decorum = 예의 위반)
+ardently - 열렬하게, 열정적으로
+fury - 분노, 격분 (in a fury = 격노하여)
+furiously - 맹렬하게, 격노하여
+impetuously - 충동적으로, 성급하게
+tempestuously - (격랑처럼) 격정적으로, 사납게
+tenacious - 끈질긴, 완강한, 집요한
+timorous - 겁 많은, 소심한, 두려워하는
+reserved - 예약된 / 지정된 / 내성적인, 말수가 적은
+consulted - 의견을 들은, 상담을 거친, 협의된 (consult의 과거분사 / not consulted = 협의 없이 결정된)
+basin - 대야, 세면대 / 분지, 유역 (river basin = 하천 유역 / ocean basin = 해저 분지)
+adored - 매우 사랑받는, 숭배받는 (adore의 과거분사)
+promiscuously - 닥치는 대로, 무분별하게, 마구잡이로
+idolatrous - 우상숭배적인, 맹목적으로 숭배하는
+professions - 직업들, 전문직들 (profession의 복수형)
+coinage - 신조어, 조어 / 화폐 주조 (the coinage of a word = 단어의 창조)
+serfdom - 농노제, 예속 상태 (중세 봉건제하의 농노 신분)
+wrath - 격노, 분노 (격식체 / wrath of God = 신의 진노)
+pollers - 투표하는 사람들, 여론 조사원들
+etymologists - 어원학자들 (단어의 기원을 연구하는 사람들)
+mystify - 혼란스럽게 하다, 당혹스럽게 하다, 신비화하다
+safe-ish - 그럭저럭 안전한 (-ish = 어느 정도 ~한)
+myriad - 무수히 많은, 수많은 (a myriad of = 수많은)
+exile - 추방, 망명 / 추방하다 (in exile = 망명 중인)
+chanting - 독경, 성가 영창, 구호를 반복해서 외침
+sanction - ⚠️ 두 가지 뜻: ① 제재, 처벌 ② 공식적 승인, 허가 (문맥 주의!)
+mill - 제분소, 공장 / run-of-the-mill = 지극히 평범한
+voyeurism - 관음증 / (비유) 타인의 삶을 피상적으로 엿보는 태도
+annexation - 병합, 합병 (영토·국가의 강제 흡수)
+intermingling - 뒤섞임, 혼합 (서로 다른 것들이 섞이는 것)
