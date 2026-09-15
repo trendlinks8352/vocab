@@ -1585,3 +1585,77 @@ mill - 제분소, 공장 / run-of-the-mill = 지극히 평범한
 voyeurism - 관음증 / (비유) 타인의 삶을 피상적으로 엿보는 태도
 annexation - 병합, 합병 (영토·국가의 강제 흡수)
 intermingling - 뒤섞임, 혼합 (서로 다른 것들이 섞이는 것)
+marred - 손상된, 훼손된, 망쳐진 (mar의 과거분사)
+defies - 반항하다, 거스르다, ~을 불가능하게 하다 (defy의 3인칭 단수)
+workable model - 실행 가능한 모델, 실용적인 모델
+prophetic - 예언적인, 예언자의 (prophetic vision = 예언적 통찰)
+secular - 세속적인, 비종교적인 (secular society = 세속 사회)
+revelation - 계시, 폭로, 드러냄 (a revelation = 놀라운 발견)
+colossal - 거대한, 엄청난, 막대한
+clairvoyant - 천리안을 가진, 예지력이 있는, 통찰력이 있는
+reservoirs - 저수지들, 저장소들 / (비유) 보고(寶庫), 축적된 것들 (reservoir of knowledge = 지식의 보고)
+steered - 조종했다, 이끌었다, 방향을 잡았다 (steer의 과거형 / steer clear of = ~을 피하다)
+cheek - 뺨, 볼 / (영국 구어) 뻔뻔함, 건방짐 (what a cheek! = 정말 뻔뻔하군!)
+elongated - 길게 늘어진, 세장형의, 늘어난 (elongate의 과거분사)
+ingested - 섭취된, 삼킨 (ingest의 과거분사 / 음식·약물 등을 몸 안에 넣은)
+perversity - 괴팍함, 심보 고약함, 비뚤어진 성격
+trestle-stage - 받침대가 있는 무대, 임시 무대
+demented - 미친, 광기 어린, 정신이 나간
+phlegm - 가래, 점액 / (비유) 냉정함, 침착함
+bleared - 흐려진, 눈이 침침해진 (blear의 과거분사)
+nib - 펜촉 (만년필이나 깃털 펜의 끝)
+inept - 서투른, 부적절한, 무능한
+utterance - 발화, 말함, 발언 (an utterance = 하나의 발언)
+scrupulous - 세심한, 꼼꼼한, 양심적인 (scrupulously honest = 더없이 정직한)
+cantankerousness - 까칠함, 툭하면 싸우는 성질, 고약한 성미
+tussle - 다툼, 몸싸움 / 다투다, 씨름하다
+misgivings - 불안감, 의구심, 염려 (have misgivings about = ~에 대해 불안을 느끼다)
+infiltrated - 침투한, 스며든 (infiltrate의 과거분사)
+impertinent - 무례한, 건방진, 주제넘은
+integral - 필수적인, 없어서는 안 될 / 완전한 (integral part = 필수적인 부분)
+indigenous - 토착의, 원주민의, 그 지역 고유의 (indigenous people = 원주민)
+moderated - 완화된, 완화했다 / 중재했다 (moderate의 과거형)
+faltered - 비틀거리다, 주춤하다 / (말·목소리가) 흔들리다 (falter의 과거형)
+intriguing - 흥미로운, 매혹적인, 호기심을 자극하는 (intrigue = 매혹시키다, 흥미를 끌다)
+disgorged - 쏟아져 나왔다, 토해냈다 (disgorg의 과거형)
+sparrows - 참새들 (sparrow의 복수형)
+dilapidated - 허름한, 다 허물어진, 황폐한
+wretches - 가련한 사람들, 불쌍한 사람들 (wretch의 복수형)
+vengeance - 복수, 앙갚음 (with a vengeance = 맹렬하게)
+appeased - 진정된, 달래진 (appease의 과거분사)
+interment - 매장, 장례식 (시신을 땅에 묻는 것)
+gravel - 자갈 / 자갈을 깔다
+soot - 그을음, 검댕 (연소 후 생기는 검은 입자)
+penance - 참회, 속죄 (do penance = 속죄하다)
+rots - 썩다, 부패하다 (rot의 3인칭 단수)
+pestered - 성가시게 했다, 괴롭혔다 (pester의 과거형)
+concocted - 꾸며낸, 지어낸 / 섞어서 만든 (concoct의 과거분사)
+deceased - 사망한, 고인인 (the deceased = 고인)
+cremation - 화장 (시체를 불태워 처리하는 방식)
+grizzled - 희끗희끗한, 백발이 섞인
+deafening - 귀청이 터질 듯한, 매우 시끄러운
+ovation - 열렬한 박수, 환호 (standing ovation = 기립 박수)
+bestows - 수여하다, 주다, 부여하다 (bestow on = ~에게 수여하다)
+token - 상징, 표시, 징표 / 형식적인 (token gesture = 형식적인 제스처)
+incidence - 발생률, 비율 / 발생 빈도 (high incidence of = ~의 높은 발생률)
+divination - 점술, 예언, 점치기 (신이나 초자연적 힘을 통해 미래를 알려는 행위)
+conflate - (두 개 이상의 개념·텍스트를) 혼동하다, 합치다, 혼합하다 (conflate A with B = A와 B를 혼동하다)
+invigilators - 시험 감독관들 (invigilator의 복수형 / 영국식 표현 / 미국식: proctors)
+surrogate - 대리의, 대리모의 (surrogate mother = 대리모)
+pluralist - 다원주의적인 (pluralist society = 다양한 가치관이 공존하는 사회)
+find it hard to - ~하기 어렵다고 느끼다
+abortion - 낙태, 임신중절
+homosexuals - 동성애자들
+reproductive - 생식의, 출산의 (reproductive technologies = 생식 보조 기술)
+surrogate motherhood - 대리모 제도, 대리모 출산
+de facto relationships - 사실혼 관계 (법적 혼인 없이 부부처럼 사는 관계)
+artificial insemination - 인공수정
+conscientious - 양심적인, 신중한, 자신의 신념에 따른
+infertile - 불임의, 임신이 어려운
+subsumed - 포함되다, 포괄되다 (be subsumed into = ~에 포함되다)
+ethnicity - 민족성, 인종적·문화적 정체성
+forgo - ~을 포기하다, ~없이 지내다 (have to forgo = 포기해야 하다)
+aboriginal - 원주민의, 호주 원주민의 (Aboriginal people = 호주 원주민)
+aloofness - 냉담함, 거리감, 무관심한 태도 (aloof = 냉담한)
+attitudinal - 태도에 관한, 태도상의 (attitudinal change = 태도의 변화)
+aboriginality - 원주민으로서의 정체성, 원주민성
