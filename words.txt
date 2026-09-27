@@ -1377,7 +1377,7 @@ in quest of - ~을 추구하여, ~을 찾아서
 indiscriminate - 무차별적인, 가리지 않는
 immerse - 몰두하다, 빠져들다 / 담그다 (immerse oneself in = ~에 몰입하다)
 stipend - 생활 지원금, 장학금, 소정의 급여 (주로 연구자·수련의·인턴에게 지급되는 소액 수당)
-parliamentary - 의회의, 국회의 (parliamentary democracy = 의회 민주주의)
+parliamentary - /ˌpɑːləˈmɛntri/ 의회의, 국회의 (parliamentary democracy = 의회 민주주의)
 tepee - 티피 (북미 원주민의 원뿔형 천막 주거지, teepee/tipi라고도 씀)
 onus - 책임, 의무, 부담 (the onus is on ~ = ~에게 책임이 있다)
 bliss - 더없는 행복, 지복, 황홀감
@@ -1659,3 +1659,51 @@ aboriginal - 원주민의, 호주 원주민의 (Aboriginal people = 호주 원�
 aloofness - 냉담함, 거리감, 무관심한 태도 (aloof = 냉담한)
 attitudinal - 태도에 관한, 태도상의 (attitudinal change = 태도의 변화)
 aboriginality - 원주민으로서의 정체성, 원주민성
+banal - 진부한, 뻔한, 평범한 (banal comment = 진부한 발언)
+tonal - 명암의, 색조의, 음조의 (tonal range = 명암 범위)
+previsualise - 미리 시각화하다, 머릿속으로 그려보다 (영국식 / 미국식: previsualize)
+duped - 속은, 속아 넘어간 (dupe의 과거분사 / be duped into = ~하도록 속다)
+measles - 홍역 (바이러스성 전염병)
+flare up - 갑자기 악화되다, 격화되다, 재발하다
+simmered - 은근히 끓다, 잠재되어 있다 (simmer의 과거형 / 감정·논란이 수면 아래 지속됨)
+debacle - 대실패, 참사, 엉망이 된 사건
+jabs - 주사들, 예방접종들 (영국 구어 / jab = 주사 한 번)
+prudent - 신중한, 분별 있는, 사려 깊은
+outlawed - 법으로 금지된, 불법화된 (outlaw의 과거분사)
+erratic - 불규칙한, 변덕스러운, 예측할 수 없는 (erratic behaviour = 예측 불가한 행동)
+entwined - 얽힌, 밀접하게 연결된 (inextricably entwined = 불가분하게 얽힌)
+atheist - 무신론자 (신의 존재를 믿지 않는 사람)
+convoluted - 복잡하게 얽힌, 난해한 (convoluted argument = 복잡한 논증)
+explications - 상세한 설명들, 해설들 (explication의 복수형)
+anachronism - 시대착오적인 것, 시대에 맞지 않는 현상
+glorious - 훌륭한, 장엄한, 멋진 (glorious achievement = 훌륭한 성취)
+law-abiding - 법을 준수하는 (law-abiding citizen = 법을 잘 지키는 시민)
+whilst - ~하는 동안, ~하면서 (영국식 = while / whilst doing = ~하는 동안)
+disposition - 성향, 기질, 마음가짐 / 배치, 처분 (a disposition toward = ~에 대한 성향)
+deported - 강제 추방되다, 송환되다 (deport의 과거분사)
+incarceration - 투옥, 감금, 수감 생활
+dissemblance - 위장, 가장, 거짓된 태도 (진짜 모습을 숨기는 것)
+indictment - 기소, 고발 / (비유) 강한 비판, 고발의 성격
+reckoning - 심판, 결산, 직면, 숙고 (day of reckoning = 심판의 날)
+ferociously - 맹렬하게, 사납게, 격렬하게
+treachery - 배신, 배반 (신뢰하던 사람·편을 저버림)
+hypocrisy - 위선, 위선적 행동 (겉과 속의 불일치)
+cardiovascular - 심혈관의 (심장과 혈관에 관련된 / cardiovascular disease = 심혈관 질환)
+unadorned - 꾸미지 않은, 장식 없는, 소박한 (unadorned truth = 꾸밈없는 진실)
+ornateness - 화려함, 장식적인 성질 (ornate = 화려하게 장식된)
+mould - 형성하다, 빚다 / 틀, 주형 (영국식 / 미국식: mold)
+apportions - 할당하다, 배분하다 (apportion의 3인칭 단수 / apportion risk = 위험을 배분하다)
+disparities - 격차들, 불균형들 (disparity의 복수형 / grotesque disparities = 극심한 격차)
+virulent - 맹독성의, 매우 유해한, 심각한 (virulent crisis = 심각한 위기)
+streamlinedness - 간소화된 상태, 효율화 (streamlined = 간소화된, 효율적인)
+contends - 주장하다 (contend that = argue that / 저자가 ~라고 주장하다)
+grinding - 갈아 부수는, 끊임없이 괴롭히는 / (비유) 고통스럽고 지루한 (grinding poverty = 지독한 가난)
+obsessed - 집착하는, 사로잡힌 (be obsessed with = ~에 집착하다)
+respiratory - /rɪˈspɪrətri/ 호흡의, 호흡기의 (respiratory system = 호흡기계)
+provisional - /prəˈvɪʒənl/ 임시적인, 잠정적인, 조건부의
+tyranny - /ˈtɪrəni/ 폭정, 횡포, 가혹한 지배
+jigsaw - /ˈdʒɪɡsɔː/ 직소 퍼즐 / (비유) 여러 조각이 맞춰진 복잡한 상황
+waxes and wanes - /ˈwæksɪz ənd ˈweɪnz/ 증감하다, 오르내리다 (wax = 증가, wane = 감소)
+reciprocated - /rɪˈsɪprəkeɪtɪd/ 보답된, 상호적인 (reciprocate = 보답하다, 화답하다)
+imposition - /ˌɪmpəˈzɪʃn/ 강요, 부담, 강제된 요구
+advisable - /ədˈvaɪzəbl/ 바람직한, 권할 만한
