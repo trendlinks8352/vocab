@@ -1718,3 +1718,205 @@ sought - /sɔːt/ 찾았다, 추구했다 (seek의 과거형 / variations were s
 weeding - /ˈwiːdɪŋ/ 잡초 제거, 솎아내기 (weeding out = 불필요한 것을 제거하는)
 sufficiently - /səˈfɪʃntli/ 충분히 (sufficiently complex = 충분히 복잡한)
 descent - /dɪˈsent/ 하강, 내려옴 / 혈통, 계통 (evolution and descent = 진화와 계통)
+bash - /bæʃ/ 세게 때리다, 강타하다 / 파티 (구어)
+expedition - /ˌekspɪˈdɪʃn/ 탐험, 원정, 탐험대
+crow - /krəʊ/ 까마귀 / 의기양양해하다 (crow about = ~을 자랑하다)
+mocking - /ˈmɒkɪŋ/ 조롱하는, 비웃는
+all for nothing - /ɔːl fə ˈnʌθɪŋ/ 모두 헛수고로, 아무 소용 없이
+forsaken - /fəˈseɪkən/ 버려진, 버림받은 (forsake의 과거분사)
+overlie - /ˌəʊvəˈlaɪ/ ~위에 놓여 있다, 덮고 있다
+crestfallen - /ˈkrestˌfɔːlən/ 풀이 죽은, 낙담한
+dismay - /dɪsˈmeɪ/ 당황, 낙담, 실망 / 낙담시키다
+disgrace - /dɪsˈɡreɪs/ 불명예, 수치, 망신 / 망신시키다
+synonymous - /sɪˈnɒnɪməs/ 동의어인, 같은 의미의 (synonymous with = ~와 동의어인)
+malaise - /məˈleɪz/ 불안감, 불쾌감, 사회적 침체·무기력
+eroded - /ɪˈrəʊdɪd/ 약화된, 침식된, 무너진 (erode의 과거분사)
+relentless - /rɪˈlentləs/ 가차 없는, 끊임없는, 끈질긴
+neoliberals - /ˌniːəʊˈlɪbərəlz/ 신자유주의자들
+credo - /ˈkriːdəʊ/ 신조, 신념, 절대적 원칙
+inextricably entwined - /ɪnɪkˈstrɪkəbli ɪnˈtwaɪnd/ 떼려야 뗄 수 없이 얽힌
+gospel - /ˈɡɒspəl/ 복음 / (비유) 절대적인 진리처럼 받아들여지는 원칙
+adduced - /əˈdjuːst/ 제시했다, 근거로 들었다 (adduce의 과거형)
+downswing - /ˈdaʊnswɪŋ/ 하락세, 침체, 감소 국면
+cherished - /ˈtʃerɪʃt/ 소중히 여겨지는, 매우 아끼는
+antithesis - /ænˈtɪθəsɪs/ 정반대, 대조되는 것
+engendered - /ɪnˈdʒendəd/ 만들어낸, 발생시킨, 낳은 (engender의 과거분사)
+disposability - /dɪˌspəʊzəˈbɪlɪti/ 쉽게 버릴 수 있음, 일회성
+elevates - /ˈelɪveɪts/ 높이다, 중요성을 높이다 (elevate의 3인칭 단수)
+cradle - /ˈkreɪdl/ 요람 / (비유) 시작점, 근원
+entails - /ɪnˈteɪlz/ 수반하다, 필연적으로 포함하다 (entail의 3인칭 단수)
+utterly - /ˈʌtəli/ 완전히, 전적으로
+amended - /əˈmendɪd/ 수정된, 변경된 (amend의 과거분사)
+undermined - /ˌʌndəˈmaɪnd/ 약화된, 훼손된 (undermine의 과거분사)
+marginal - /ˈmɑːdʒɪnl/ 미미한, 주변적인, 중요하지 않은
+beleaguered - /bɪˈliːɡəd/ 곤경에 처한, 시달리는, 어려움에 몰린
+spooky - /ˈspuːki/ 으스스한, 기이한, 귀신 같은 (구어)
+photon - /ˈfəʊtɒn/ 광자 (빛의 최소 단위 입자 / 양자역학·물리학 용어)
+throw - /θrəʊ/ 던지다 / throw light on = ~을 밝히다 / throw into doubt = 의문을 제기하다
+scotched - /skɒtʃt/ 무산시켰다, 없애버렸다, 짓눌렀다 (scotch의 과거형 / scotch a rumour = 소문을 없애다)
+predicament - /prɪˈdɪkəmənt/ 곤경, 딜레마, 어려운 처지
+foreshadowed - /fɔːˈʃædəʊd/ 예고했다, 암시했다, 전조가 됐다 (foreshadow의 과거형)
+contingency - /kənˈtɪndʒənsi/ 만일의 사태, 비상 상황 / contingency plan = 비상 계획
+bother - /ˈbɒðə/ 귀찮게 하다, 신경 쓰다 / 귀찮음, 번거로움 (can't be bothered = 귀찮아서 못 하겠다)
+omnipotent - /ɒmˈnɪpətənt/ 전능한, 무한한 능력을 가진 (God is omnipotent = 신은 전능하다)
+solicitor - /səˈlɪsɪtə/ 변호사, 법률가 (영국에서 법률 상담·서류 작성 담당)
+reach - /riːtʃ/ 도달하다, 이르다 / reach your mid-twenties = 20대 중반에 이르다
+conjoined - /kənˈdʒɔɪnd/ 결합된, 연결된 (conjoined with = ~와 결부된)
+mundane - /mʌnˈdeɪn/ 평범한, 일상적인, 따분한
+staggering - /ˈstæɡərɪŋ/ 충격적인, 믿기 어려운, 압도적인 (a staggering amount = 믿기 어려운 양)
+dwarfing - /ˈdwɔːfɪŋ/ 왜소하게 만드는, 훨씬 크게 보이게 하는 (dwarf = 압도하다, 왜소하게 만들다)
+intrigued - /ɪnˈtriːɡd/ 흥미를 느끼는, 매혹된, 궁금해진 (be intrigued by = ~에 흥미를 느끼다)
+demarcating - /dɪˈmɑːkeɪtɪŋ/ 경계를 긋는, 구분하는 (demarcate = 경계를 설정하다)
+gulf - /ɡʌlf/ 만(灣), 걸프 / (비유) 큰 격차, 심연 (a gulf between = ~사이의 큰 간극)
+sanitation - /ˌsænɪˈteɪʃn/ 위생, 위생 관리, 위생 시설 (sanitation practices = 위생 관리 방식)
+epidemics - /ˌepɪˈdemɪks/ 전염병의 유행들 (epidemic의 복수형 / epidemic = 특정 지역 유행 ↔ pandemic = 전 세계 유행)
+premises - /ˈpremɪsɪz/ 건물 및 부지, 구내 / on the premises = 구내에서 / (논리학) 전제들
+lamming - /ˈlæmɪŋ/ 마구 때리다, 공격하다 (구어체 / lam into = 마구 공격하다)
+slapped - /slæpt/ 뺨을 때렸다, 철썩 때렸다 (slap의 과거형)
+lavatory - /ˈlævətri/ 화장실, 변소 (영국식 / 격식체)
+deserve - /dɪˈzɜːv/ ~할 만하다, ~을 받을 자격이 있다
+abrasive - /əˈbreɪsɪv/ 거친, 신랄한, 사람을 불쾌하게 하는 (abrasive tone = 거친 말투)
+mock - /mɒk/ 조롱하다, 놀리다 / 가짜의, 모의의 (mock exam = 모의시험)
+cowardice - /ˈkaʊədɪs/ 비겁함, 비겁한 행동
+compliant - /kəmˈplaɪənt/ 순응하는, 고분고분한, 지시에 따르는
+racial vilification - /ˈreɪʃl ˌvɪlɪfɪˈkeɪʃn/ 인종적 비방, 인종차별적 욕설·비하
+receptive - /rɪˈseptɪv/ 수용적인, 상대의 의견을 기꺼이 받아들이는
+defensive - /dɪˈfensɪv/ 방어적인, 자기 행동을 정당화하려는
+immense - /ɪˈmens/ 엄청난, 거대한, 막대한 (immense pressure = 엄청난 압박)
+jar - /dʒɑː/ 병, 단지 (유리병) / 삐걱거리다, 불쾌하게 하다
+scavengings - /ˈskævɪndʒɪŋz/ 주워 모은 것들, 주워온 잡동사니
+chilled - /tʃɪld/ 차가워진, 냉랭한 / 겁먹은
+ragged - /ˈræɡɪd/ 낡은, 해진, 너덜너덜한 (ragged wings = 거친 날갯짓)
+arrogant - /ˈærəɡənt/ 오만한, 거만한
+abraded - /əˈbreɪdɪd/ 마모된, 닳은, 벗겨진 (abrade의 과거분사)
+grace - /ɡreɪs/ 은혜, 우아함, 은총 / 우아하게 하다
+whirl - /wɜːl/ 소용돌이, 정신없이 바쁘게 돌아가는 상황 / 빙글빙글 돌다
+amid a whirl - /əˈmɪd ə wɜːl/ 정신없이 이어지는 ~의 한가운데에 (amid a whirl of social engagements = 바쁜 사교 활동 속에)
+debilitating - /dɪˈbɪlɪteɪtɪŋ/ 심신을 약화시키는, 쇠약하게 만드는 (= weakening)
+spinal - /ˈspaɪnl/ 척추의, 척수의 (spinal cord = 척수 / spinal column = 척추)
+cord - /kɔːd/ 줄, 끈 / 척수 (spinal cord) / vocal cords = 성대
+contingency planning - /kənˈtɪndʒənsi ˈplænɪŋ/ 비상사태 대비 계획, 만일의 사태를 위한 계획
+flushed out - /flʌʃt aʊt/ 드러나게 하다, 끌어내다 (다른 사람의 발언·의견을 이끌어 내다)
+sensible - /ˈsensɪbl/ 합리적인, 분별 있는, 현명한
+dire - /ˈdaɪə/ 심각한, 끔찍한, 매우 나쁜 (dire consequences = 심각한 결과)
+cannabis - /ˈkænəbɪs/ 대마초, 대마
+anathema - /əˈnæθəmə/ 혐오의 대상, 절대 용납할 수 없는 것 (be anathema to = ~에게 용납 불가한)
+precipitation - /prɪˌsɪpɪˈteɪʃn/ 촉발, 유발 / 강수량 (precipitate = 촉발하다)
+schizophrenia - /ˌskɪtsəˈfriːniə/ 조현병 (정신분열증)
+prognosis - /prɒɡˈnəʊsɪs/ 예후, 병의 경과에 대한 전망 (↔ diagnosis = 진단)
+determination - /dɪˌtɜːmɪˈneɪʃn/ 결심, 결의, 의지
+pensioners - /ˈpenʃənəz/ 연금 수령자들, 연금 생활자들
+dissuade - /dɪˈsweɪd/ ~을 단념시키다, ~하지 못하도록 설득하다 (dissuade A from B)
+standstill - /ˈstændstɪl/ 정지 상태, 완전한 멈춤 (come to a standstill = 완전히 멈추다)
+feeble - /ˈfiːbl/ 허약한, 힘없는, 설득력 없는 (a feeble excuse = 설득력 없는 변명)
+thorny - /ˈθɔːni/ 가시가 많은 / (비유) 까다로운, 다루기 어려운
+shoot - /ʃuːt/ 새순, 싹 / 발사하다 / 촬영하다
+bearer - /ˈbeərə/ 전달자, 운반자 (bearer of news = 소식을 전하는 사람)
+rubbish - /ˈrʌbɪʃ/ 쓰레기, 잡동사니 / 헛소리 (구어)
+scalding - /ˈskɔːldɪŋ/ 데일 정도로 뜨거운 (scalding tea = 몹시 뜨거운 차)
+vehemence - /ˈviːəməns/ 격렬함, 격정, 열렬함
+huffed - /hʌft/ 씩씩거리다, 퉁명스럽게 반응하다 (huff의 과거형)
+wiry - /ˈwaɪəri/ 마르고 탄탄한, 잔근육이 있는
+spinach - /ˈspɪnɪtʃ/ 시금치
+dumb-cluck - /dʌm klʌk/ 바보, 멍청이 (구어체)
+plea - /pliː/ 간청, 애원, 호소 / (법) 항변
+clown - /klaʊn/ 광대, 익살꾼 / 우스꽝스러운 사람
+flopped - /flɒpt/ 털썩 주저앉았다 / 대실패했다 (flop의 과거형)
+dish-rag - /ˈdɪʃræɡ/ 행주, 설거지용 걸레 / (비유) 녹초가 된 상태
+unkempt - /ʌnˈkempt/ 손질되지 않은, 단정하지 않은
+catalyst - /ˈkætəlɪst/ 촉매, 기폭제 (a catalyst for change = 변화의 기폭제)
+circumspection - /ˌsɜːkəmˈspekʃn/ 신중함, 조심성 (act with circumspection = 신중하게 행동하다)
+submission - /səbˈmɪʃn/ 복종, 굴복, 제출 (submission to authority = 권위에 복종)
+untidiness - /ʌnˈtaɪdinəs/ 어수선함, 정돈되지 않은 상태
+step-brothers - /ˈstepˌbrʌðəz/ 의붓형제들 (부모의 재혼으로 형제가 된 사람)
+slovenliness - /ˈslʌvənlinəs/ 단정하지 못함, 지저분함, 부주의함 (= untidiness, messiness)
+dubious - /ˈdjuːbiəs/ 의심스러운, 미심쩍은, 수상한 (dubious claim = 미심쩍은 주장)
+techniques - /tekˈniːks/ 기술들, 기법들 (technique의 복수형)
+homoeopathy - /ˌhəʊmiˈɒpəθi/ 동종요법 (유사한 증상을 일으키는 물질로 치료한다는 대체의학)
+anecdotal - /ˌænɪkˈdəʊtl/ 일화에 근거한, 개인 경험에 의한 (anecdotal evidence = 개인 경험담에 근거한 증거)
+underpin - /ˌʌndəˈpɪn/ 뒷받침하다, 기초가 되다
+implausible - /ɪmˈplɔːzɪbl/ 믿기 어려운, 그럴듯하지 않은 (↔ plausible)
+osteoarthritis - /ˌɒstiəʊɑːˈθraɪtɪs/ 골관절염 (관절의 연골이 손상되는 질환)
+pelvic - /ˈpelvɪk/ 골반의 (pelvic region = 골반 부위)
+migraine - /ˈmiːɡreɪn/ 편두통 (심한 두통의 일종)
+sham - /ʃæm/ 가짜, 모조의 (sham treatment = 가짜 치료 / = pseudo)
+chiefly - /ˈtʃiːfli/ 주로, 대체로, 주된 이유로
+analgesic - /ˌænlˈdʒiːzɪk/ 진통제, 진통의 (통증을 줄이는 작용)
+lore - /lɔː/ 전승 지식, 전통적 지식 (오랫동안 전해 내려온 지식)
+pseudo - /ˈsjuːdəʊ/ 가짜의, 허위의 (pseudo-scientific = 유사과학적)
+regressive - /rɪˈɡresɪv/ 퇴행하는, 이전 상태로 돌아가는 (regressive fallacy = 퇴행의 오류)
+transitory - /ˈtrænzɪtri/ 일시적인, 덧없는, 잠시만 지속되는 (= transient)
+ramifications - /ˌræmɪfɪˈkeɪʃnz/ 파급 효과들, 결과들, 복잡한 영향 (the ramifications of = ~의 파급 결과)
+harass - /həˈræs/ 괴롭히다, 희롱하다 (harassment = 괴롭힘)
+immodest - /ɪˈmɒdɪst/ 정숙하지 못한, 노출이 심한, 뻔뻔한
+surreptitiously - /ˌsʌrəpˈtɪʃəsli/ 몰래, 은밀하게 (surreptitious보다 강한 몰래의 뉘앙스)
+midwives - /ˈmɪdwaɪvz/ 조산사들 (midwife의 복수형)
+breastfeeding - /ˈbrestfiːdɪŋ/ 모유 수유
+tabloids - /ˈtæblɔɪdz/ 타블로이드 신문들, 선정적인 대중지들
+fuss - /fʌs/ 소란, 야단, 호들갑 (make a fuss = 호들갑 떨다)
+glimpse - /ɡlɪmps/ 흘끗 봄, 얼핏 봄 (catch a glimpse of = 얼핏 보다)
+nipple - /ˈnɪpl/ 젖꼭지, 유두
+discreetly - /dɪˈskriːtli/ 신중하게, 눈에 띄지 않게 (↔ surreptitiously = 더 몰래)
+trotted out - /ˈtrɒtɪd aʊt/ 뻔한 주장을 또 내세우다, 진부하게 되풀이하다
+knack - /næk/ 요령, 비결, 솜씨 (have a knack for = ~에 요령이 있다)
+shove - /ʃʌv/ 세게 밀어 넣다, 쑤셔 넣다 / 거칠게 밀치다
+rehearse - /rɪˈhɜːs/ 연습하다, 리허설하다 / (비유) 되풀이해서 말하다, 상기하다
+rake - /reɪk/ 갈퀴로 긁다, 긁어모으다 / 갈퀴
+combs - /kəʊmz/ 빗질하다, 샅샅이 훑다 (comb의 3인칭 단수 / comb the earth = 지구를 샅샅이 훑다)
+skims - /skɪmz/ 표면을 스치다, 얕게 지나가다, 훑어보다 (skim의 3인칭 단수)
+anthology - /ænˈθɒlədʒi/ 선집, 문집 (여러 작가의 작품을 모은 책)
+rakish - /ˈreɪkɪʃ/ 방탕한, 불량한, 파격적인
+wonderously - /ˈwʌndrəsli/ 놀랍도록, 경이롭게 (= wondrously)
+burgeoning - /ˈbɜːdʒənɪŋ/ 급성장하는, 급격히 늘어나는
+unworn - /ʌnˈwɔːn/ 닳지 않은, 착용하지 않은, 훼손되지 않은
+mourn - /mɔːn/ 애도하다, 슬퍼하다, 비통해하다 (mourn its passing = 그것의 소멸을 애도하다)
+culprits - /ˈkʌlprɪts/ 범인들, 원인 제공자들 (culprit의 복수형 / the culprit = 주범, 원인)
+gripped - /ɡrɪpt/ 사로잡힌, 꽉 쥔 (grip의 과거형 / gripped by fear = 공포에 사로잡힌)
+freckled - /ˈfrekld/ 주근깨가 있는
+for granted - /fə ˈɡrɑːntɪd/ 당연하게 여기는 (take A for granted = A를 당연하게 여기다)
+skimming - /ˈskɪmɪŋ/ 표면을 스치듯 지나가는, 가볍게 미끄러지는
+brittle - /ˈbrɪtl/ 부서지기 쉬운, 깨지기 쉬운 / (비유) 섬세하고 날카로운
+scrutinised - /ˈskruːtɪnaɪzd/ 면밀히 살펴보았다, 정밀하게 조사했다 (scrutinise의 과거형)
+barred - /bɑːd/ 출입을 막았다, 차단된 (bar의 과거형)
+commissionaire - /kəˌmɪʃəˈneə/ 건물 입구의 안내원, 경비원, 문지기
+trudge - /trʌdʒ/ 무겁고 힘든 걸음으로 걷다, 터벅터벅 걷다
+disfigurements - /dɪsˈfɪɡəmənts/ 외모를 손상시키는 흉터·기형·결함
+unscathed - /ʌnˈskeɪðd/ 다치지 않은, 손상되지 않은, 무사한
+stratified - /ˈstrætɪfaɪd/ 계층화된, 층을 이룬 (stratified society = 계층화된 사회)
+subsets - /ˈsʌbsets/ 하위 집합들, 부분집합들 (subset의 복수형 / subsets of physicalism = 물리주의의 하위 유형들)
+ward - /wɔːd/ 병동, 구역 / 피후견인 / ward off = 막다, 피하다 (hospital ward = 병원 병동)
+deemed - /diːmd/ 간주된, 여겨진 (deem의 과거분사 / be deemed necessary = 필요하다고 여겨지다)
+laudable - /ˈlɔːdəbl/ 칭찬할 만한, 훌륭한 (= praiseworthy)
+contravenes - /ˌkɒntrəˈviːnz/ 위반하다, 어기다 (= violate / contravene the rules = 규칙을 위반하다)
+glaring - /ˈɡleərɪŋ/ 명백한, 두드러진, 눈에 띄는 (a glaring gap = 매우 명백한 격차)
+havoc - /ˈhævək/ 대혼란, 큰 피해, 파괴 (create havoc = 대혼란을 초래하다)
+discrepancy - /dɪˈskrepənsi/ 불일치, 차이, 모순, 괴리 (a discrepancy between A and B = A와 B 사이의 불일치)
+ovulation - /ˌɒvjuˈleɪʃn/ 배란 (생리 주기 중 난자가 방출되는 과정)
+abalone - /ˌæbəˈləʊni/ 전복 (해산물)
+anaesthetists - /əˈniːsθətɪsts/ 마취과 의사들 (anaesthetist의 복수형)
+luteinising - /ˈluːtɪɪnaɪzɪŋ/ 황체형성의 (luteinising hormone = 황체형성호르몬 LH)
+beget - /bɪˈɡet/ 자손을 낳다, 후손을 만들다 / (비유) 야기하다
+irrefutably - /ɪˈrefjʊtəbli/ 반박할 수 없을 정도로, 명백하게
+maternal - /məˈtɜːnl/ 어머니의, 모성의 (maternal instinct = 모성 본능)
+pre-implantation - /priːˌɪmplænˈteɪʃn/ 착상 전의 (pre-implantation genetic diagnosis = 착상 전 유전 진단)
+trousers - /ˈtraʊzəz/ 바지 (영국식 / 미국식: pants)
+embroidered - /ɪmˈbrɔɪdəd/ 수놓은, 자수가 놓인
+unconscious - /ʌnˈkɒnʃəs/ 무의식적인, 의식이 없는 (unconscious bows = 무의식적으로 하는 인사)
+reeking - /ˈriːkɪŋ/ 악취가 진동하는 (reek of = ~의 악취가 나다)
+hum - /hʌm/ 웅성거리는 소리, 윙윙거림 / 콧노래하다
+heaving gulps - /ˈhiːvɪŋ ɡʌlps/ 크게 헐떡이며 삼키는 것, 힘겹게 들이켜는 숨
+suffocation - /ˌsʌfəˈkeɪʃn/ 질식, 숨 막힘
+grins - /ɡrɪnz/ 활짝 웃음, 이를 드러내며 웃다 (grin의 3인칭 단수)
+beggared - /ˈbeɡəd/ 가난하게 만들었다, 빈털터리로 만들었다 (beggar의 과거형)
+crouched - /kraʊtʃt/ 쭈그리고 앉은, 웅크린 (crouch의 과거형)
+dementedly - /dɪˈmentɪdli/ 미친 듯이, 제정신이 아닌 듯이
+filthy - /ˈfɪlθi/ 매우 더러운, 불결한 (filthy clothes = 몹시 더러운 옷)
+decrepit - /dɪˈkrepɪt/ 노후한, 낡아서 허물어질 듯한
+slimy - /ˈslaɪmi/ 미끈거리는, 점액으로 뒤덮인
+gutters - /ˈɡʌtəz/ 배수로들, 도랑들 (gutter의 복수형)
+buffeted - /ˈbʌfɪtɪd/ 세차게 맞은, 이리저리 휘둘린 (buffet의 과거분사)
+lunatic - /ˈluːnətɪk/ 미치광이, 정신 나간 사람 / 미친 듯한
+disreputable - /dɪsˈrepjʊtəbl/ 평판이 나쁜, 불명예스러운
+effusive - /ɪˈfjuːsɪv/ 감정을 지나치게 드러내는, 감정 표현이 넘치는
+squalor - /ˈskwɒlə/ 비참하고 비위생적인 생활 환경, 극심한 불결함
+undaunted - /ʌnˈdɔːntɪd/ 굴하지 않는, 위축되지 않는
