@@ -1920,3 +1920,36 @@ disreputable - /dɪsˈrepjʊtəbl/ 평판이 나쁜, 불명예스러운
 effusive - /ɪˈfjuːsɪv/ 감정을 지나치게 드러내는, 감정 표현이 넘치는
 squalor - /ˈskwɒlə/ 비참하고 비위생적인 생활 환경, 극심한 불결함
 undaunted - /ʌnˈdɔːntɪd/ 굴하지 않는, 위축되지 않는
+pluralistic - /ˌplʊərəˈlɪstɪk/ 다원주의적인, 다원적인 (pluralistic approach = 다원주의적 접근법)
+exemplary - /ɪɡˈzempləri/ 모범적인, 전형적인, 본보기가 되는
+multi-faceted - /ˌmʌltiˈfæsɪtɪd/ 다면적인, 여러 측면을 가진 (= complex but with distinct aspects)
+patronising - /ˈpætrənaɪzɪŋ/ 잘난 체하는, 상대를 깔보는 듯한 (미국식: patronizing)
+cringe - /krɪndʒ/ 움츠러들다, 민망해하다, 몸서리치다
+stakes - /steɪks/ 이해관계, 걸려 있는 문제·위험 (the stakes are high = 걸려 있는 것이 크다)
+blanket - /ˈblæŋkɪt/ 포괄적인, 전반적인 / 담요 (blanket ban = 전면적인 금지)
+arduous - /ˈɑːdjuəs/ 힘든, 고된, 하기 어려운 (an arduous task = 고된 과업)
+vexed - /vekst/ 골치 아픈, 까다로운, 논쟁적인 (a vexed issue = 해결하기 어려운 쟁점)
+scoff - /skɒf/ 비웃다, 조롱하다 (scoff at = ~을 비웃다)
+habitus - /ˈhæbɪtəs/ 아비투스 (사회적 경험을 통해 형성된 사고·행동·취향의 체계 / 부르디외 개념)
+mighty - /ˈmaɪti/ 강력한, 거대한, 웅장한 (mighty mountains = 웅장한 산맥)
+dimly - /ˈdɪmli/ 희미하게, 어렴풋이 (dimly visible = 희미하게 보이는)
+obsequies - /ˈɒbsɪkwiz/ 장례식, 장례 의식 (장례 전체의 의식)
+adorn - /əˈdɔːn/ 장식하다, 꾸미다 (adorn a museum = 박물관을 장식하다)
+bid farewell - /bɪd ˈfeəˈwel/ 작별을 고하다 (bid farewell to = ~에게 작별 인사를 하다)
+annals - /ˈænlz/ 연대기, 역사 기록 (in the annals of history = 역사의 기록에서)
+brought forth - /brɔːt fɔːθ/ 낳다, 생겨나게 하다, 탄생시키다
+consecrate - /ˈkɒnsɪkreɪt/ 신성하게 하다, 봉헌하다 (consecrate ground = 땅을 신성하게 하다)
+hallow - /ˈhæləʊ/ 신성하게 하다, 성스럽게 하다 (= consecrate)
+detract - /dɪˈtrækt/ 가치를 떨어뜨리다, 훼손하다 (detract from = ~의 가치를 손상시키다)
+perish - /ˈperɪʃ/ 죽다, 소멸하다 (비극적·엄숙한 뉘앙스 / = die tragically)
+adulation - /ˌædjʊˈleɪʃn/ 맹목적인 찬양, 열광적인 숭배
+glorifies - /ˈɡlɔːrɪfaɪz/ 미화하다, 영광스럽게 하다 (glorify의 3인칭 단수)
+exhorts - /ɪɡˈzɔːts/ 강력히 권고하다, 촉구하다 (exhort A to do = A에게 ~하도록 강력히 촉구하다)
+serfs - /sɜːfs/ 농노들 (serf의 복수형 / 중세 봉건제하의 토지에 예속된 농민)
+anomalous - /əˈnɒmələs/ 변칙적인, 이례적인, 정상에서 벗어난 (an anomalous result = 이례적인 결과)
+frowns - /fraʊnz/ 얼굴을 찌푸리다, 눈살을 찌푸리다 (frown의 3인칭 단수)
+seagull - /ˈsiːɡʌl/ 갈매기
+scavenging - /ˈskævɪndʒɪŋ/ 먹이를 찾아 뒤지다, 뒤져서 먹을 것을 찾다
+wisp - /wɪsp/ 가느다란 조각, 한 줄기, 작은 다발 (a wisp of smoke = 가느다란 연기 한 줄기)
+pitiless - /ˈpɪtiləs/ 무자비한, 가차 없는, 인정 없는 (= merciless)
+solicitous - /səˈlɪsɪtəs/ 세심하게 걱정하는, 배려하는, 염려하는 (단순한 친절 이상의 세심한 배려)
