@@ -1953,3 +1953,74 @@ scavenging - /ˈskævɪndʒɪŋ/ 먹이를 찾아 뒤지다, 뒤져서 먹을 �
 wisp - /wɪsp/ 가느다란 조각, 한 줄기, 작은 다발 (a wisp of smoke = 가느다란 연기 한 줄기)
 pitiless - /ˈpɪtiləs/ 무자비한, 가차 없는, 인정 없는 (= merciless)
 solicitous - /səˈlɪsɪtəs/ 세심하게 걱정하는, 배려하는, 염려하는 (단순한 친절 이상의 세심한 배려)
+molluscs - /ˈmɒləsks/ 연체동물들 (mollusc의 복수형 / 달팽이·조개·오징어 등 / 미국식: mollusks)
+crustaceans - /krʌˈsteɪʃənz/ 갑각류들 (crustacean의 복수형 / 게·새우·가재 등)
+empathise - /ˈempəθaɪz/ 공감하다, 감정이입하다 (empathise with = ~에게 공감하다 / 미국식: empathize / ↔ sympathise = 동정하다)
+exude - /ɪɡˈzjuːd/ 발산하다, 풍기다, 드러내다 (exude confidence = 자신감이 넘치다)
+vilifies - /ˈvɪlɪfaɪz/ 비난하다, 매도하다, 악인으로 몰다 (vilify의 3인칭 단수 / ↔ glorify)
+glorify - /ˈɡlɔːrɪfaɪ/ 미화하다, 찬양하다, 영웅시하다 (↔ vilify = 매도하다)
+vilify - /ˈvɪlɪfaɪ/ 비방하다, 악인으로 몰다 (↔ glorify = 찬양하다)
+vicious - /ˈvɪʃəs/ 악랄한, 잔인한, 포악한 (a vicious attack = 잔인한 공격 / vicious circle = 악순환)
+ejected - /ɪˈdʒektɪd/ 쫓겨난, 내던져진, 튕겨 나온 (eject의 과거분사)
+obedient - /əˈbiːdiənt/ 순종하는, 고분고분한 (obedient to = ~에게 순종하는)
+exasperation - /ɪɡˌzæspəˈreɪʃn/ 격분, 몹시 짜증이 남 (an exasperation to = ~를 몹시 짜증 나게 하는 존재)
+assault - /əˈsɔːlt/ 폭행, 공격 / 폭행하다 (assault on = ~에 대한 폭행)
+interrogation - /ɪnˌterəˈɡeɪʃn/ 심문, 취조
+break loose - /breɪk luːs/ 풀려나다, 벗어나다
+trussed up - /trʌst ʌp/ 꽁꽁 묶인, 결박된
+mutilated - /ˈmjuːtɪleɪtɪd/ 심하게 훼손된, 절단된 (mutilate의 과거분사)
+rubble - /ˈrʌbl/ 잔해, 돌무더기 (건물이 무너진 뒤의 파편)
+weeds - /wiːdz/ 잡초 (weed의 복수형)
+captors - /ˈkæptəz/ 포획자들, 붙잡은 사람들 (captor의 복수형)
+atrocities - /əˈtrɒsətiz/ 잔혹 행위들, 만행들 (atrocity의 복수형)
+combatants - /ˈkɒmbətənts/ 전투원들, 교전 당사자들 (combatant의 복수형)
+ported - /ˈpɔːtɪd/ 이식된, 옮겨진 (port의 과거분사 / 소프트웨어·시스템을 다른 환경으로 옮긴) / (고어) 운반된
+astute - /əˈstjuːt/ 영리한, 빈틈없는, 통찰력 있는
+androgynous - /ænˈdrɒdʒɪnəs/ 남녀 양성의, 중성적인
+atemporal - /eɪˈtempərəl/ 시간과 무관한, 시간의 제약을 받지 않는
+ilk - /ɪlk/ 종류, 부류 (of that ilk = 그런 부류의 / 주로 부정적 뉘앙스)
+inexplicable - /ˌɪnɪkˈsplɪkəbl/ 설명할 수 없는, 불가해한
+gust - /ɡʌst/ 돌풍, 갑작스러운 분출 (a gust of sadness = 슬픔이 갑자기 밀려옴)
+oblique - /əˈbliːk/ 간접적인, 비스듬한, 모호한 (an oblique reference = 간접적인 언급)
+subjunctive - /səbˈdʒʌŋktɪv/ 가정법의, 가정적인 (the subjunctive mood = 가정법)
+ajar - /əˈdʒɑː/ 약간 열린, 살짝 열린 (the door is ajar = 문이 살짝 열려 있다)
+crawl - /krɔːl/ 기어가다, 느리게 움직이다
+chrysalis - /ˈkrɪsəlɪs/ 번데기, 변태의 준비 단계
+apprehend - /ˌæprɪˈhend/ 이해하다, 파악하다 / 체포하다
+symposium - /sɪmˈpəʊziəm/ 심포지엄, 학술 토론회
+rigged - /rɪɡd/ 조작된, 부정하게 짜인 / 장비가 설치된 (a rigged election = 조작된 선거)
+bud - /bʌd/ 싹, 꽃봉오리 / 새로 생겨나는 것 (in the bud = 초기 단계에서)
+improvisation - /ˌɪmprəvaɪˈzeɪʃn/ 즉흥 연주, 즉흥적인 행동
+enunciate - /ɪˈnʌnsieɪt/ (말을) 명확하게 발음하다, 분명히 표현하다
+distempered - /dɪsˈtempəd/ 병든, 불안정한, 비정상적인 (distempered part = 병든 부분)
+plies - /plaɪz/ (도구를) 능숙하게 다루다 / (배·차가) 정기적으로 운행하다 (ply의 3인칭 단수)
+enigma - /ɪˈnɪɡmə/ 수수께끼, 불가사의한 것 (enigmatic = 수수께끼 같은)
+laminated - /ˈlæmɪneɪtɪd/ 얇은 막으로 코팅된, 여러 겹으로 이루어진 (laminated card = 코팅된 카드 / laminate = 얇은 판을 겹쳐 만들다)
+appraisal - /əˈpreɪzl/ 평가, 감정, 판단 (performance appraisal = 업무 평가)
+prudent appraisal - /ˈpruːdnt əˈpreɪzl/ 신중한 평가, 사려 깊은 판단 (prudent = 신중한)
+draw on - /drɔː ɒn/ ~을 활용하다, 이용하다 / ~에 의존하다, 도움을 얻다 / ~을 끌어오다, 인용하다 (draw on experience = 경험을 활용하다)
+culminates - /ˈkʌlmɪneɪts/ 절정에 이르다, 정점에 도달하다 (culminate in = 결국 ~로 귀결되다)
+enmeshed - /ɪnˈmeʃt/ 얽혀 있는, 뒤얽힌 (enmeshed in = ~에 깊이 연루된)
+Marxism - /ˈmɑːksɪzəm/ 마르크스주의 (마르크스의 사상에 기반한 사회·경제 이론)
+Weberian - /veɪˈbɪəriən/ 베버의, 베버주의의 (사회학자 막스 베버의 사상과 관련된)
+relinquish - /rɪˈlɪŋkwɪʃ/ 포기하다, 양도하다, 내려놓다 (relinquish control = 통제권을 내려놓다)
+considerations - /kənˌsɪdəˈreɪʃnz/ 고려 사항들, 관점, 측면 (consideration의 복수형 / take into consideration = 고려하다)
+parsimonious - /ˌpɑːsɪˈməʊniəs/ 인색한, 돈이나 자원을 지나치게 아끼는 (a parsimonious disposition = 인색한 성격)
+parsimony - /ˈpɑːsɪməni/ 인색함, 극도의 절약
+affectation - /ˌæfekˈteɪʃn/ 가장, 짐짓 꾸민 태도, 허세 (자신의 특징을 과시하듯 드러내는 것)
+affectedly - /əˈfektɪdli/ 짐짓 꾸며서, 가식적으로
+idiosyncratic - /ˌɪdiəsɪŋˈkrætɪk/ 특이한, 그 사람(집단) 특유의 (idiosyncratic sense of humour = 독특한 유머 감각)
+idiosyncrasy - /ˌɪdiəˈsɪŋkrəsi/ 특이한 성향, 기질, 개인 특유의 표현 방식
+pedantic - /pɪˈdæntɪk/ 학자인 체하는, 지나치게 형식·세부에 얽매이는
+pedantry - /ˈpedntri/ 현학적 태도, 지나친 형식주의
+ideological - /ˌaɪdiəˈlɒdʒɪkl/ 이념적인, 이데올로기의 (추상적 사상·신념에 이끌리는)
+ambivalence - /æmˈbɪvələns/ 양가감정, 상반된 감정이 공존하는 상태 (ambivalent = 양가적인)
+allegorical - /ˌæləˈɡɒrɪkl/ 우화적인, 풍유적인 (비유적 이야기로 의미를 전달하는)
+allegory - /ˈæləɡəri/ 우화, 풍유 (이야기를 통해 다른 뜻을 전하는 표현 방식)
+irony - /ˈaɪrəni/ 반어법, 아이러니 (의도한 뜻이 표현과 반대인 것 / ironic = 반어적인)
+altruistic - /ˌæltruˈɪstɪk/ 이타적인 (altruism = 이타주의 ↔ egoism, selfishness)
+pragmatism - /ˈpræɡmətɪzəm/ 실용주의, 현실적인 접근 (pragmatic = 실용적인)
+magnanimity - /ˌmæɡnəˈnɪməti/ 관대함, 아량, 도량 (사소한 원한을 초월하는 너그러움)
+pretentious - /prɪˈtenʃəs/ 허세 부리는, 잘난 체하는, 가식적인
+pretentiousness - /prɪˈtenʃəsnəs/ 허세, 가식, 과시욕 (부당하게 가치·중요성을 주장함)
+mannequins - /ˈmænɪkɪnz/ 마네킹들 (mannequin의 복수형 / 옷을 입혀 진열하는 인체 모형)
